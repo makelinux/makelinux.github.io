@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<title>Interactive map of Linux kernel</title>
+		<link rel="shortcut icon" href="el.ico">
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+		<style>
+			body {font-family:arial,sans-serif}
+			a { color: black; text-decoration: none }
+			a:visited { color: #002200; text-decoration: none }
+			a:hover { text-decoration: underline }
+			.preface { font-size:small}
+		</style>
+	</head> 
+	<body  >
+		<div align=center>
+			<a  href=/kernel_map>
+			<div id=header style="font-size:xx-large; font-weight:bold">
+				Interactive map of Linux kernel
+			</div>
+			</a>
+			<img onclick="window.location.href='/kernel_map'+document.location.search" width=513 height=384 src="http://www.makelinux.net/kernel_map/LKM63_512.png">
+			<img onclick="window.location.href='/kernel_map'+document.location.search" width=512 height=384 src="http://www.makelinux.net/kernel_map/LKM63_zoom.png">
+			<br>
+			<table cellspacing=10 width=80%>
+			<tr>
+			<td width=50%>
+			<div class=preface>
+The interactive Linux kernel map helps you traverse complex
+interconnections between subsystems of the kernel while you explore
+its source code. A Linux hacker, trying to track down a bug or just
+understand how some subsystem works, can get exhausted just trying to
+figure out what invokes what — so the kernel map comes to the rescue!
+</div>
+</td>
+<td width=50%>
+<div class=preface>
+The map depicts over 400 prominent functions and structures divided
+into major subsystems. You can zoom in on any function and move about
+the functions graphically. The relationships among all functions are
+shown through connecting lines, and clicking on any function takes you
+to source code in the Linux Cross Reference and the collection of
+Linux kernel documentation.
+</div>
+</td>
+</tr>
+</table>
+			<button onclick="window.location.href='/kernel_map'">
+				<font size=+2><b>browse the map!</b></font>
+			</button>
+		</div>
+	</body>
+</html>
+<script type=text/javascript>
+	var traceimg= new Image();
+	traceimg.src="http://const.homelinux.net/1.png?intro&REF="+top.document.referrer
+</script>
+
+	<!--
+	<table border=0 cellspacing=10 >
+		<tr valign=top>
+			<td rowspan=2>
+			</td>
+			<td align=center width=width=512 height=384>
+			</td>
+		</tr>
+		<tr >
+			<td valign=top>
+				<font size=+0>
+					<a href="http://lxr.free-electrons.com/source/fs/open.c#L1047" target=lxr>
+						asmlinkage long <br><b>sys_open</b><font size=-1>(const char *filename, int flags, int mode)</font></a><br>{<br>}
+				</td>
+			</tr>
+		</table>
+		-->
