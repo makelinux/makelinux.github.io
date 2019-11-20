@@ -366,10 +366,10 @@ function area_add(t,l,x,y,x1,y1)
 	idmap.appendChild(a);
 }
 
-function ah(id,x,y,w,h) { area_add(id,"http://lxr.free-electrons.com/source/include/"+id,x,y,x+w,y+h); }
-function as(id,x,y,w,h) { area_add(id,"http://lxr.free-electrons.com/source/"+id,x,y,x+w,y+h); }
+function ah(id,x,y,w,h) { area_add(id,"https://elixir.bootlin.com/linux/latest/source/include/"+id,x,y,x+w,y+h); }
+function as(id,x,y,w,h) { area_add(id,"https://elixir.bootlin.com/linux/latest/source/"+id,x,y,x+w,y+h); }
 function ai(id,x,y,w,h) { 
-	area_add(id,"http://lxr.free-electrons.com/ident?i="+id,x,y,x+w,y+h);
+	area_add(id,"https://elixir.bootlin.com/linux/latest/ident/"+id,x,y,x+w,y+h);
 	//trace("click","c="+x+','+y+','+x+w+','+y+h)
 }
 function au(url,x,y,w,h) { 
