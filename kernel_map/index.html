@@ -261,7 +261,7 @@ function image_load_finished()
 	lkmi.ondblclick=function (){ zoom(4);};
 	map_init();
 	map_home();
-	traceimg.src="http://const.homelinux.net/1.png?status=LOADED&t="+uptime();
+	//traceimg.src="http://const.homelinux.net/1.png?status=LOADED&t="+uptime();
 	lkmi.style.cursor='default';
 	document.body.style.cursor='default';
 }
@@ -284,7 +284,7 @@ addLoadEvent(  function(e) {
 
 window.onunload = function() { 
 	//	trace("log","unload&n="+loadn); 
-	traceimg.src="http://const.homelinux.net/1.png?status=unload&t="+uptime()+"&act="+actions;
+	//traceimg.src="http://const.homelinux.net/1.png?status=unload&t="+uptime()+"&act="+actions;
 }
 	</script>
 </body>
