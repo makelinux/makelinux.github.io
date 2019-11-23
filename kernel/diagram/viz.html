@@ -24,7 +24,7 @@ async function reader_load(r)
 }
 async function data_load1(url)
 {
-var data = ""
+	data = ""
 	let f = await fetch(url);
 	reader_load(f.body.getReader())
 }
@@ -32,7 +32,7 @@ var data = ""
 </script>
 
 <script>
-	d3.select("#graph").graphviz() .fade(false).renderDot(dot.textContent);
+	//d3.select("#graph").graphviz() .fade(false).renderDot(dot.textContent);
 	data_load1('Linux_kernel_diagram.dot')
 	//d3.select("#graph").graphviz() .fade(false).renderDot('digraph  {a -> b}');
 </script>
