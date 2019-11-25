@@ -5,3 +5,5 @@
 <script src='https://unpkg.com/panzoom@8.4.0/dist/panzoom.min.js' query='#graph0' name='pz'></script>
 <style> svg { height:100%; width:100%; } </style>
 {% include_relative Linux_kernel_diagram.svg %}
+<a href=http://makelinux.wordpress.com/2009/01/04/linux-kernel-diagram/>comments</a><br>
+<a href=https://github.com/makelinux/linux_kernel_map/blob/master/Linux_kernel_diagram.dot>graphviz source</a><br>
