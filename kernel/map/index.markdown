@@ -53,7 +53,7 @@
 	      <a class="hide" href="http://www.facebook.com/pages/Interactive-Linux-Kernel-Map/115958886534">facebook<br></a>
 	      <a href="http://www.facebook.com/group.php?gid=47756059229">join FB group<br></a>
 	      #include virtual="../style/facebook.shtml" --> <br>
-	      <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=200&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:300px;" allowTransparency="true"></iframe>
+	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=200&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:300px;" allowTransparency="true"></iframe>
 	      <br>
 	      <!-- <a href="http://www.facebook.com/group.php?gid=47756059229">facebook goup</a> <br> -->
 	      <!--<a target="_top" href="http://www.makelinux.net/system/">GNU/Linux map</a><br>-->
