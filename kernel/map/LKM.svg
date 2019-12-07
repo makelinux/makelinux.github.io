@@ -476,7 +476,7 @@
             <dc:title>© 2007, 2010 Constantine Shulyupin </dc:title>
           </cc:Agent>
         </dc:rights>
-        <dc:source>www.MakeLinux.net/kernel_map</dc:source>
+        <dc:source>www.MakeLinux.net/kernel/map</dc:source>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -974,7 +974,7 @@
       </text>
       <a
          id="a3726"
-         xlink:href="http://www.makelinux.net/kernel_map"
+         xlink:href="http://www.makelinux.net/kernel/map"
          target="_main"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
          transform="matrix(1.3170732,0,0,1.3170732,26.060427,14.943446)">
@@ -3523,7 +3523,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">copy_from_user</tspan>
       </text>
       <a
-         xlink:href="www.MakeLinux.net/kernel_map"
+         xlink:href="www.MakeLinux.net/kernel/map"
          transform="matrix(1.3170732,0,0,1.3170732,27.62694,13.170732)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="a25092">
@@ -3537,7 +3537,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans"
              id="tspan3076"
              y="1195.4624"
-             x="799.37378">© 2007, 2010 Constantine Shulyupin www.MakeLinux.net/kernel_map</tspan>
+             x="799.37378">© 2007, 2010 Constantine Shulyupin www.MakeLinux.net/kernel/map</tspan>
         </text>
       </a>
       <text
