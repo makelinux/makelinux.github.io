@@ -171,18 +171,6 @@ el('status2').style.display='';
 			</td>
 		</tr>
 	</table>
-	<table align="left" cellspacing="5" border="0" style="left:0;top:0;position:absolute" bgcolor="#ffffcc" >
-		<tr>
-			<td>
-				<a id="poster" class="poster" href="poster" target="_top">
-					<!--Hard Copy -->
-		Get it as a poster!
-		<!-- Wall poster<br> 24x18 inch -->
-				</a>
-				<!-- #include virtual="poll.shtml" -->
-</td>
-		</tr>
-	</table>
 	<script type="text/javascript"> 
 		var loadn="0;"
 
