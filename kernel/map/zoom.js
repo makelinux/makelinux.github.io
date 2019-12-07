@@ -123,9 +123,9 @@ function image_size_get(size)
 {
 	log("image_size_get " + size);
 	var def = lkmi.src;
-	
-	for (var si in sizes) { 
-		if ( img2[si] && size <= sizes[si] ) 
+
+	for (var si in sizes) {
+		if ( img2[si] && size <= sizes[si] )
 			return img2[si].src;
 	}
 	log("image_size_get si=" + si);
@@ -137,10 +137,10 @@ function image_size_get(size)
 
 function img2_set(e)
 {
-	for (var si in sizes) { 
+	for (var si in sizes) {
 		var size = sizes[si];
 		if ( ! img2[si] ) {
-			img2[si] = new Image(); 
+			img2[si] = new Image();
 			img2[si].src = lkmi.src.replace("512",size);
 			img2[si].onerror = function () {trace("error","m="+this.src);};
 		}
@@ -152,11 +152,11 @@ function image_load_next(e)
 	log("image_load_next");
 	log("event " + e);
 	log("this " + this + " " + (this?this.src:""));
-	for (var si in sizes) { 
+	for (var si in sizes) {
 		var size = sizes[si];
 		if ( ! img2[si] ) {
 			log("loading " + size);
-			img2[si] = new Image(); 
+			img2[si] = new Image();
 			img2[si].src = lkmi.src.replace("512",size);
 			img2[si].onerror = function () {trace("error","m="+this.src);};
 			if ( img2[si].src == lkmi.src )
@@ -190,41 +190,10 @@ function zoom_width(w)
 		lkmi.style.top = lkmi_pos.y + o1.y - m*o1.y;
 		lkmi.style.left = lkmi_pos.x + o1.x - m*o1.x;
 	}
-	var tmp = image_size_get(w); 
-	log("zoom_width: lkmi.src " + lkmi.src + " -> " + tmp + " w="+w);
-	lkmi.src = tmp; 
 	lkmi.width = lkmi_width = w;
 	lkmi.height = w * 384 / 512;
 	return w;
 }
-/* 
-function zoomw( w , m)
-{	
-	log("zoomw(" + w + ","+m+")");
-	if ( scale_timer ) clearTimeout(scale_timer);
-	var lkmi_pos    = getPosition(lkmi);
-	var mouse_pos = mousePos_get();
-	if ( mouse_pos ) {
-		//log(mouse_pos.x+" "+mouse_pos.y);
-		o1= {x:mouse_pos.x - lkmi_pos.x, y:mouse_pos.y - lkmi_pos.y};
-		lkmi.style.position = 'absolute';
-		lkmi.style.top = lkmi_pos.y + o1.y - m*o1.y;
-		lkmi.style.left = lkmi_pos.x + o1.x - m*o1.x;
-	}
-	var tmp = image_size_get(w); 
-	log("zoomw: lkmi.src " + lkmi.src + " -> " + tmp + " w="+w);
-	lkmi.src = tmp; 
-	lkmi.width = w;
-	lkmi.height = w * 384 / 512;
-	//log(" " + w + lkmi.src);
-	//log("zoomw " + lkmi.width);
-	lkmi_width=w;
-	//var sip    = getPosition(document.getElementById("si"));
-	//rectangle(sirl,sirt,sirr,sirb, sip.x ,sip.y , sip.x + 100, sip.y + 100);
-	scale_timer = setTimeout("scale()",500);
-	return w;
-}
-*/
 
 function r(w,h)
 {
@@ -263,8 +232,8 @@ function zoom( delta )
 	w=r(w,1024);
 	w=r(w,2048);
 	w=r(w,2*2048);
-	if (  w > 2*1024 ) w = 2*1024;
-	if (  w < 512 ) w = 512;
+	if ( w > 100*1024 ) w = 100*1024;
+	if ( w < 512 ) w = 512;
 	zoom_width(w);
 	schedule_scale();
 	return w;
@@ -493,7 +462,7 @@ function map_macro()
 {
 	//document.getElementById('status2').style.display='';
 	mousePos={x:wnd.x/2,y:wnd.y/2};
-	zoom_width(4096);
+	zoom_width(8*4096);
 	scale();
 	/*lkmi.style.position = 'absolute';
 	lkmi.style.top = 0;
@@ -520,7 +489,7 @@ function map_home()
 	//var dw = document.getElementById("dashboard").style.width;
 	dw=50;
 	//log(el('header').height);
-	zoom_width(( wnd.y   )* 2048/1536);
+	zoom_width((wnd.y)* 2048/1536);
 	lkmi.style.position = 'absolute';
 	lkmi.style.top = 0;
 	//lkmi.style.left = (winW - lkmi.width)/2;
