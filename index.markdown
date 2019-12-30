@@ -7,3 +7,5 @@ layout: home
 ## MakeLinux resourcs
 
 [kernel](kernel)
+
+[github](https://github.com/makelinux)
