@@ -17,8 +17,11 @@
 <!-- system -->
 <g id="node2" class="node">
 <title>system</title>
+<g id="a_node2"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/System" xlink:title="system">
 <polygon fill="white" stroke="#e27dd6" stroke-width="5" points="374,-719 230,-719 230,-676 374,-676 374,-719"/>
 <text text-anchor="middle" x="302" y="-691.3" font-family="Ubuntu" font-size="24.00">system</text>
+</a>
+</g>
 </g>
 <!-- system&#45;&gt;system_ -->
 <g id="edge1" class="edge">
@@ -29,15 +32,18 @@
 <!-- networking -->
 <g id="node10" class="node">
 <title>networking</title>
+<g id="a_node10"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Networking" xlink:title="networking">
 <polygon fill="white" stroke="#61c2c5" stroke-width="5" points="559,-719 415,-719 415,-676 559,-676 559,-719"/>
 <text text-anchor="middle" x="487" y="-691.3" font-family="Ubuntu" font-size="24.00">networking</text>
+</a>
+</g>
 </g>
 <!-- system&#45;&gt;networking -->
 <!-- sysfs -->
 <g id="node4" class="node">
 <title>sysfs</title>
 <polygon fill="#b2d3e4" stroke="#e27dd6" stroke-width="5" points="381,-528 223,-528 223,-456 381,-456 381,-528"/>
-<text text-anchor="middle" x="302" y="-498.8" font-family="Ubuntu" font-size="24.00">proc, sysfs,</text>
+<text text-anchor="middle" x="302" y="-498.8" font-family="Ubuntu" font-size="24.00">proc &amp; sysfs</text>
 <text text-anchor="middle" x="302" y="-472.8" font-family="Ubuntu" font-size="24.00">file systems</text>
 </g>
 <!-- SCI&#45;&gt;sysfs -->
@@ -111,8 +117,11 @@
 <!-- storage -->
 <g id="node18" class="node">
 <title>storage</title>
+<g id="a_node18"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage" xlink:title="storage">
 <polygon fill="white" stroke="#8383cc" stroke-width="5" points="748,-719 604,-719 604,-676 748,-676 748,-719"/>
 <text text-anchor="middle" x="676" y="-691.3" font-family="Ubuntu" font-size="24.00">storage</text>
+</a>
+</g>
 </g>
 <!-- networking&#45;&gt;storage -->
 <!-- prot_fam -->
@@ -193,8 +202,11 @@
 <!-- memory -->
 <g id="node43" class="node">
 <title>memory</title>
+<g id="a_node43"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Memory" xlink:title="memory">
 <polygon fill="white" stroke="#51bf5b" stroke-width="5" points="1082,-719 938,-719 938,-676 1082,-676 1082,-719"/>
 <text text-anchor="middle" x="1010" y="-691.3" font-family="Ubuntu" font-size="24.00">memory</text>
+</a>
+</g>
 </g>
 <!-- storage&#45;&gt;memory -->
 <!-- VFS -->
@@ -344,8 +356,11 @@
 <!-- processing -->
 <g id="node29" class="node">
 <title>processing</title>
+<g id="a_node29"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Processing" xlink:title="processing">
 <polygon fill="white" stroke="#c46747" stroke-width="5" points="1262,-719 1118,-719 1118,-676 1262,-676 1262,-719"/>
 <text text-anchor="middle" x="1190" y="-691.3" font-family="Ubuntu" font-size="24.00">processing</text>
+</a>
+</g>
 </g>
 <!-- processing&#45;&gt;processing_ -->
 <g id="edge23" class="edge">
@@ -356,9 +371,12 @@
 <!-- HI -->
 <g id="node37" class="node">
 <title>HI</title>
+<g id="a_node37"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel" xlink:title="human\ninterface">
 <polygon fill="white" stroke="#cfbf57" stroke-width="5" points="1453,-719 1309,-719 1309,-676 1453,-676 1453,-719"/>
 <text text-anchor="middle" x="1381" y="-700.9" font-family="Ubuntu" font-size="12.00">human</text>
 <text text-anchor="middle" x="1381" y="-687.9" font-family="Ubuntu" font-size="12.00">interface</text>
+</a>
+</g>
 </g>
 <!-- processing&#45;&gt;HI -->
 <!-- Tasks -->
@@ -537,9 +555,12 @@
 <!-- virt -->
 <g id="node51" class="node">
 <title>virt</title>
+<g id="a_node51"><a xlink:href="https://en.wikipedia.org/wiki/Proxy_pattern" xlink:title="proxy between standard user space interfaces and internal implementations">
 <polygon fill="#b2d3e4" stroke="black" stroke-width="0" points="158,-528 0,-528 0,-456 158,-456 158,-528"/>
 <text text-anchor="middle" x="79" y="-498.8" font-family="Ubuntu" font-size="24.00">virtual</text>
 <text text-anchor="middle" x="79" y="-472.8" font-family="Ubuntu" font-size="24.00">subsystems</text>
+</a>
+</g>
 </g>
 <!-- usr&#45;&gt;virt -->
 <g id="edge57" class="edge">
@@ -576,7 +597,7 @@
 <!-- bridges -->
 <g id="node54" class="node">
 <title>bridges</title>
-<g id="a_node54"><a xlink:href="https://en.wikipedia.org/wiki/Bridge_pattern" xlink:title="bridges">
+<g id="a_node54"><a xlink:href="https://en.wikipedia.org/wiki/Bridge_pattern" xlink:title="bridges between uniform virtual interfaces and various implementations">
 <polygon fill="#91b5c9" stroke="black" stroke-width="0" points="158,-391.09 158,-420.91 111.72,-442 46.28,-442 0,-420.91 0,-391.09 46.28,-370 111.72,-370 158,-391.09"/>
 <text text-anchor="middle" x="79" y="-399.8" font-family="Ubuntu" font-size="24.00">bridges</text>
 </a>
