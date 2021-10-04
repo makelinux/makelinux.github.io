@@ -1,0 +1,26 @@
+digraph "behavioral_patterns_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>behavioral_patterns_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Chain_of_responsibility\l::handle" URL="$structChain__of__responsibility.html#a1e86b7bc1e9472af2b85e7322a4cc5c1" tooltip="Specific handler can process a command and return non-negative." ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="mediator_demo" URL="$group__BP.html#ga49d579b8340b92f6ceb51cb6d57d4b2d" tooltip=" " ];
+  Node3 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="Mediator::register\l_member" URL="$structMediator.html#abc7fd67c96301b2975f830550ab5713c" tooltip=" " ];
+  Node3 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="Member::send" URL="$group__BP.html#ga0b04b5167d12021f4360b6a66a1b1125" tooltip=" " ];
+  Node1 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="Chain_of_responsibility\l::register_handler" URL="$structChain__of__responsibility.html#ac125b4b1aa689aa72daa30d0785a0c6e" tooltip=" " ];
+  Node1 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="visitor_demo" URL="$group__visitor.html#ga11584cf836c2520c14cc5827ce453f8f" tooltip=" " ];
+  Node7 -> Node8 [color="midnightblue"style="solid"];
+  Node8 [label="client_visit" URL="$group__visitor.html#ga8ea2b04b74bb54c83a4ae55098ec62fb" tooltip="knows only virtual visitor and component" ];
+  Node7 -> Node9 [color="midnightblue"style="solid"];
+  Node9 [label="Visitor::Sample_component\l::component_method" URL="$structVisitor_1_1Sample__component.html#a68ef4feafa9c9290a39bd7b6b913461a" tooltip="is not virtual" ];
+}

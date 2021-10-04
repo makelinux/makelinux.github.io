@@ -1,0 +1,12 @@
+digraph "return_type_deduction_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>return_type_deduction_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="main" URL="$group__CPP14.html#ga840291bc02cba5474a4cb46a9b9566fe" tooltip=" " ];
+}

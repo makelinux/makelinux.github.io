@@ -1,0 +1,11 @@
+digraph "Handler"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Handler</b>> tooltip="is a virtual command handler of Chain_of_responsibility" ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Chain_of_responsibility" URL="$structChain__of__responsibility.html" tooltip="list based implementation without recursion" ];
+}

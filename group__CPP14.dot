@@ -1,0 +1,18 @@
+digraph "C++14 examples"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir=LR;
+  Node2 [label="C++ examples by version" URL="$group__CPP.html" tooltip=" " ];
+  Node1 [label=<<b>C++14 examples</b>> tooltip=" " ];
+  Node3 [label="Deduction" URL="$group__ded14.html" tooltip=" " ];
+  Node5 [label="Lambda" URL="$group__lambda14.html" tooltip=" " ];
+  Node4 [label="Other" URL="$group__other14.html" tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node5 [shape=plaintext, dir="back", style="solid"];
+}

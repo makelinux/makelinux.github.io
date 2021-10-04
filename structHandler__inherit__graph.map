@@ -1,0 +1,4 @@
+<map id="Handler" name="Handler">
+<area shape="rect" id="node1" title="is a virtual command handler of Chain_of_responsibility" alt="" coords="58,5,141,53"/>
+<area shape="rect" id="node2" href="$structChain__of__responsibility.html" title="list based implementation without recursion" alt="" coords="5,101,193,149"/>
+</map>

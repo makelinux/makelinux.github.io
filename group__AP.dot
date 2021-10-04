@@ -1,0 +1,14 @@
+digraph "Architectural"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node1 [label=<<b>Architectural</b>> tooltip="Architectural patterns" ];
+  Node2 [label="Design patterns skeleton\l examples" URL="$group__DP.html" tooltip="Software design patterns" ];
+  Node3 [label="Publish–subscribe\l pattern" URL="$group__PS.html" tooltip="Publish–subscribe pattern" ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+}

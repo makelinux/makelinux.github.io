@@ -1,0 +1,9 @@
+<map id="architectural_patterns_demo" name="architectural_patterns_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,108,252,156"/>
+<area shape="rect" id="node2" href="$structController.html#af9531d07a0bf9d651c6830e88b64f0ff" title=" " alt="" coords="315,16,487,64"/>
+<area shape="rect" id="node5" href="$structSubject.html#a156c54b0ef570d0439f2347643192dc3" title=" " alt="" coords="744,77,948,125"/>
+<area shape="rect" id="node6" href="$structPublisher.html#a9420436a866c0ec19ecf3381a894370f" title=" " alt="" coords="327,139,475,187"/>
+<area shape="rect" id="node7" href="$structModel.html#a60ccf0ab3d641769ce8663a5c6f811b7" title=" " alt="" coords="300,211,503,259"/>
+<area shape="rect" id="node3" href="$structModel.html#a9000558a25601a58c19f903bfb660e64" title=" " alt="" coords="551,16,696,64"/>
+<area shape="rect" id="node4" href="$structCommand.html#acbc1a7f30a3962728ce2e167a032ac87" title=" " alt="" coords="766,5,926,53"/>
+</map>

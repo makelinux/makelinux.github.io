@@ -1,0 +1,16 @@
+digraph "Lambda"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node4 [label="Lambda capture this\l by value" URL="$group__lcbv.html" tooltip=" " ];
+  Node1 [label=<<b>Lambda</b>> tooltip=" " ];
+  Node2 [label="C++17 examples" URL="$group__CPP17.html" tooltip=" " ];
+  Node3 [label="Constexpr lambda" URL="$group__constexpr__lambda.html" tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+}

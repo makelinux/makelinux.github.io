@@ -1,0 +1,5 @@
+<map id="Prototype" name="Prototype">
+<area shape="rect" id="node1" title="is the factory of himself" alt="" coords="95,101,196,149"/>
+<area shape="rect" id="node2" href="$structAbstract__factory.html" title=" " alt="" coords="5,5,147,53"/>
+<area shape="rect" id="node3" href="$structInterface.html" title="is a common pure virtual interface" alt="" coords="171,5,258,53"/>
+</map>

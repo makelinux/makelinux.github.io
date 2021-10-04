@@ -1,0 +1,16 @@
+digraph "Factory_method_demo::factory_method"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Factory_method_demo::factory_method</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Factory_method_demo\l::client" URL="$structFactory__method__demo.html#a06046828f550a6e72b4798906d1e3466" tooltip=" " ];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="creational_patterns_demo" URL="$group__CP.html#ga50a82bd9d08b9a3b31267eefdf4ebaed" tooltip=" " ];
+  Node3 -> Node4 [dir="back",color="midnightblue"style="solid"];
+  Node4 [label="main" URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4" tooltip=" " ];
+}

@@ -1,0 +1,12 @@
+digraph "foo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>foo</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="test_attr" URL="$group__attr.html#ga3f48aea4a68337f783ea488f5c8f0e6a" tooltip=" " ];
+}

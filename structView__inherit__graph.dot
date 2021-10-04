@@ -1,0 +1,11 @@
+digraph "View"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>View</b>> tooltip="is concrete Observer" ];
+  Node2 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Observer" URL="$structObserver.html" tooltip="is virtual observer of a Subject" ];
+}

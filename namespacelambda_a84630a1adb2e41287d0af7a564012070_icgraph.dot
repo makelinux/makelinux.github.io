@@ -1,0 +1,14 @@
+digraph "lambda::make_lambda_with_parameter_pack_capture"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>lambda::make_lambda_with_parameter_pack_capture</b>> tooltip="Lambda capture of parameter pack" ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="lambda::lambda_20" URL="$namespacelambda.html#a2cde9dac3329de71cbb605b62602b904" tooltip=" " ];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="main" URL="$group__CPP20.html#gae66f6b31b5ad750f1fe042a706a4e3d4" tooltip=" " ];
+}

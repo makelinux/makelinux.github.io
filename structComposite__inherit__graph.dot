@@ -1,0 +1,11 @@
+digraph "Composite"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Composite</b>> tooltip=" " ];
+  Node2 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Interface" URL="$structInterface.html" tooltip="is a common pure virtual interface" ];
+}

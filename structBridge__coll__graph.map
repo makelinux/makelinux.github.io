@@ -1,0 +1,4 @@
+<map id="Bridge" name="Bridge">
+<area shape="rect" id="node1" title="is a wrapper using different from Standalone interface. AKA Adapter" alt="" coords="11,101,86,149"/>
+<area shape="rect" id="node2" href="$structInterface.html" title="is a common pure virtual interface" alt="" coords="5,5,92,53"/>
+</map>

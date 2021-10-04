@@ -1,0 +1,8 @@
+<map id="Design patterns skeleton examples" name="Design patterns skeleton examples">
+<area shape="rect" id="node1" href="$group__AP.html" title="Architectural patterns" alt="" coords="344,5,459,53"/>
+<area shape="rect" id="node2" href="$group__BP.html" title="Behavioral patterns" alt="" coords="353,77,450,125"/>
+<area shape="rect" id="node3" href="$group__CC.html" title="Concurrency patterns" alt="" coords="345,149,457,197"/>
+<area shape="rect" id="node4" href="$group__CP.html" title="Creational patterns" alt="" coords="354,221,449,269"/>
+<area shape="rect" id="node5" title="Software design patterns" alt="" coords="5,149,296,197"/>
+<area shape="rect" id="node6" href="$group__SP.html" title="Structural patterns" alt="" coords="355,293,447,341"/>
+</map>

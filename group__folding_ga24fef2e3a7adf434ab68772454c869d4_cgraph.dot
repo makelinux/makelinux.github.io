@@ -1,0 +1,14 @@
+digraph "folding_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>folding_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="folding_and" URL="$group__folding.html#ga8bac0f4d13844b654a90512a2fed713c" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="folding_sum" URL="$group__folding.html#ga9b51138a3ead047d2bd4c2076d494687" tooltip=" " ];
+}

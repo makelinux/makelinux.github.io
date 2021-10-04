@@ -1,0 +1,11 @@
+digraph "implementation"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  Node1 [label=<<b>implementation</b>> tooltip=" " ];
+  Node2 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="interface" URL="$structinterface.html" tooltip="https://en.wikipedia.org/wiki/Dependency_inversion_principle" ];
+}

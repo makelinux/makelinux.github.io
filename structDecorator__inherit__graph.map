@@ -1,0 +1,4 @@
+<map id="Decorator" name="Decorator">
+<area shape="rect" id="node1" title="is a partial wrapper of an object with same as wrapped object Interface" alt="" coords="5,101,107,149"/>
+<area shape="rect" id="node2" href="$structInterface.html" title="is a common pure virtual interface" alt="" coords="13,5,99,53"/>
+</map>

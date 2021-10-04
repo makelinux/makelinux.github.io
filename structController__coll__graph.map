@@ -1,0 +1,5 @@
+<map id="Controller" name="Controller">
+<area shape="rect" id="node1" title="is part of MVC with Model and View" alt="" coords="5,219,107,267"/>
+<area shape="rect" id="node2" href="$structModel.html" title="is part of MVC with View and Controller" alt="" coords="20,103,92,151"/>
+<area shape="rect" id="node3" href="$structSubject.html" title="of Observer" alt="" coords="19,5,93,53"/>
+</map>

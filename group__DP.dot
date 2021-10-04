@@ -1,0 +1,20 @@
+digraph "Design patterns skeleton examples"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node5 [label="Architectural" URL="$group__AP.html" tooltip="Architectural patterns" ];
+  Node4 [label="Behavioral" URL="$group__BP.html" tooltip="Behavioral patterns" ];
+  Node6 [label="Concurrency" URL="$group__CC.html" tooltip="Concurrency patterns" ];
+  Node2 [label="Creational" URL="$group__CP.html" tooltip="Creational patterns" ];
+  Node1 [label=<<b>Design patterns skeleton examples</b>> tooltip="Software design patterns" ];
+  Node3 [label="Structural" URL="$group__SP.html" tooltip="Structural patterns" ];
+  Node1->Node2 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node5 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node6 [shape=plaintext, dir="back", style="solid"];
+}

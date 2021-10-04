@@ -1,0 +1,12 @@
+digraph "Structural"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node2 [label="Design patterns skeleton\l examples" URL="$group__DP.html" tooltip="Software design patterns" ];
+  Node1 [label=<<b>Structural</b>> tooltip="Structural patterns" ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

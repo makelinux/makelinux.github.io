@@ -1,0 +1,26 @@
+digraph "main"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>main</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="demo" URL="$group__other14.html#ga0d265fbf974505991bc348b57d90b902" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="lambda_14" URL="$group__lambda14.html#ga04c4d6278baa1eacb65a29ede090bf4f" tooltip=" " ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="return_type_deduction_demo" URL="$group__ded14.html#gadab80778f14ac2a08f4c5acb72f2412c" tooltip=" " ];
+  Node4 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="deduced_return_type" URL="$group__ded14.html#ga128fc82d5af06d52f686f2a3321db66f" tooltip=" " ];
+  Node4 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="implicit_int_return_type" URL="$group__ded14.html#ga67b4fbaf10174d06711192e9a44942ba" tooltip=" " ];
+  Node1 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="sort_14" URL="$group__lambda14.html#ga4852036968c1c2ba7170f88a2939e821" tooltip="Compare with lambda::sort_11." ];
+  Node1 -> Node8 [color="midnightblue"style="solid"];
+  Node8 [label="types_14" URL="$group__other14.html#gac02a1801a1d9a8ec9f3d1d81a8bd4fac" tooltip=" " ];
+  Node8 -> Node9 [color="midnightblue"style="solid"];
+  Node9 [label="a_ref" URL="$group__lang03.html#gaeed95058250a76d160de8833d79c08e9" tooltip="https://en.cppreference.com/w/cpp/language/reference" ];
+}

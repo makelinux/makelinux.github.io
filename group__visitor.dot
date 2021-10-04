@@ -1,0 +1,12 @@
+digraph "Visitor"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node2 [label="Behavioral" URL="$group__BP.html" tooltip="Behavioral patterns" ];
+  Node1 [label=<<b>Visitor</b>> tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

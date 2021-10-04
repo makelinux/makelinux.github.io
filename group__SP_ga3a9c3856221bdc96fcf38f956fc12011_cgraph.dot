@@ -1,0 +1,22 @@
+digraph "structural_patterns_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>structural_patterns_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Composite::add" URL="$structComposite.html#a30ddd667666ae08a9369f722fbba761a" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="Bridge::method" URL="$structBridge.html#a68cba3a3e983eaf7521a6cea23ef1b7c" tooltip=" " ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="Proxy::method" URL="$structProxy.html#a1c58aa9104f2537aae0f75b59130ce32" tooltip=" " ];
+  Node1 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="Decorator::method" URL="$structDecorator.html#a49123c88d6088bbd5573b98bccd1d8bf" tooltip=" " ];
+  Node1 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="Composite::method" URL="$structComposite.html#a1e6b4ba6c91969af14f358234b17faf7" tooltip=" " ];
+  Node1 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="Interface::method" URL="$structInterface.html#a73306300ba88073a31d86d9e282ff5ca" tooltip=" " ];
+}

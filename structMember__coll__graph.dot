@@ -1,0 +1,11 @@
+digraph "Member"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Member</b>> tooltip=" " ];
+  Node2 -> Node1 [dir="back",color="darkorchid3"style="dashed",label=" mediator" ];
+  Node2 [label="Mediator" URL="$structMediator.html" tooltip=" " ];
+}

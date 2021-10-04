@@ -1,0 +1,25 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,569,77,617"/>
+<area shape="rect" id="node2" href="$group__lambda11.html#ga85615049e1a60b40caa291f055769c5c" title="algorithm" alt="" coords="155,5,272,53"/>
+<area shape="rect" id="node3" href="$group__lang11.html#gab68bb32a6031780e75cef0a1ded4cdb9" title="https://en.cppreference.com/w/cpp/language/constexpr" alt="" coords="134,101,293,149"/>
+<area shape="rect" id="node4" href="$group__lambda11.html#ga72e4d10e6c0223462fb8e5cbb6a647dc" title="container" alt="" coords="156,173,271,221"/>
+<area shape="rect" id="node5" href="$group__lang11.html#ga90b35e01fc69af078797f15afe3cd85c" title=" " alt="" coords="125,245,301,293"/>
+<area shape="rect" id="node9" href="$group__lang11.html#ga36919d7669c19a0f73874e91af90d0d4" title=" " alt="" coords="174,317,253,365"/>
+<area shape="rect" id="node10" href="$group__lang11.html#gab8e1cf21cef29f6a3b8b4d3bf7ae378f" title=" " alt="" coords="177,389,249,437"/>
+<area shape="rect" id="node11" href="$group__lambda11.html#ga3b7b316884496ec679ce597d3500ec4b" title=" " alt="" coords="151,461,275,509"/>
+<area shape="rect" id="node12" href="$group__lambda11.html#ga98e0b31385bc6cf20a3b6b69efd918de" title=" " alt="" coords="145,533,281,581"/>
+<area shape="rect" id="node13" href="$group__lambda11__complex.html#ga1fad3951c3da909abe5f91ebbff9f433" title=" " alt="" coords="142,605,285,653"/>
+<area shape="rect" id="node14" href="$group__threads11.html#gac4fde02280b76afc0dfd63f3bd0b05b7" title=" " alt="" coords="166,677,261,725"/>
+<area shape="rect" id="node15" href="$group__lang11.html#gab9898ff9bf1dd6f1cb58b481f0b4df79" title=" " alt="" coords="151,749,276,797"/>
+<area shape="rect" id="node18" href="$group__CPP11.html#ga87fd521792c9ebaccfb225d672c68a5b" title=" " alt="" coords="177,821,249,869"/>
+<area shape="rect" id="node19" href="$group__lambda11.html#gabe717f6f0e9decfb4dc2c1600341bfea" title="Compare with sort_03." alt="" coords="175,893,251,941"/>
+<area shape="rect" id="node20" href="$group__threads11.html#ga6d132ee45948dcf65ae3ecd9177f6725" title=" " alt="" coords="162,965,265,1013"/>
+<area shape="rect" id="node22" href="$group__lang11.html#gabb96757f5b32d1f595edf657b71b9e75" title=" " alt="" coords="131,1037,296,1085"/>
+<area shape="rect" id="node23" href="$group__lang11.html#ga3cb9732a3d759a659a91f013a3763158" title=" " alt="" coords="170,1109,257,1157"/>
+<area shape="rect" id="node6" href="$group__lang11.html#ga95c258fd50767b68c2ac27f647a812a0" title="shared_ptr" alt="" coords="373,173,504,221"/>
+<area shape="rect" id="node7" href="$group__lang11.html#gad910833c04a752d3997e1e0fcc6598c8" title="unique_ptr" alt="" coords="371,245,507,293"/>
+<area shape="rect" id="node8" href="$group__lang11.html#gac1a6e29326944fa42f80879e157048ae" title="weak_ptr" alt="" coords="379,317,498,365"/>
+<area shape="rect" id="node16" href="$group__lang11.html#ga9592a69bceb833f1011e70b1fee4ef14" title="func_type &#45; overloaded functions" alt="" coords="576,749,669,797"/>
+<area shape="rect" id="node17" href="$group__lang11.html#gaf2ee1e4cdb9cc5f58628700ccf7a8fd8" title="Forwarding reference" alt="" coords="355,780,522,828"/>
+<area shape="rect" id="node21" href="$group__threads11.html#gac92f23ee7b1928560e7a2f3b3a4fc61d" title=" " alt="" coords="349,965,528,1013"/>
+</map>

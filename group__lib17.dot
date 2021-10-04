@@ -1,0 +1,12 @@
+digraph "Library"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node2 [label="C++17 examples" URL="$group__CPP17.html" tooltip=" " ];
+  Node1 [label=<<b>Library</b>> tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

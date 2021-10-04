@@ -1,0 +1,10 @@
+<map id="structural_patterns_demo" name="structural_patterns_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,180,228,228"/>
+<area shape="rect" id="node2" href="$structComposite.html#a30ddd667666ae08a9369f722fbba761a" title=" " alt="" coords="291,5,424,53"/>
+<area shape="rect" id="node3" href="$structBridge.html#a68cba3a3e983eaf7521a6cea23ef1b7c" title=" " alt="" coords="291,77,424,125"/>
+<area shape="rect" id="node5" href="$structProxy.html#a1c58aa9104f2537aae0f75b59130ce32" title=" " alt="" coords="294,149,421,197"/>
+<area shape="rect" id="node6" href="$structInterface.html#a73306300ba88073a31d86d9e282ff5ca" title=" " alt="" coords="505,211,656,259"/>
+<area shape="rect" id="node7" href="$structDecorator.html#a49123c88d6088bbd5573b98bccd1d8bf" title=" " alt="" coords="279,272,436,320"/>
+<area shape="rect" id="node8" href="$structComposite.html#a1e6b4ba6c91969af14f358234b17faf7" title=" " alt="" coords="276,344,439,392"/>
+<area shape="rect" id="node4" href="$structStandalone.html#ab576b209f7db533a9d9a5ada760f6db5" title=" " alt="" coords="487,77,675,125"/>
+</map>

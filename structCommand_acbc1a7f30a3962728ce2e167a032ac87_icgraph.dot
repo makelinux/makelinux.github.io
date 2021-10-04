@@ -1,0 +1,20 @@
+digraph "Command::execute"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Command::execute</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Model::command" URL="$structModel.html#a9000558a25601a58c19f903bfb660e64" tooltip=" " ];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="Controller::command" URL="$structController.html#af9531d07a0bf9d651c6830e88b64f0ff" tooltip=" " ];
+  Node3 -> Node4 [dir="back",color="midnightblue"style="solid"];
+  Node4 [label="architectural_patterns_demo" URL="$group__AP.html#gaa52033e9b5a5923880bf57a9afb7e751" tooltip=" " ];
+  Node4 -> Node5 [dir="back",color="midnightblue"style="solid"];
+  Node5 [label="main" URL="$group__DP.html#gae66f6b31b5ad750f1fe042a706a4e3d4" tooltip=" " ];
+  Node1 -> Node6 [dir="back",color="midnightblue"style="solid"];
+  Node6 [label="Handler::handle" URL="$structHandler.html#a5f1fa0706cb56b26e58c2e102dfec6ca" tooltip="Specific handler can process a command and return non-negative." ];
+}

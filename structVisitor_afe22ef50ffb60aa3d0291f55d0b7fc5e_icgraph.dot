@@ -1,0 +1,12 @@
+digraph "Visitor::visit"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Visitor::visit</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Visitor::Sample_component\l::component_accept" URL="$structVisitor_1_1Sample__component.html#a479195c180b3be2b5df34d1e4002a3fd" tooltip=" " ];
+}

@@ -1,0 +1,4 @@
+<map id="Observer" name="Observer">
+<area shape="rect" id="node1" title="is virtual observer of a Subject" alt="" coords="5,5,100,53"/>
+<area shape="rect" id="node2" href="$structView.html" title="is concrete Observer" alt="" coords="17,101,89,149"/>
+</map>

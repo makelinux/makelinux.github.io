@@ -1,0 +1,12 @@
+digraph "Publish–subscribe pattern"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node2 [label="Architectural" URL="$group__AP.html" tooltip="Architectural patterns" ];
+  Node1 [label=<<b>Publish–subscribe pattern</b>> tooltip="Publish–subscribe pattern" ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

@@ -1,0 +1,6 @@
+<map id="visitor_demo" name="visitor_demo">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,129,125"/>
+<area shape="rect" id="node2" href="$group__visitor.html#gab907a9118b5685cd315d25868199a5f4" title="knows only virtual visitor and component" alt="" coords="237,5,336,53"/>
+<area shape="rect" id="node3" href="$structVisitor_1_1Sample__component.html#a68ef4feafa9c9290a39bd7b6b913461a" title="is not virtual" alt="" coords="177,77,396,125"/>
+<area shape="rect" id="node4" href="$structVisitor.html#afe22ef50ffb60aa3d0291f55d0b7fc5e" title=" " alt="" coords="234,149,339,197"/>
+</map>

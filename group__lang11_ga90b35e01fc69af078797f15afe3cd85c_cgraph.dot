@@ -1,0 +1,16 @@
+digraph "dynamic_memory_11"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>dynamic_memory_11</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="shared_pointer" URL="$group__lang11.html#ga95c258fd50767b68c2ac27f647a812a0" tooltip="shared_ptr" ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="unique_pounter" URL="$group__lang11.html#gad910833c04a752d3997e1e0fcc6598c8" tooltip="unique_ptr" ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="weak_pointer" URL="$group__lang11.html#gac1a6e29326944fa42f80879e157048ae" tooltip="weak_ptr" ];
+}

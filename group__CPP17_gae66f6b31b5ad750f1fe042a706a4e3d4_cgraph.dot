@@ -1,0 +1,37 @@
+digraph "main"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>main</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="clamp_demo" URL="$group__lib17.html#ga8cb7163083f1f0a3f822ba830593e2f8" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="dynamic_memory_17" URL="$group__lib17.html#gab5fcfaf82b4a2f9f162cb824e42a6dc7" tooltip=" " ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="folding_demo" URL="$group__folding.html#ga24fef2e3a7adf434ab68772454c869d4" tooltip=" " ];
+  Node4 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="folding_and" URL="$group__folding.html#ga8bac0f4d13844b654a90512a2fed713c" tooltip=" " ];
+  Node4 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="folding_sum" URL="$group__folding.html#ga9b51138a3ead047d2bd4c2076d494687" tooltip=" " ];
+  Node1 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="lambda_17" URL="$group__lcbv.html#ga09d6ec7e96d1419fa2eb7b467b45262d" tooltip=" " ];
+  Node7 -> Node8 [color="midnightblue"style="solid"];
+  Node8 [label="capture_this_by_value" URL="$group__lcbv.html#gae6783fe92992c7c898941542b211b2d5" tooltip=" " ];
+  Node1 -> Node9 [color="midnightblue"style="solid"];
+  Node9 [label="map_demo" URL="$group__lib17.html#ga504931ae26977f44fc2ba6e6f916a544" tooltip=" " ];
+  Node1 -> Node10 [color="midnightblue"style="solid"];
+  Node10 [label="references_17" URL="$group__CPP17.html#ga48cd9a2d84b26f672344c61dbc566073" tooltip=" " ];
+  Node1 -> Node11 [color="midnightblue"style="solid"];
+  Node11 [label="string_view_demo" URL="$group__lib17.html#gab6d97155e76d78c5c2e7281a7c682f3d" tooltip=" " ];
+  Node1 -> Node12 [color="midnightblue"style="solid"];
+  Node12 [label="threads_17" URL="$group__threads17.html#ga9f411b8b9bb88cfcb7e7f80487003b09" tooltip=" " ];
+  Node1 -> Node13 [color="midnightblue"style="solid"];
+  Node13 [label="types_17" URL="$group__land17.html#gaf33143c73fe6d2c858b64736f7e8fdc0" tooltip=" " ];
+  Node13 -> Node13 [color="midnightblue"style="solid"];
+  Node1 -> Node14 [color="midnightblue"style="solid"];
+  Node14 [label="variant_demo" URL="$group__lib17.html#gacee9f90ef33d8839e801b81f2c2deaab" tooltip=" " ];
+}

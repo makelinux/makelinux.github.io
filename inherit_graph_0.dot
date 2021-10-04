@@ -1,0 +1,28 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node0 [label="Abstract_factory" URL="$structAbstract__factory.html" tooltip=" " ];
+  Node0 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node1 [label="Prototype" URL="$structPrototype.html" tooltip="is the factory of himself" ];
+  Node0 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Sample_factory" URL="$structSample__factory.html" tooltip=" " ];
+  Node22 [label="Interface" URL="$structInterface.html" tooltip="is a common pure virtual interface" ];
+  Node22 -> Node23 [dir="back",color="midnightblue"style="solid"];
+  Node23 [label="Active_object" URL="$structActive__object.html" tooltip="Active object" ];
+  Node22 -> Node24 [dir="back",color="midnightblue"style="solid"];
+  Node24 [label="Bridge" URL="$structBridge.html" tooltip="is a wrapper using different from Standalone interface. AKA Adapter" ];
+  Node22 -> Node25 [dir="back",color="midnightblue"style="solid"];
+  Node25 [label="Composite" URL="$structComposite.html" tooltip=" " ];
+  Node22 -> Node26 [dir="back",color="midnightblue"style="solid"];
+  Node26 [label="Decorator" URL="$structDecorator.html" tooltip="is a partial wrapper of an object with same as wrapped object Interface" ];
+  Node22 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node22 -> Node27 [dir="back",color="midnightblue"style="solid"];
+  Node27 [label="Proxy" URL="$structProxy.html" tooltip="is a opaque wrapper with same as wrapped object Interface" ];
+  Node22 -> Node28 [dir="back",color="midnightblue"style="solid"];
+  Node28 [label="Sample_product" URL="$structSample__product.html" tooltip=" " ];
+}

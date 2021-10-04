@@ -1,0 +1,13 @@
+digraph "20.cpp"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  Node1 [label=<<b>20.cpp</b>> tooltip="C++20." ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="bits/stdc++.h" color=grey75 tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="experimental/source\l_location" color=grey75 tooltip=" " ];
+}

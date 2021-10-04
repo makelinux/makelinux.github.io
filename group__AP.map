@@ -1,0 +1,5 @@
+<map id="Architectural" name="Architectural">
+<area shape="rect" id="node1" title="Architectural patterns" alt="" coords="253,5,377,53"/>
+<area shape="rect" id="node3" href="$group__PS.html" title="Publish–subscribe pattern" alt="" coords="425,5,575,53"/>
+<area shape="rect" id="node2" href="$group__DP.html" title="Software design patterns" alt="" coords="5,5,205,53"/>
+</map>

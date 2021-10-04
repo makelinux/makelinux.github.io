@@ -1,0 +1,12 @@
+digraph "Coroutines"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node1 [label=<<b>Coroutines</b>> tooltip=" " ];
+  Node2 [label="C++20 examples" URL="$group__CPP20.html" tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

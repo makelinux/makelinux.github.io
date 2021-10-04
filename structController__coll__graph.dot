@@ -1,0 +1,13 @@
+digraph "Controller"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Controller</b>> tooltip="is part of MVC with Model and View" ];
+  Node2 -> Node1 [dir="back",color="darkorchid3"style="dashed",label=" mod" ];
+  Node2 [label="Model" URL="$structModel.html" tooltip="is part of MVC with View and Controller" ];
+  Node3 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="Subject" URL="$structSubject.html" tooltip="of Observer" ];
+}

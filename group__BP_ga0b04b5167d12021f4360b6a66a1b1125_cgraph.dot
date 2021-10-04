@@ -1,0 +1,12 @@
+digraph "Member::send"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>Member::send</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Mediator::receive" URL="$structMediator.html#addf75875c907f9c653022e569b039b46" tooltip=" " ];
+}

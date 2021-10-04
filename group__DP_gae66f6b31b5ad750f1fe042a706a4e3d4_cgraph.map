@@ -1,0 +1,39 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,633,77,681"/>
+<area shape="rect" id="node2" href="$group__AP.html#gaa52033e9b5a5923880bf57a9afb7e751" title=" " alt="" coords="125,129,353,177"/>
+<area shape="rect" id="node9" href="$group__BP.html#ga608cf93d9bef165bc7e5690ac3b46a03" title=" " alt="" coords="133,417,346,465"/>
+<area shape="rect" id="node20" href="$group__CC.html#ga3e57442badb533d55c8d3d3a05465030" title=" " alt="" coords="126,597,353,645"/>
+<area shape="rect" id="node23" href="$group__CP.html#ga50a82bd9d08b9a3b31267eefdf4ebaed" title=" " alt="" coords="135,741,344,789"/>
+<area shape="rect" id="node29" href="$group__OOP.html#gac98f62660ece957e8cbc4d3ff6ec0cdf" title=" " alt="" coords="190,1285,289,1333"/>
+<area shape="rect" id="node31" href="$group__SP.html#ga3a9c3856221bdc96fcf38f956fc12011" title=" " alt="" coords="136,1116,343,1164"/>
+<area shape="rect" id="node3" href="$structController.html#af9531d07a0bf9d651c6830e88b64f0ff" title=" " alt="" coords="417,201,589,249"/>
+<area shape="rect" id="node6" href="$structSubject.html#a156c54b0ef570d0439f2347643192dc3" title=" " alt="" coords="919,12,1123,60"/>
+<area shape="rect" id="node7" href="$structPublisher.html#a9420436a866c0ec19ecf3381a894370f" title=" " alt="" coords="429,57,577,105"/>
+<area shape="rect" id="node8" href="$structModel.html#a60ccf0ab3d641769ce8663a5c6f811b7" title=" " alt="" coords="401,129,604,177"/>
+<area shape="rect" id="node4" href="$structModel.html#a9000558a25601a58c19f903bfb660e64" title=" " alt="" coords="689,98,834,146"/>
+<area shape="rect" id="node5" href="$structCommand.html#acbc1a7f30a3962728ce2e167a032ac87" title=" " alt="" coords="941,98,1101,146"/>
+<area shape="rect" id="node10" href="$structChain__of__responsibility.html#a1e86b7bc1e9472af2b85e7322a4cc5c1" title="Specific handler can process a command and return non&#45;negative." alt="" coords="409,489,597,537"/>
+<area shape="rect" id="node11" href="$group__BP.html#ga49d579b8340b92f6ceb51cb6d57d4b2d" title=" " alt="" coords="435,273,571,321"/>
+<area shape="rect" id="node15" href="$structChain__of__responsibility.html#ac125b4b1aa689aa72daa30d0785a0c6e" title=" " alt="" coords="409,345,597,393"/>
+<area shape="rect" id="node16" href="$group__visitor.html#ga11584cf836c2520c14cc5827ce453f8f" title=" " alt="" coords="445,417,560,465"/>
+<area shape="rect" id="node12" href="$structMediator.html#abc7fd67c96301b2975f830550ab5713c" title=" " alt="" coords="686,273,837,321"/>
+<area shape="rect" id="node13" href="$group__BP.html#ga0b04b5167d12021f4360b6a66a1b1125" title=" " alt="" coords="699,201,824,249"/>
+<area shape="rect" id="node14" href="$structMediator.html#addf75875c907f9c653022e569b039b46" title=" " alt="" coords="947,201,1094,249"/>
+<area shape="rect" id="node17" href="$group__visitor.html#gab907a9118b5685cd315d25868199a5f4" title="knows only virtual visitor and component" alt="" coords="712,417,811,465"/>
+<area shape="rect" id="node18" href="$structVisitor_1_1Sample__component.html#a68ef4feafa9c9290a39bd7b6b913461a" title="is not virtual" alt="" coords="652,489,871,537"/>
+<area shape="rect" id="node19" href="$structVisitor.html#afe22ef50ffb60aa3d0291f55d0b7fc5e" title=" " alt="" coords="709,345,814,393"/>
+<area shape="rect" id="node21" href="$structActive__object.html#ac125fd7860055c3a289b68ae39488714" title=" " alt="" coords="411,561,594,609"/>
+<area shape="rect" id="node22" href="$structInterface.html#a73306300ba88073a31d86d9e282ff5ca" title=" " alt="" coords="686,1044,837,1092"/>
+<area shape="rect" id="node24" href="$structBuilder.html#a0490ca9df304a27fa0bd61e25f71a3f1" title=" " alt="" coords="449,849,556,897"/>
+<area shape="rect" id="node25" href="$structFactory__method__demo.html#a06046828f550a6e72b4798906d1e3466" title=" " alt="" coords="409,633,597,681"/>
+<area shape="rect" id="node27" href="$structBuilder.html#a82135d0651c31d7ef364e1b388ad42a7" title=" " alt="" coords="439,705,566,753"/>
+<area shape="rect" id="node28" href="$structPrototype.html#ac457723ab2c827423afd9215811b5b03" title=" " alt="" coords="429,777,576,825"/>
+<area shape="rect" id="node26" href="$structFactory__method__demo.html#a8746eb954f21cbee4f733567fe11934e" title=" " alt="" coords="667,633,855,681"/>
+<area shape="rect" id="node30" href="$structSetter__interface.html#af56ff578654b5d2fec5e3626da71673c" title="is a sample of setter abstract interface for Synchronised_encapsulated_value" alt="" coords="418,1382,587,1430"/>
+<area shape="rect" id="node32" href="$structComposite.html#a30ddd667666ae08a9369f722fbba761a" title=" " alt="" coords="436,1238,569,1286"/>
+<area shape="rect" id="node33" href="$structBridge.html#a68cba3a3e983eaf7521a6cea23ef1b7c" title=" " alt="" coords="436,1310,569,1358"/>
+<area shape="rect" id="node35" href="$structProxy.html#a1c58aa9104f2537aae0f75b59130ce32" title=" " alt="" coords="439,1044,566,1092"/>
+<area shape="rect" id="node36" href="$structDecorator.html#a49123c88d6088bbd5573b98bccd1d8bf" title=" " alt="" coords="424,1116,581,1164"/>
+<area shape="rect" id="node37" href="$structComposite.html#a1e6b4ba6c91969af14f358234b17faf7" title=" " alt="" coords="421,972,584,1020"/>
+<area shape="rect" id="node34" href="$structStandalone.html#ab576b209f7db533a9d9a5ada760f6db5" title=" " alt="" coords="667,1310,855,1358"/>
+</map>

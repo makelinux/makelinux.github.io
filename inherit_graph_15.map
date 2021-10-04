@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structObserver.html" title="is virtual observer of a Subject" alt="" coords="5,5,95,53"/>
+<area shape="rect" id="node2" href="$structView.html" title="is concrete Observer" alt="" coords="143,5,215,53"/>
+</map>

@@ -1,0 +1,12 @@
+digraph "types_14"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>types_14</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="a_ref" URL="$group__lang03.html#gaeed95058250a76d160de8833d79c08e9" tooltip="https://en.cppreference.com/w/cpp/language/reference" ];
+}

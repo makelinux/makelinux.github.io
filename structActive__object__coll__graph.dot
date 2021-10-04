@@ -1,0 +1,16 @@
+digraph "Active_object"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Active_object</b>> tooltip="Active object" ];
+  Node2 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Interface" URL="$structInterface.html" tooltip="is a common pure virtual interface" ];
+  Node3 -> Node1 [dir="back",color="darkorchid3"style="dashed",label=" cmd_q" ];
+  Node3 [label="Synchronized_queue\l\< Command \>" URL="$classSynchronized__queue.html" tooltip=" " ];
+  Node4 -> Node3 [dir="back",color="firebrick4"style="solid"];
+  Node4 [label="std::queue\<Command \>" color=grey75 tooltip=" " ];
+  Node2 -> Node1 [dir="back",color="darkorchid3"style="dashed",label=" subject" ];
+}

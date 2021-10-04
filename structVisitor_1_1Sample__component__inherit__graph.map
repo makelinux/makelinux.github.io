@@ -1,0 +1,4 @@
+<map id="Visitor::Sample_component" name="Visitor::Sample_component">
+<area shape="rect" id="node1" title="one of many components" alt="" coords="5,101,240,149"/>
+<area shape="rect" id="node2" href="$structComponent.html" title="accepts a pure virtual Visitor" alt="" coords="69,5,176,53"/>
+</map>

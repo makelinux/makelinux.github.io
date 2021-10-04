@@ -1,0 +1,11 @@
+digraph "14.cpp"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  Node1 [label=<<b>14.cpp</b>> tooltip="C++14." ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="bits/stdc++.h" color=grey75 tooltip=" " ];
+}

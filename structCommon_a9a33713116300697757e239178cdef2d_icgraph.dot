@@ -1,0 +1,16 @@
+digraph "Common::Common"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>Common::Common</b>> tooltip=" " ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="Virtual_A::Virtual_A" URL="$structVirtual__A.html#af66434e53395c797170a2d295d6642f1" tooltip=" " ];
+  Node2 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node1 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="Virtual_B::Virtual_B" URL="$structVirtual__B.html#acbf075bb04a0868a1c1b710fa75b876d" tooltip=" " ];
+  Node3 -> Node3 [dir="back",color="midnightblue"style="solid"];
+}

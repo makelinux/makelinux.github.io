@@ -1,0 +1,20 @@
+digraph "creational_patterns_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>creational_patterns_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Builder::add" URL="$structBuilder.html#a1e5365583653ecc58228b0509f243ead" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="Factory_method_demo\l::client" URL="$structFactory__method__demo.html#a06046828f550a6e72b4798906d1e3466" tooltip=" " ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="Builder::create" URL="$structBuilder.html#a4f7f7e906f610a6a2f0157aeade2df63" tooltip=" " ];
+  Node1 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="Prototype::create" URL="$structPrototype.html#a597ffd5f91a066eba217b3d0ed145b83" tooltip=" " ];
+  Node1 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="Interface::method" URL="$structInterface.html#a73306300ba88073a31d86d9e282ff5ca" tooltip=" " ];
+}

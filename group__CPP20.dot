@@ -1,0 +1,18 @@
+digraph "C++20 examples"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir=LR;
+  Node2 [label="C++ examples by version" URL="$group__CPP.html" tooltip=" " ];
+  Node1 [label=<<b>C++20 examples</b>> tooltip=" " ];
+  Node3 [label="Language" URL="$group__lang20.html" tooltip=" " ];
+  Node5 [label="Other" URL="$group__other20.html" tooltip=" " ];
+  Node4 [label="Templates" URL="$group__templ20.html" tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node3 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node4 [shape=plaintext, dir="back", style="solid"];
+  Node1->Node5 [shape=plaintext, dir="back", style="solid"];
+}

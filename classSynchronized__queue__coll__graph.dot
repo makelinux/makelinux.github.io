@@ -1,0 +1,11 @@
+digraph "Synchronized_queue&lt; T, Container &gt;"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  Node1 [label=<<b>Synchronized_queue&lt; T, Container &gt;</b>> tooltip=" " ];
+  Node2 -> Node1 [dir="back",color="firebrick4"style="solid"];
+  Node2 [label="std::queue\< T \>" color=grey75 tooltip=" " ];
+}

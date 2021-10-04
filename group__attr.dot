@@ -1,0 +1,12 @@
+digraph "New attributes"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node2 [label="Language" URL="$group__land17.html" tooltip="language" ];
+  Node1 [label=<<b>New attributes</b>> tooltip="fallthrough, nodiscard, maybe_unused" ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

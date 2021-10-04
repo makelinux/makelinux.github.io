@@ -1,0 +1,12 @@
+digraph "Deduction"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir=LR;
+  Node1 [label=<<b>Deduction</b>> tooltip=" " ];
+  Node2 [label="C++14 examples" URL="$group__CPP14.html" tooltip=" " ];
+  Node2->Node1 [shape=plaintext, dir="back", style="solid"];
+}

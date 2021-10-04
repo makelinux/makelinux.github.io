@@ -1,0 +1,14 @@
+digraph "weak_pointer"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>weak_pointer</b>> tooltip="weak_ptr" ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="dynamic_memory_11" URL="$group__lang11.html#ga90b35e01fc69af078797f15afe3cd85c" tooltip=" " ];
+  Node2 -> Node3 [dir="back",color="midnightblue"style="solid"];
+  Node3 [label="main" URL="$group__CPP11.html#ga840291bc02cba5474a4cb46a9b9566fe" tooltip=" " ];
+}

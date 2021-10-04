@@ -1,0 +1,10 @@
+<map id="Interface" name="Interface">
+<area shape="rect" id="node1" title="is a common pure virtual interface" alt="" coords="368,5,460,53"/>
+<area shape="rect" id="node2" href="$structActive__object.html" title="Active object" alt="" coords="5,101,124,149"/>
+<area shape="rect" id="node3" href="$structBridge.html" title="is a wrapper using different from Standalone interface. AKA Adapter" alt="" coords="149,101,221,149"/>
+<area shape="rect" id="node4" href="$structComposite.html" title=" " alt="" coords="245,101,343,149"/>
+<area shape="rect" id="node5" href="$structDecorator.html" title="is a partial wrapper of an object with same as wrapped object Interface" alt="" coords="367,101,461,149"/>
+<area shape="rect" id="node6" href="$structPrototype.html" title="is the factory of himself" alt="" coords="485,101,580,149"/>
+<area shape="rect" id="node7" href="$structProxy.html" title="is a opaque wrapper with same as wrapped object Interface" alt="" coords="605,101,677,149"/>
+<area shape="rect" id="node8" href="$structSample__product.html" title=" " alt="" coords="701,101,839,149"/>
+</map>

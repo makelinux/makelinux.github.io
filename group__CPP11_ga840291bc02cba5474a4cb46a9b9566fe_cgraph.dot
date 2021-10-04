@@ -1,0 +1,56 @@
+digraph "main"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>main</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="algorithm_11" URL="$group__lambda11.html#ga85615049e1a60b40caa291f055769c5c" tooltip="algorithm" ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="constexpr_factorial" URL="$group__lang11.html#gab68bb32a6031780e75cef0a1ded4cdb9" tooltip="https://en.cppreference.com/w/cpp/language/constexpr" ];
+  Node3 -> Node3 [color="midnightblue"style="solid"];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="container_11" URL="$group__lambda11.html#ga72e4d10e6c0223462fb8e5cbb6a647dc" tooltip="container" ];
+  Node1 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="dynamic_memory_11" URL="$group__lang11.html#ga90b35e01fc69af078797f15afe3cd85c" tooltip=" " ];
+  Node5 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="shared_pointer" URL="$group__lang11.html#ga95c258fd50767b68c2ac27f647a812a0" tooltip="shared_ptr" ];
+  Node5 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="unique_pounter" URL="$group__lang11.html#gad910833c04a752d3997e1e0fcc6598c8" tooltip="unique_ptr" ];
+  Node5 -> Node8 [color="midnightblue"style="solid"];
+  Node8 [label="weak_pointer" URL="$group__lang11.html#gac1a6e29326944fa42f80879e157048ae" tooltip="weak_ptr" ];
+  Node1 -> Node9 [color="midnightblue"style="solid"];
+  Node9 [label="func_11" URL="$group__lang11.html#ga36919d7669c19a0f73874e91af90d0d4" tooltip=" " ];
+  Node1 -> Node10 [color="midnightblue"style="solid"];
+  Node10 [label="init_11" URL="$group__lang11.html#gab8e1cf21cef29f6a3b8b4d3bf7ae378f" tooltip=" " ];
+  Node1 -> Node11 [color="midnightblue"style="solid"];
+  Node11 [label="lambda_basics" URL="$group__lambda11.html#ga3b7b316884496ec679ce597d3500ec4b" tooltip=" " ];
+  Node1 -> Node12 [color="midnightblue"style="solid"];
+  Node12 [label="lambda_capture" URL="$group__lambda11.html#ga98e0b31385bc6cf20a3b6b69efd918de" tooltip=" " ];
+  Node1 -> Node13 [color="midnightblue"style="solid"];
+  Node13 [label="lambda_complex" URL="$group__lambda11__complex.html#ga1fad3951c3da909abe5f91ebbff9f433" tooltip=" " ];
+  Node1 -> Node14 [color="midnightblue"style="solid"];
+  Node14 [label="mutex_11" URL="$group__threads11.html#gac4fde02280b76afc0dfd63f3bd0b05b7" tooltip=" " ];
+  Node1 -> Node15 [color="midnightblue"style="solid"];
+  Node15 [label="references_11" URL="$group__lang11.html#gab9898ff9bf1dd6f1cb58b481f0b4df79" tooltip=" " ];
+  Node15 -> Node16 [color="midnightblue"style="solid"];
+  Node16 [label="func_type" URL="$group__lang11.html#ga9592a69bceb833f1011e70b1fee4ef14" tooltip="func_type - overloaded functions" ];
+  Node15 -> Node17 [color="midnightblue"style="solid"];
+  Node17 [label="func_type_template" URL="$group__lang11.html#gaf2ee1e4cdb9cc5f58628700ccf7a8fd8" tooltip="Forwarding reference" ];
+  Node17 -> Node16 [color="midnightblue"style="solid"];
+  Node1 -> Node18 [color="midnightblue"style="solid"];
+  Node18 [label="sig" URL="$group__CPP11.html#ga87fd521792c9ebaccfb225d672c68a5b" tooltip=" " ];
+  Node1 -> Node19 [color="midnightblue"style="solid"];
+  Node19 [label="sort_11" URL="$group__lambda11.html#gabe717f6f0e9decfb4dc2c1600341bfea" tooltip="Compare with sort_03." ];
+  Node1 -> Node20 [color="midnightblue"style="solid"];
+  Node20 [label="threads_11" URL="$group__threads11.html#ga6d132ee45948dcf65ae3ecd9177f6725" tooltip=" " ];
+  Node20 -> Node21 [color="midnightblue"style="solid"];
+  Node21 [label="condition_variable_11" URL="$group__threads11.html#gac92f23ee7b1928560e7a2f3b3a4fc61d" tooltip=" " ];
+  Node1 -> Node22 [color="midnightblue"style="solid"];
+  Node22 [label="trailing_return_type" URL="$group__lang11.html#gabb96757f5b32d1f595edf657b71b9e75" tooltip=" " ];
+  Node1 -> Node23 [color="midnightblue"style="solid"];
+  Node23 [label="types_11" URL="$group__lang11.html#ga3cb9732a3d759a659a91f013a3763158" tooltip=" " ];
+}

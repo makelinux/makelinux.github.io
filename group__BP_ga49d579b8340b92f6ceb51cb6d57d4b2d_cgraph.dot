@@ -1,0 +1,14 @@
+digraph "mediator_demo"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>mediator_demo</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="Mediator::register\l_member" URL="$structMediator.html#abc7fd67c96301b2975f830550ab5713c" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="Member::send" URL="$group__BP.html#ga0b04b5167d12021f4360b6a66a1b1125" tooltip=" " ];
+}

@@ -1,0 +1,12 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node0 [label="Factory_method_demo" URL="$structFactory__method__demo.html" tooltip=" " ];
+  Node0 -> Node1 [dir="back",color="midnightblue"style="solid"];
+  Node1 [label="Sample_factory_method_demo" URL="$structSample__factory__method__demo.html" tooltip=" " ];
+}

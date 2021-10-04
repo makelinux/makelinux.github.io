@@ -1,0 +1,12 @@
+digraph "Graphical Class Hierarchy"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node36 [label="std::queue" color=grey75 tooltip=" " ];
+  Node36 -> Node0 [dir="back",color="firebrick4"style="solid"];
+  Node0 [label="Synchronized_queue\l\< T, Container \>" URL="$classSynchronized__queue.html" tooltip=" " ];
+}

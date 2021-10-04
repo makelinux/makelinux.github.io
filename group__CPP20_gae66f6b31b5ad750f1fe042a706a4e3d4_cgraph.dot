@@ -1,0 +1,24 @@
+digraph "main"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10 arrowhead=open arrowtail=open arrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12 shape=plaintext];
+  rankdir="LR";
+  Node1 [label=<<b>main</b>> tooltip=" " ];
+  Node1 -> Node2 [color="midnightblue"style="solid"];
+  Node2 [label="coroutine_demo" URL="$group__cor20.html#gad60476e89c26d10aeb283520ea014983" tooltip=" " ];
+  Node1 -> Node3 [color="midnightblue"style="solid"];
+  Node3 [label="dynamic_memory_20" URL="$group__lang20.html#ga695ca6ed5b3485fb505fa16fff84b4e8" tooltip=" " ];
+  Node1 -> Node4 [color="midnightblue"style="solid"];
+  Node4 [label="functional_20" URL="$group__other20.html#ga0292ff079c75c49f84bd66e57904c781" tooltip=" " ];
+  Node1 -> Node5 [color="midnightblue"style="solid"];
+  Node5 [label="init_20" URL="$group__lang20.html#gab08e7db2d73fbef046650e7b719c99bd" tooltip=" " ];
+  Node1 -> Node6 [color="midnightblue"style="solid"];
+  Node6 [label="lambda::lambda_20" URL="$namespacelambda.html#a2cde9dac3329de71cbb605b62602b904" tooltip=" " ];
+  Node1 -> Node7 [color="midnightblue"style="solid"];
+  Node7 [label="location_20" URL="$group__other20.html#ga057a37dd325b6e2202d191c7977a0930" tooltip="source_location" ];
+  Node1 -> Node8 [color="midnightblue"style="solid"];
+  Node8 [label="types_20" URL="$group__lang20.html#ga02af8d2ec8c6e12b5295f96e2c747435" tooltip=" " ];
+}

@@ -1,0 +1,12 @@
+digraph "adder"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  graph [];
+  edge [fontname=Ubuntu labelfontsize=10arrowhead=openarrowtail=openarrowsize=0.5];
+  node [fontname=Ubuntu fontsize=12shape=plaintext];
+  rankdir="RL";
+  Node1 [label=<<b>adder</b>> tooltip="https://en.cppreference.com/w/cpp/language/parameter_pack" ];
+  Node1 -> Node2 [dir="back",color="midnightblue"style="solid"];
+  Node2 [label="adder" URL="$group__lang11.html#ga2f4d5e531a8de96a3e65190c3fb78388" tooltip=" " ];
+}
