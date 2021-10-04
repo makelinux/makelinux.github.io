@@ -8,4 +8,6 @@ layout: home
 
 [kernel](kernel)
 
+[C++ examples](docs/examples/cpp/)
+
 [github](https://github.com/makelinux)
