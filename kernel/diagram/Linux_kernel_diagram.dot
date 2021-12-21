@@ -19,7 +19,7 @@ digraph matrix {
 		weight=10,
 		style="filled,setlinewidth(5)"
 	];
-	{
+	subgraph system {
 		node [color="#e27dd6ff"];
 		system_		 [color="#e27dd6ff",
 			fixedsize=true,
@@ -67,15 +67,15 @@ digraph matrix {
 			fillcolor="#71809b",
 			label="bus drivers"];
 		log_sys -> bus_drv		 [color="#e27dd6ff"];
-		H2		 [color="#e27dd6ff",
+		buses		 [color="#e27dd6ff",
 			fillcolor="#777777",
 			fontcolor=white,
 			fontsize=20,
-			label="busess:\nPCI, USB ...",
+			label="buses:\nPCI, USB ...",
 			row=chip];
-		bus_drv -> H2		 [color="#e27dd6ff"];
+		bus_drv -> buses		 [color="#e27dd6ff"];
 	}
-	{
+	subgraph networking {
 		node [color="#61c2c5"];
 		edge [color="#61c2c5"];
 		networking_		 [color="#61c2c5",
@@ -131,7 +131,7 @@ digraph matrix {
 		NFS -> log_prot		 [color="#61c2c5",
 			weight=0];
 	}
-	{
+	subgraph storage {
 		node [color="#8383cc"];
 		edge [color="#8383cc"];
 		NFS;
@@ -176,8 +176,8 @@ digraph matrix {
 			label="page\ncache",
 			shape=octagon,
 			width=1.2];
-		VFS -> PC		 [color="#8383cc",
-			weight=0];
+		PC -> PA		 [color="#51bf5b", weight=0];
+		VFS -> PC		 [color="#8383cc", weight=0];
 		mmap		 [color="#51bf5b",
 			fillcolor="#91b5c9",
 			fixedsize=true,
@@ -193,29 +193,15 @@ digraph matrix {
 			fontsize=20,
 			label="Block\ndevices\nand drivers"];
 		logFS -> block		 [color="#8383cc"];
-		PA		 [color="#51bf5b",
-			fillcolor="#71809b",
-			label="Page\nAllocator"];
-		PC -> PA		 [color="#51bf5b",
-			weight=0];
-		H4		 [color="#8383cc",
+		SD		 [color="#8383cc",
 			fillcolor="#777777",
 			fontcolor=white,
 			fontsize=20,
 			label="storage devices:\nSCSI, NVMe ...",
 			row=chip];
-		block -> H4		 [color="#8383cc"];
-		SW		 [color="#8383cc",
-			fillcolor="#91b5c9",
-			fixedsize=true,
-			label=Swap,
-			height=0.8,
-			shape=octagon,
-			width=1.2];
-		SW -> block		 [color="#8383cc",
-			weight=0];
-	}
-	{
+		block -> SD		 [color="#8383cc"];
+	}	// storge
+	subgraph processing {
 		node [color="#c46747"];
 		edge [color="#c46747"];
 		processing_		 [color="#c46747",
@@ -268,9 +254,10 @@ digraph matrix {
 			fontsize=20,
 			row=chip];
 		IRQ -> CPU		 [color="#c46747"];
-	}
-	{
+	}	// processing
+	subgraph HI {
 		node [color="#cfbf57ff",
+
 		];
 		edge [color="#cfbf57ff",
 			weight=10
@@ -282,7 +269,7 @@ digraph matrix {
 			style=invis,
 			width=0];
 		HI		 [color="#cfbf57ff",
-			URL="https://en.wikibooks.org/wiki/The_Linux_Kernel",
+			URL="https://en.wikibooks.org/wiki/The_Linux_Kernel/Human_interfaces",
 			fillcolor=white,
 			fixedsize=true,
 			fontsize=12,
@@ -314,24 +301,23 @@ digraph matrix {
 			label="HI\nperipherals\ndrivers"];
 		F7 -> HID		 [color="#cfbf57ff"
 			];
-		H7		 [color="#cfbf57ff",
+		display		 [color="#cfbf57ff",
 			fillcolor="#777777",
 			fontcolor=white,
-			fontsize=20,
-			label="display, keyboard,\nmouse, audio",
+			fontsize=19,
+			label="keyboard, mouse,\ndisplay, audio",
 			row=chip];
-		HID -> H7		 [color="#cfbf57ff" ];
-	}
-	{
+		HID -> display		 [color="#cfbf57ff" ];
+	} // HI
+	subgraph functions {
 		graph [rank=same];
 		edge [style=invis,
 			weight=1
 		];
 		system;
 		networking;
-		system -> networking		 [weight=1];
-		storage;
-		networking -> storage		 [weight=1];
+		system -> processing [weight=1];
+		storage -> networking 		 [weight=1];
 		memory		 [color="#51bf5b",
 			URL="https://en.wikibooks.org/wiki/The_Linux_Kernel/Memory",
 			fillcolor=white,
@@ -339,17 +325,14 @@ digraph matrix {
 			height=0.6,
 			row=func,
 			width=2];
-		storage -> memory		 [weight=1];
-		processing;
-		HI;
-		processing -> HI		 [weight=1];
-		memory -> processing		 [weight=1];
+		memory -> storage 		[weight=1];
+		processing -> memory 		 [weight=1];
 		functions_		 [fixedsize=true,
 			height=0,
 			shape=point
 			style=invis,
 			width=0];
-		functions_ -> system		 [weight=1];
+		functions_ -> HI -> system [weight=1];
 		functions		 [color=gray,
 			tooltip="Columns represent main functionalities of the kernel",
 			URL="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml",
@@ -364,7 +347,7 @@ digraph matrix {
 			style="",
 			weight=""];
 	}
-	{
+	subgraph interfaces {
 		graph [rank=same];
 		SCI;
 		sock;
@@ -390,9 +373,7 @@ digraph matrix {
 			shape=ellipse];
 	}
 	{
-		edge [style=invis,
-			weight=10
-		];
+		edge [style=invis weight=10 ];
 		system_;
 		SCI;
 		system_ -> SCI;
@@ -416,7 +397,7 @@ digraph matrix {
 			width=0];
 		memory_ -> MA;
 	}
-	{
+	subgraph virtual {
 		graph [rank=same];
 		sysfs;
 		prot_fam;
@@ -437,8 +418,13 @@ digraph matrix {
 			fillcolor="#b2d3e4",
 			label="Virtual\nmemory"];
 	}
-	{
+	subgraph bridges {
 		graph [rank=same];
+		bridges		 [fillcolor="#91b5c9",
+			shape=octagon,
+			tooltip="bridges between uniform virtual interfaces and various implementations",
+			URL="https://en.wikipedia.org/wiki/Bridge_pattern",
+			style="filled,setlinewidth(0)"];
 		DM;
 		NFS;
 		mmap;
@@ -448,13 +434,8 @@ digraph matrix {
 			shape=point,
 			style=invis,
 			width=0];
-		bridges		 [fillcolor="#91b5c9",
-			shape=octagon,
-			tooltip="bridges between uniform virtual interfaces and various implementations",
-			URL="https://en.wikipedia.org/wiki/Bridge_pattern",
-			style="filled,setlinewidth(0)"];
 	}
-	{
+	subgraph logical {
 		graph [rank=same];
 		log_sys;
 		log_prot;
@@ -472,8 +453,11 @@ digraph matrix {
 			fillcolor="#6a9ab1",
 			label="logical\nmemory"];
 	}
-	{
+	subgraph HWI {
 		graph [rank=same];
+		HWI		 [fillcolor="#71809b",
+			label="hardware\ninterfaces",
+			style="filled,setlinewidth(0)"];
 		bus_drv;
 		netif;
 		block;
@@ -485,28 +469,25 @@ digraph matrix {
 			shape=point,
 			style=invis,
 			width=0];
-		HWI		 [fillcolor="#71809b",
-			label="hardware\ninterfaces",
-			style="filled,setlinewidth(0)"];
 	}
-	{
+	subgraph HW {
 		graph [rank=same];
-		H2;
-		net_hw;
-		H4;
-		CPU;
-		H7;
-		H0		 [fixedsize=true,
-			height=0,
-			shape=point,
-			style=invis,
-			width=0];
 		HW		 [fillcolor="#777777",
 			fontcolor=white,
 			label="electronics,\nhardware",
 			row=chip,
 			style="filled,setlinewidth(0)"];
-		H5		 [color="#51bf5b",
+		buses;
+		net_hw;
+		SD;
+		CPU;
+		display;
+		H0		 [fixedsize=true,
+			height=0,
+			shape=point,
+			style=invis,
+			width=0];
+		RAM		 [color="#51bf5b",
 			fillcolor="#777777",
 			fontcolor=white,
 			fontsize=20,
@@ -518,31 +499,34 @@ digraph matrix {
 			height=0.5
 		];
 		edge [color="#51bf5b"];
-		PC;
-		mmap;
-		SW;
-		mmap -> SW		 [color="#51bf5b",
-			weight=0];
-		log_mem;
+		PA
+			[color="#51bf5b",
+			fillcolor="#71809b",
+			label="Page\nAllocator"];
 		mmap -> log_mem		 [color="#51bf5b"];
-		PA;
-		H5;
-		PA -> H5		 [color="#51bf5b"];
-		memory;
-		memory_;
+		log_mem -> PA		 [color="#51bf5b"];
+		//VFS -> SW [ style=invis];
+		SW               [color="#8383cc",
+				 fillcolor="#91b5c9",
+				 fixedsize=true,
+				 label=Swap,
+				 height=0.8,
+				 shape=octagon,
+				 width=1.2];
+		mmap -> SW		 [color="#51bf5b", weight=1];
+		SW -> block              [color="#8383cc", weight=1];
+		log_mem;
+		PA -> RAM		 [color="#51bf5b"];
 		memory -> memory_		 [arrowhead="",
 			color="#51bf5b",
 			row=func];
-		MA;
-		VM;
 		MA -> VM		 [color="#51bf5b"];
 		VM -> mmap		 [color="#51bf5b"];
-		log_mem -> PA		 [color="#51bf5b"];
 	}
-	bottom	 [label="© 2007-2020 Constantine Shulyupin http://www.MakeLinux.net/kernel/diagram",
+	bottom	 [label="© 2007-2021 Constantine Shulyupin http://www.MakeLinux.net/kernel/diagram",
 		shape=plaintext,
 		style=""];
-	H4 -> bottom	 [style=invis];
+	CPU -> bottom	 [style=invis];
 	layers	 [fillcolor=lightgray,
 		tooltip="Functionalities are divided to common layers. It is approximate division.",
 		height=0.1,
@@ -595,5 +579,5 @@ digraph matrix {
 		label="Linux kernel diagram",
 		shape=plain,
 		style=""];
-	LKD -> storage [style=invis];
+	LKD -> processing [style=invis];
 }
