@@ -138,7 +138,7 @@ el('status2').style.display='';
 				<b class="hide">NEW!</b>
 				<hr>
 				<!-- #include virtual="linux_kernel_networking.shtml" -->
-				<a href="https://github.com/makelinux/linux_kernel_map/blob/master/LKM.svg">SVG</a>,
+				<a href="https://github.com/makelinux/linux_kernel_map/blob/main/LKM.svg">SVG</a>,
 				<a href="http://www.makelinux.net/kernel_map/LKM.pdf">PDF</a>
 				<br>
 				<br>
