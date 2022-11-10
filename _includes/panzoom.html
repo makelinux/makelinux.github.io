@@ -1,0 +1,22 @@
+<div style='position:absolute;top:10;right:10' >
+{% include buttons.svg %}
+</div>
+<script src="https://unpkg.com/@panzoom/panzoom@4.5.1/dist/panzoom.min.js"></script>
+
+<script type="text/javascript" >
+const panzoom = Panzoom(elem, {maxScale: 12})
+
+m = { animate: true, relative: true, maxScale: 80 }
+right.addEventListener('click', function() {panzoom.pan(100, 0, m);})
+left.addEventListener('click', function() {panzoom.pan(-100, 0, m);})
+lu.addEventListener('click', function() {panzoom.pan(-100, -100, m);})
+up.addEventListener('click', function() {panzoom.pan(0, -100, m);})
+ru.addEventListener('click', function() {panzoom.pan(100, -100, m);})
+down.addEventListener('click', function() {panzoom.pan(0, 100, m);})
+ld.addEventListener('click', function() {panzoom.pan(-100, 100, m);})
+rd.addEventListener('click', function() {panzoom.pan(100, 100, m);})
+center.addEventListener('click', panzoom.reset)
+zoom_in.addEventListener('click', panzoom.zoomIn)
+zoom_out.addEventListener('click', panzoom.zoomOut)
+elem.parentElement.addEventListener('wheel', panzoom.zoomWithWheel)
+</script>
