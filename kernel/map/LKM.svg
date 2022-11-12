@@ -22,18 +22,6 @@
    version="1.0">
   <defs
      id="defs9395">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4636">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop4638" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop4640" />
-    </linearGradient>
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
@@ -47,91 +35,6 @@
          d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
          transform="scale(-0.6,-0.6)" />
     </marker>
-    <marker
-       inkscape:stockid="DiamondSend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="DiamondSend"
-       style="overflow:visible">
-      <path
-         id="path4619"
-         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(0.2,0,0,0.2,-1.2,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Send"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Send"
-       style="overflow:visible">
-      <path
-         id="path4530"
-         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.2,0,0,-0.2,-1.2,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="DotM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="DotM"
-       style="overflow:visible">
-      <path
-         id="path4580"
-         d="M -2.5,-1 C -2.5,1.76 -4.74,4 -7.5,4 C -10.26,4 -12.5,1.76 -12.5,-1 C -12.5,-3.76 -10.26,-6 -7.5,-6 C -4.74,-6 -2.5,-3.76 -2.5,-1 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none"
-         transform="matrix(0.4,0,0,0.4,2.96,0.4)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Mend"
-       style="overflow:visible">
-      <path
-         id="path7898"
-         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Lend"
-       style="overflow:visible">
-      <path
-         id="path4518"
-         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow2Send"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Send"
-       style="overflow:visible">
-      <path
-         id="path4548"
-         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
-         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
-         transform="matrix(-0.3,0,0,-0.3,0.69,0)" />
-    </marker>
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 600 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1600 : 600 : 1"
-       inkscape:persp3d-origin="800 : 400 : 1"
-       id="perspective1337" />
     <linearGradient
        id="linearGradient_blue_mod">
       <stop
@@ -153,17 +56,6 @@
          style="stop-color:#e0cea1;stop-opacity:0.50196081;"
          offset="1"
          id="stop4955" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient_cyan2">
-      <stop
-         id="stop4937"
-         offset="0"
-         style="stop-color:#6dfff2;stop-opacity:0.5;" />
-      <stop
-         style="stop-color:#6dfff2;stop-opacity:0.500004;"
-         offset="1"
-         id="stop4933" />
     </linearGradient>
     <linearGradient
        id="linearGradient_blue2">
@@ -411,17 +303,6 @@
        fx="1140.4834"
        fy="513.58649"
        r="105.4834" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4636"
-       id="radialGradient4642"
-       cx="1170"
-       cy="241.20135"
-       fx="1170"
-       fy="241.20135"
-       r="930"
-       gradientTransform="matrix(1,0,0,0.1206932,0,212.08998)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -430,9 +311,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.97407407"
-     inkscape:cx="935.69722"
-     inkscape:cy="1168.9995"
+     inkscape:zoom="0.48703704"
+     inkscape:cx="1080"
+     inkscape:cy="810"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:window-width="1846"
