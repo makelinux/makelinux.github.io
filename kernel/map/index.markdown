@@ -25,15 +25,15 @@ elem = document.getElementById('LKM')
 <script src="/common/script.js"> </script>
 <div align="left" id="log" style='right:0;bottom:0;position:absolute;color:white;font-size:xx-small' >Log:</div>
 <center>
-<table cellspacing="5" border="0" style="left:0;bottom:0;position:absolute" bgcolor="#DDDDDD">
-			<tr> 
-				<td> 
+		<table cellspacing="5" border="0" style="left:0;bottom:0;position:absolute" bgcolor="#DDDDDD">
+			<tr>
+				<td>
 					<small>
 						<nobr>
 						<a href="intro">About</a><br>
 						<a href="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml">Splitting the Kernel</a><br>
 		 <br>
-	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=200&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:300px;" allowTransparency="true"></iframe>
+	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=100&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; xheight:150px;" allowTransparency="true"></iframe>
 	      <br>
 	      <a href="referers">referers</a><br>
 	      <a href="http://makelinux.wordpress.com/2010/12/20/comments-on-interactive-linux-kernel-map/"><img border="0" height="16" width="16" src="/common/pencil.png"> comments<br></a>
@@ -44,8 +44,8 @@ elem = document.getElementById('LKM')
 			</tr>
 		</table>
 	<table cellspacing="5" border="0" id="dashboard" bgcolor="#DDDDDD" style='display:;position:absolute;top:0;right:0'>
-		<tr> 
-			<td> 
+		<tr>
+			<td>
 				<nobr>
 				<center>
 					Navigation
