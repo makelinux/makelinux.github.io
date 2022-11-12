@@ -471,7 +471,7 @@
         <dc:description />
         <dc:rights>
           <cc:Agent>
-            <dc:title>© 2007, 2010 Constantine Shulyupin </dc:title>
+            <dc:title>© 2007–2022 Constantine Shulyupin </dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:source>www.MakeLinux.net/kernel/map</dc:source>
@@ -3655,7 +3655,7 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans"
              id="tspan3076"
              y="1195.4624"
-             x="799.37378">© 2007, 2010 Constantine Shulyupin www.MakeLinux.net/kernel/map</tspan>
+             x="799.37378">© 2007–2022 Costa Shulyupin www.MakeLinux.net/kernel/map</tspan>
         </text>
       </a>
 <a target="2" xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_write">
