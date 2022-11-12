@@ -36,7 +36,8 @@ elem = document.getElementById('LKM')
 						<a href="intro">About</a><br>
 						<a href="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml">Splitting the Kernel</a><br>
 		 <br>
-	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=100&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=200" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; xheight:150px;" allowTransparency="true"></iframe>
+	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=100&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=100" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:100px;" allowTransparency="true"></iframe>
+
 	      <br>
 	      <a href="referers">referers</a><br>
 	      <a href="http://makelinux.wordpress.com/2010/12/20/comments-on-interactive-linux-kernel-map/"><img border="0" height="16" width="16" src="/common/pencil.png"> comments<br></a>
