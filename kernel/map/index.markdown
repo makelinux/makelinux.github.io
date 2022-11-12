@@ -70,31 +70,6 @@ el('status2').style.display='';
 					Navigation
 					<p/>
 					{% include panzoom.html %}
-					<table cellspacing="2"  cellpadding="0" >
-						<tr>
-							<td> <button onclick="move(30,30)" ><img src="lu.png" ></button> </td>
-							<td > <button onclick="move(0,30)" title="pan up"><img src="u.png" ></button> </td>
-							<td> <button onclick="move(-30,30)"><img src="ru.png" ></button> </td>
-						</tr> 
-						<tr>
-							<td> <button onclick="move(30,0)" title="pan left"><img src="l.png" ></button> </td>
-							<td> <button onclick="map_home()" title="HOME"><img src="c.png" ></button> </td>
-							<td> <button onclick="move(-30,0)" title="pan right"><img src="r.png" ></button> </td>
-						</tr> <tr>
-							<td> <button onclick="move(30,-30)"><img src="ld.png" ></button> </td>
-							<td> <button onclick="move(0,-30)" title="pan down"><img src="d.png" ></button> </td>
-							<td> <button onclick="move(-30,-30)" ><img src="rd.png" ></button> </td>
-						</tr> <tr>
-							<td> <button onclick="mousePos={x:wnd.x/2,y:wnd.y/2};zoom(-1);" title="zoom out"><img src="zo.png" ></button> </td>
-							<td> <button onclick="mousePos={x:wnd.x/2,y:wnd.y/2};zoom(1)" title="zoom in"><img src="zi.png" ></button> </td>
-							<td> <button onclick="mousePos=null;map_macro()" title="macro zoom"><img src="zm.png" ></button> </td>
-						</tr> 
-						<tr>
-							<td> </td>
-							<td> </td>
-							<td> </td>
-						</tr>
-					</table>
 				</center>
 				<span class="small">
 					Mouse: <br> 
