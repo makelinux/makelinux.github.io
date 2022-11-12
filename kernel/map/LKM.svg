@@ -689,7 +689,7 @@
            x="1962.1577"
            y="379.03845"
            id="tspan2300"
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">protocol families</tspan>
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">address families</tspan>
       </text>
 </a>
 <a target="2" xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Networking#Sockets">
@@ -731,7 +731,7 @@
            y="1036.9248"
            x="1962.026"
            id="tspan2540"
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">network interface</tspan>
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">network interfaces</tspan>
       </text>
 </a>
 <a target="2" xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Networking">
@@ -1271,7 +1271,7 @@
            sodipodi:role="line"
            x="1646.4622"
            y="1498.8977"
-           id="tspan4727">disk controllers</tspan></text>
+           id="tspan4727">storage controllers</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:30.13366318px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
@@ -1297,7 +1297,7 @@
            id="tspan4743"
            x="429.48282"
            y="95.526711"
-           style="font-size:37.42427826px">human interface</tspan></text>
+           style="font-size:37.42427826px">human interfaces</tspan></text>
 </a>
     </g>
     <g
@@ -3234,7 +3234,7 @@
            sodipodi:role="line"
            id="tspan3339"
            x="1797.8458"
-           y="632.30011">networking</tspan><tspan
+           y="632.30011">network</tspan><tspan
            sodipodi:role="line"
            x="1797.8458"
            y="658.6416"
@@ -3586,7 +3586,7 @@
            x="2021.7739"
            y="1534.436"
            id="tspan2128"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">WiFi</tspan>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">Wi-Fi</tspan>
       </text>
 </a>
 <a target="2" xlink:href="https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller">
@@ -3641,7 +3641,7 @@
       </text>
 </a>
       <a
-         xlink:href="www.MakeLinux.net/kernel/map"
+         xlink:href="http://www.MakeLinux.net/kernel/map"
          transform="matrix(1.3170732,0,0,1.3170732,27.62694,13.170732)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="a25092">
