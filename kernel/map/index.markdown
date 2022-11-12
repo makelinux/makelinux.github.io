@@ -46,48 +46,17 @@ elem = document.getElementById('LKM')
 						<nobr>
 						<a href="intro">About</a><br>
 						<a href="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml">Splitting the Kernel</a><br>
-						<!--<a href="LKM21_8192.png" title="PNG image, 8192 x 6144, 4487202 bytes">png 8Kx6K pix<br></a>-->
-						<a class="plain" href="plain_" title="plain HTML version without JavaScript">plain html<br></a>
-						<!--
-	      <a href="http://www.go2linux.org/linux-kernel-map">review 1</a><br>
-	      <a href="http://linuxhelp.blogspot.com/2007/08/introducing-interactive-linux-kernel.html">review 2</a><br>
-						-->
-						<a class="hide" href="http://en.wikipedia.org/wiki/File_talk:Linux_kernel_map.png"><img border="0" height="16" width="16" src="/common/pencil.png"> advise<br></a>
-						<!-- 
-	      <img width="16" height="16" border="0" src="../style/facebook.png">
-	      <a class="hide" href="http://www.facebook.com/pages/Interactive-Linux-Kernel-Map/115958886534">facebook<br></a>
-	      <a href="http://www.facebook.com/group.php?gid=47756059229">join FB group<br></a>
-	      #include virtual="../style/facebook.shtml" --> <br>
+		 <br>
 	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=200&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=300" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:300px;" allowTransparency="true"></iframe>
 	      <br>
-	      <!-- <a href="http://www.facebook.com/group.php?gid=47756059229">facebook goup</a> <br> -->
-	      <!--<a target="_top" href="http://www.makelinux.net/system/">GNU/Linux map</a><br>-->
 	      <a href="referers">referers</a><br>
 	      <a href="http://makelinux.wordpress.com/2010/12/20/comments-on-interactive-linux-kernel-map/"><img border="0" height="16" width="16" src="/common/pencil.png"> comments<br></a>
 	      <a target="_top" href="http://www.makelinux.net/resources">more ...</a><br>
-	      <!-- #include virtual="../style/chat.shtml" -->
-	      <!--<a href="http://www.javvin.com/product_info.php?ref=41&products_id=136&affiliate_banner_id=50" target="_blank">Linux Quick Guide</a><br>-->
-	      <!-- <a href="../israel/fighting_israel_for_dummies">a truth about Israel</a> -->
-	      <!-- <br> <script src="http://slashdot.org/slashdot-it.js" type="text/javascript"></script> -->
-	      <!-- <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=1d915243-dc07-43c4-9dae-d2f22495899d&amp;type=website"></script> -->
-	      <!-- #include virtual="poll.shtml" -->
 						</nobr>
 					</small>
 				</td>
 			</tr>
 		</table>
-		<div align="center" style="position:absolute;bottom:0;left:20%">
-			<center>
-				<!-- #include virtual="/style/advw.shtml" -->
-			</center>
-		</div>
-		<div align="right" class="hide" style='display:xxnone;position:absolute;bottom:0;right:0;background:#7777ff;color:white;link-color:white' > 
-			&nbsp;<nobr><a id="label" href="poster?l=1"><b>poster</b> for your wall&nbsp;</a></nobr>
-		</div>
-		<div id="nojavascript2"> 
-			<br>Please Enable JavaScript<br><a href="plain_" >or use plain html</a>
-		</div>
-	</center>
 	<script type="text/javascript">
 		//
 		el('nojavascript2').style.display='none';
