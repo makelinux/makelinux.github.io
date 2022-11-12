@@ -30,6 +30,11 @@
 
 <body style="overflow:hidden;cursor:wait" onscroll="onscroll()" onload="body_onload()">
 <script type="text/javascript" > location_fix("makelinux.net"); </script>
+<style> #LKM { height:100%; width:100%; } </style>
+{% include_relative LKM.svg %}
+<script type="text/javascript" >
+elem = document.getElementById('LKM')
+</script>
 <script src="/common/script.js"> </script>
 <div align="left" id="log" style='right:0;bottom:0;position:absolute;color:white;font-size:xx-small' >Log:</div>
 <center>
@@ -76,9 +81,6 @@
 				<!-- #include virtual="/style/advw.shtml" -->
 			</center>
 		</div>
-		<map id="idmap" name="idmap"><area href="#" title="" coords="0,0,1,1" target="lxr" > </map>
-		<img style="position:relative;display:none;cursor:wait" id="lkmi" src="LKM.svg"
-				 usemap="#idmap"  border="0" title="drag and zoom me" alt="Linux kernel map" />
 		<div align="right" class="hide" style='display:xxnone;position:absolute;bottom:0;right:0;background:#7777ff;color:white;link-color:white' > 
 			&nbsp;<nobr><a id="label" href="poster?l=1"><b>poster</b> for your wall&nbsp;</a></nobr>
 		</div>
@@ -96,7 +98,9 @@ el('status2').style.display='';
 			<td> 
 				<nobr>
 				<center>
-					<span class="xxcap">Navigation</span>
+					Navigation
+					<p/>
+					{% include panzoom.html %}
 					<table cellspacing="2"  cellpadding="0" >
 						<tr>
 							<td> <button onclick="move(30,30)" ><img src="lu.png" ></button> </td>
@@ -186,9 +190,6 @@ el('status2').style.display='';
 	<div align="left" id="cur" > <a id="link" name="link"></a> </div>
 	<!--  #include virtual="style/track.html"  -->
 	<!-- <script src="aaahttp://www.makelinux.info/kernel_map/zoom.js" type="text/javascript"> </script> -->
-	<script src="zoom.js" type="text/javascript"> </script>
-	<script src="drag.js" type="text/javascript"> </script>
-	<script src="LKM3_area.js" type="text/javascript"> </script>
 	<script src="cookie.js" type="text/javascript"> </script>
 	<script type="text/javascript">
 		var traceimg= new Image();
