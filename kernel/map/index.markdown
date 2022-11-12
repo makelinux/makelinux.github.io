@@ -72,14 +72,13 @@ el('status2').style.display='';
 					{% include panzoom.html %}
 				</center>
 				<span class="small">
-					Mouse: <br> 
-					Drag - pan <br> 
-					Wheel, <br> 
-					Dbl Click - zoom <br> 
-					Items - links <br> 
+					Mouse: <br>
+					Drag - pan <br>
+					Wheel - zoom, <br>
+					Items - links <br>
 					<br>
 					Keyboard: <br> PgDn, PgUp
-					- zoom <br> arrows - pan <br> 
+					- zoom <br> arrows - pan <br>
 				</span>
 				</nobr>
 				<br>
