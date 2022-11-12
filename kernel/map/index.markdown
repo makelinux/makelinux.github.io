@@ -1,3 +1,5 @@
+---
+---
 <head>
 	<title>Interactive map of Linux kernel</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
