@@ -71,13 +71,4 @@ elem = document.getElementById('LKM')
 		</tr>
 	</table>
 </body>
-<div style='position:absolute;bottom:0'>
-	<!--#include virtual="../style/google.html"  -->
-	<!-- #include virtual="style/godaddy.html"  -->
-</div>
-<!-- 
-	(c) Constantine Shulyupin
-	Thanks to:
-	http://www.webreference.com/programming/javascript/mk/column2/
-	http://adomas.org/javascript-mouse-wheel/
--->
+<!-- (c) Constantine Shulyupin -->
