@@ -2336,13 +2336,6 @@
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text5070"
          inkscape:connection-end="#text5086" />
-      <path
-         style="font-size:10px;text-align:center;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 932.80828,640.39996 L 932.81337,647.7686"
-         id="path4239"
-         inkscape:connector-type="polyline"
-         inkscape:connection-start="#text4231"
-         inkscape:connection-end="#text4235" />
       <rect
          style="opacity:1;fill:#c3c2b7;fill-opacity:0.78431373;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4367"
@@ -7374,28 +7367,6 @@
            x="1920.4875"
            y="1116.1787">register_netdev</tspan></text>
 </a>
-<a target="2" xlink:href="https://elixir.bootlin.com/linux/latest/ident/lock_kernel">
-      <text
-         xml:space="preserve"
-         style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         x="932.82166"
-         y="638.08191"
-         id="text4231"><tspan
-           sodipodi:role="line"
-           id="tspan4233"
-           x="932.82166"
-           y="638.08191">lock_kernel</tspan></text>
-</a>
-      <text
-         xml:space="preserve"
-         style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         x="932.86761"
-         y="655.48138"
-         id="text4235"><tspan
-           sodipodi:role="line"
-           id="tspan4237"
-           x="932.86761"
-           y="655.48138">kernel_flag</tspan></text>
 <a target="2" xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sigaction">
       <text
          xml:space="preserve"
