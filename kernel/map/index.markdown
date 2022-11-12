@@ -64,10 +64,9 @@ elem = document.getElementById('LKM')
 				</nobr>
 				<br>
 				<hr>
-				<a href="https://github.com/makelinux/linux_kernel_map/blob/main/LKM.svg">SVG</a>,
-				<a href="http://www.makelinux.net/kernel_map/LKM.pdf">PDF</a>
-				<br>
-				<a href="https://www.redbubble.com/people/costa-shul/works/31893024-linux-kernel-map?p=tapestry">Tapestry, Poster</a><br>
+				<a target="svg" href="https://github.com/makelinux/linux_kernel_map/blob/main/LKM.svg">SVG</a><br>
+				<a target="redbubble" href="https://www.redbubble.com/i/poster/Linux-kernel-map-by-Costa-Shul/31893024.LVTDI">Poster</a><br>
+				<a target="redbubble" href="https://www.redbubble.com/people/costa-shul/works/31893024-linux-kernel-map?p=tapestry">Tapestry</a><br>
 			</td>
 		</tr>
 	</table>
