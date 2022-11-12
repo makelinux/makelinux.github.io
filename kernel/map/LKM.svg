@@ -269,7 +269,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5107"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.8176227,-3.0318063e-7,2.3189161e-7,1.8276046,-59.1432,-256.33832)"
+       gradientTransform="matrix(1.8176227,0,0,1.8276046,-59.1432,-256.33832)"
        cx="105"
        cy="515"
        fx="105"
@@ -280,7 +280,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5115"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7633225,7.0139263e-7,-6.0998669e-7,2.220907,-519.49729,-451.71425)"
+       gradientTransform="matrix(2.7633225,0,0,2.220907,-519.49729,-451.71425)"
        cx="555"
        cy="513.25183"
        fx="555"
@@ -291,7 +291,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5117"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7053511,-9.1438698e-7,1.2773668e-6,2.3996797,-786.33783,-543.57168)"
+       gradientTransform="matrix(2.7053511,0,0,2.3996797,-786.33783,-543.57168)"
        cx="777.5"
        cy="513.31775"
        fx="777.5"
@@ -302,7 +302,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5119"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.889567,-7.7133915e-7,4.0839444e-7,1.3159163,-1176.4947,13.807734)"
+       gradientTransform="matrix(2.889567,0,0,1.3159163,-1176.4947,13.807734)"
        cx="945"
        cy="550"
        fx="945"
@@ -313,7 +313,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5121"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.9274488,3.1600584e-7,-1.0410976e-7,1.2484051,-1212.2927,53.787095)"
+       gradientTransform="matrix(2.9274488,0,0,1.2484051,-1212.2927,53.787095)"
        cx="945"
        cy="473.86749"
        fx="945"
@@ -324,7 +324,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5123"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.0995116,6.2942175e-7,-3.5490726e-7,1.6512744,-596.70824,-153.31687)"
+       gradientTransform="matrix(2.0995116,0,0,1.6512744,-596.70824,-153.31687)"
        cx="1140.4834"
        cy="513.58649"
        fx="1140.4834"
@@ -335,7 +335,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient5127"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.7002659,3.9508798e-8,0,2.3781073,-3600.9414,-611.83067)"
+       gradientTransform="matrix(2.7002659,0,0,2.3781073,-3600.9414,-611.83067)"
        cx="1475"
        cy="542.5"
        fx="1475"
@@ -356,7 +356,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient4357"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.5392776,-1.448122e-7,5.6911278e-7,1.7561586,-430.61784,-217.34087)"
+       gradientTransform="matrix(2.5392776,0,0,1.7561586,-430.61784,-217.34087)"
        spreadMethod="pad"
        cx="320"
        cy="390"
@@ -368,7 +368,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient3658"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2696388,-8.354549e-8,2.845564e-7,1.0131684,232.49595,339.13263)"
+       gradientTransform="matrix(1.2696388,0,0,1.0131684,232.49595,339.13263)"
        spreadMethod="pad"
        cx="320"
        cy="390"
@@ -380,7 +380,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient3705"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.1285677,-8.3545485e-8,2.52939e-7,1.0131683,402.76063,339.13268)"
+       gradientTransform="matrix(1.1285677,0,0,1.0131683,402.76063,339.13268)"
        spreadMethod="pad"
        cx="320"
        cy="390"
@@ -392,7 +392,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient3707"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.5392776,-2.4506678e-7,5.691128e-7,2.9719607,-114.52028,-632.23537)"
+       gradientTransform="matrix(2.5392776,0,0,2.9719607,-114.52028,-632.23537)"
        spreadMethod="pad"
        cx="320"
        cy="390"
@@ -404,7 +404,7 @@
        xlink:href="#linearGradient_blue_mod"
        id="radialGradient3774"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4827427,6.2942175e-7,-2.5064691e-7,1.6512744,324.07897,-153.31687)"
+       gradientTransform="matrix(1.4827427,0,0,1.6512744,324.07897,-153.31687)"
        cx="1140.4834"
        cy="513.58649"
        fx="1140.4834"
@@ -487,7 +487,7 @@
        style="opacity:1;display:inline">
       <path
          id="frame4x3"
-         d="M -7.963465e-17,5.2682927e-05 L 2160,5.2682927e-05 L 2160,1620 L -7.963465e-17,1620 L -7.963465e-17,5.2682927e-05 z"
+         d="M 0,0 L 2160,0 L 2160,1620 L 0,1620 L 0,0 z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
          inkscape:label="#path3841" />
       <path
@@ -3730,7 +3730,7 @@
          style="font-size:19.75609779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="text3206"
          x="246.5387"
-         y="8.038777e-05">
+         y="0">
         <tspan
            x="978.466"
            y="869.16382"
@@ -4308,7 +4308,7 @@
          style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="text4262"
          x="343.84888"
-         y="8.038777e-05">
+         y="0">
         <tspan
            x="1544.4921"
            y="1121.4446"
@@ -4581,7 +4581,7 @@
          style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="text4794"
          x="468.12619"
-         y="8.038777e-05">
+         y="0">
         <tspan
            x="1965.9122"
            y="398.31302"
@@ -5633,7 +5633,7 @@
       <text
          style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          id="text6990"
-         x="-3.9853039e-05"
+         x="0"
          y="2.6342268">
         <tspan
            x="188.13412"
