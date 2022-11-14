@@ -22,6 +22,13 @@
    version="1.0">
   <defs
      id="defs9395">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 810 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2160 : 810 : 1"
+       inkscape:persp3d-origin="1080 : 540 : 1"
+       id="perspective6191" />
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
@@ -363,9 +370,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9481481"
-     inkscape:cx="370.30242"
-     inkscape:cy="252.19604"
+     inkscape:zoom="7.7925928"
+     inkscape:cx="978.72468"
+     inkscape:cy="1585.0805"
      inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:window-width="1846"
@@ -1038,6 +1045,17 @@
              style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">interfaces core</tspan>
         </text>
       </a>
+      <text
+         style="font-size:13.69678402px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+         id="text6247"
+         x="717.57153"
+         y="9.7415161">
+        <tspan
+           x="1007.8545"
+           y="24.718868"
+           id="tspan6249"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">5.1</tspan>
+      </text>
       <a
          id="a3726"
          xlink:href="http://www.makelinux.net/kernel/map"
@@ -1120,18 +1138,6 @@
              y="1287.4561"
              id="tspan6481">device drivers</tspan></text>
       </a>
-      <text
-         style="font-size:17.86050034px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
-         id="text6247"
-         x="576.86426"
-         y="8.3505297"
-         transform="scale(1.0506071,0.9518307)">
-        <tspan
-           x="955.39093"
-           y="27.88088"
-           id="tspan6249"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">5</tspan>
-      </text>
       <a
          target="2"
          id="text3485"
@@ -1420,7 +1426,7 @@
          inkscape:connection-end="#text7354" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26341465;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 831.59977,313.12458 L 1602.0155,295.60202"
+         d="M 831.8673,313.12275 L 1606.0155,295.59983"
          id="path3559"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3555"
@@ -1575,7 +1581,7 @@
          inkscape:connection-end="#text5042" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1535.1455,279.33614 L 1498.9831,731.57619"
+         d="M 1527.2156,277.33614 L 1498.8731,731.57619"
          id="path3645"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3641"
@@ -1603,21 +1609,21 @@
          inkscape:connection-start="#text6390" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5268293;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1642.5303,279.71291 L 1628.4201,290.36202"
+         d="M 1642.2969,283.71291 L 1632.8664,290.36202"
          id="path3537"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#text3455"
          inkscape:connection-start="#text3533" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1569.0582,313.9532 L 1563.7703,411.1118"
+         d="M 1567.1763,313.9532 L 1564.1822,411.1118"
          id="path3553"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text20460"
          inkscape:connection-end="#text3547" />
       <path
-         style="font-size:6px;text-align:center;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1693.7063,254.83029 L 1693.7425,263.63332"
+         style="font-size:6px;text-align:center;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.51700002;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1643.9441,216.23401 L 1643.9627,225.35176"
          id="path3595"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3587"
@@ -1631,28 +1637,28 @@
          inkscape:connection-end="#text5850" />
       <path
          style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.79024392;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1595.5524,245.86532 L 1619.5066,290.36202"
+         d="M 1742.1749,321.81779 L 1646.1482,299.75583"
          id="path3463"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3459"
          inkscape:connection-end="#text3455" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1751.8292,213.08136 L 1710.4135,405.55541"
+         d="M 1582.5029,213.11607 L 1705.5479,405.55541"
          id="path3519"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#text3190"
          inkscape:connection-start="#text6846" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1713.7191,309.25639 L 1717.0668,327.76436"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.51700002;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1732.1862,265.17524 L 1735.5015,270.56829"
          id="path3579"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#text3575"
          inkscape:connection-start="#text3571" />
       <path
-         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1727.1022,292.70684 L 1719.0082,299.24663"
+         style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.51700002;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1743.9284,251.69196 L 1734.6018,258.60185"
          id="path3585"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3581"
@@ -2038,7 +2044,7 @@
          inkscape:connection-start="#text4547" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.33403957px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1849.3364,462.79593 L 1860.7358,815.07256"
+         d="M 1849.3302,462.79593 L 1849.3302,815.07256"
          id="path6924"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text6374"
@@ -2087,14 +2093,14 @@
          inkscape:connection-start="#text6965" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1874.9631,823.82469 L 2022.7666,854.54124"
+         d="M 1863.5102,823.68076 L 2022.7666,854.8308"
          id="path3394"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4614"
          inkscape:connection-end="#text4630" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1871.0165,826.74182 L 1915.3334,852.36374"
+         d="M 1861.1871,826.74182 L 1913.2548,852.36374"
          id="path4227"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4614"
@@ -2143,7 +2149,7 @@
          inkscape:connection-end="#text2126" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1882.8274,1524.0405 L 1873.2093,1409.7707"
+         d="M 1883.3472,1524.0405 L 1883.3472,1409.7707"
          id="path3363"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text2110"
@@ -2226,7 +2232,7 @@
          inkscape:connection-end="#text3595" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.39512196;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 664.19402,894.95759 L 1266.6477,885.82009"
+         d="M 665.37733,894.94815 L 1265.696,885.83479"
          id="path3608"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text5462"
@@ -2254,7 +2260,7 @@
          inkscape:connection-end="#text4485" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1367.2769,946.9594 L 1432.6405,1078.6637"
+         d="M 1371.1111,946.9594 L 1432.8144,1078.6637"
          id="path3657"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3618"
@@ -2568,15 +2574,15 @@
          inkscape:connection-start="#text7736"
          inkscape:connection-end="#text7708" />
       <path
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1696.4258,292.74705 L 1705.6844,299.24663"
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.51700002;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1714.4326,251.73217 L 1725.0743,258.60185"
          id="path3660"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3656"
          inkscape:connection-end="#text3571" />
       <path
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1703.9251,309.25639 L 1684.4476,320.22341"
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.51700002;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1727.3927,265.17524 L 1680.9481,320.22341"
          id="path4444"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3571"
@@ -2694,7 +2700,7 @@
          inkscape:connection-end="#text8364" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1591.7747,1204.9529 L 1599.1291,1214.5597"
+         d="M 1587.2747,1204.9529 L 1587.0275,1220.5597"
          id="path4487"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text7206"
@@ -2715,14 +2721,14 @@
          inkscape:connection-end="#text7752" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1575.289,258.657 L 1575.1588,956.21641"
+         d="M 1575.289,288.657 L 1575.1588,956.21641"
          id="path3686"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4533"
          inkscape:connection-end="#text4537" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1562.4948,352.5156 L 1554.5298,611.62672"
+         d="M 1554.6106,352.5156 L 1554.1677,611.62672"
          id="path3453"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4350"
@@ -2771,7 +2777,7 @@
          inkscape:connection-end="#text2014" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 1759.3462,275.51368 L 1759.3468,567.27645"
+         d="M 1759.3346,354.19551 L 1759.3465,585.27645"
          id="path4509"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3713"
@@ -2813,7 +2819,7 @@
          inkscape:connection-end="#text9248" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1872.9072,1397.8512 L 1883.0441,1095.0069"
+         d="M 1883.3472,1397.8512 L 1883.3472,1095.0069"
          id="path3727"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3723"
@@ -2904,7 +2910,7 @@
          inkscape:connection-end="#text5258" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1"
-         d="M 1942.1527,1382.8967 L 1885.2411,1524.0405"
+         d="M 1942.1568,1382.8967 L 1885.3406,1524.0405"
          id="path14960"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3719"
@@ -2946,14 +2952,14 @@
          inkscape:connection-end="#text7222" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-mid:url(#Arrow2Mend);marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1774.9356,579.74914 L 1999.4632,669.57194"
+         d="M 1778.2643,597.74914 L 1996.1344,669.57194"
          id="path3717"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#text3705"
          inkscape:connection-start="#text4500" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1768.6195,579.74914 L 2005.9084,739.33738"
+         d="M 1769.7029,597.74914 L 2004.825,739.33738"
          id="path5710"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4500"
@@ -3041,7 +3047,7 @@
          inkscape:connector-type="polyline" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26341465;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1721.333,198.4223 L 409.37576,436.9043"
+         d="M 1515.3657,181.83305 L 403.70328,436.9043"
          id="path21310"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3142"
@@ -3090,17 +3096,25 @@
          inkscape:connection-start="#a14404" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1548.9407,1324.6701 L 1547.6541,1525.8112"
+         d="M 1548.9724,1411.5296 L 1548.9724,1525.8112"
          id="path14430"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#a14424"
+         inkscape:connection-start="#a4261" />
+      <path
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
+         d="M 1548.9724,1324.6701 L 1548.9724,1401.6252"
+         id="path4268"
+         inkscape:connector-type="polyline"
+         inkscape:connection-end="#a4261"
          inkscape:connection-start="#a14398" />
     </g>
     <g
        inkscape:groupmode="layer"
        id="layer2"
        inkscape:label="Mod"
-       style="opacity:0.5;display:inline">
+       style="opacity:0.5;display:inline"
+       sodipodi:insensitive="true">
       <rect
          style="opacity:1;fill:#c3c2b7;fill-opacity:0.78431373;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect3776"
@@ -3394,7 +3408,7 @@
       <a
          target="2"
          id="text4599"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/socket">
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Zero-copy">
         <text
            xml:space="preserve"
            style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
@@ -3411,12 +3425,109 @@
              y="658.53662"
              id="tspan4607">splice</tspan></text>
       </a>
+      <a
+         style="display:inline"
+         target="2"
+         id="a4270"
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Zero-copy"
+         transform="matrix(0.6658151,0,0,0.6658151,697.48588,-167.50188)">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           id="text4272"
+           x="420.08643"
+           y="-6.3959427"
+           sodipodi:linespacing="100%">
+          <tspan
+             x="1596.256"
+             id="tspan4274"
+             y="703.26575"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">zero-copy</tspan>
+        </text>
+      </a>
+      <a
+         style="display:inline"
+         target="2"
+         id="a4276"
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Vectored_I/O"
+         transform="translate(46.880973,-501.83138)">
+        <text
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           id="text4278"
+           x="751.13904"
+           y="-5.685605"
+           sodipodi:linespacing="100%"
+           transform="scale(0.8889393,1.1249362)">
+          <tspan
+             x="1796.6824"
+             id="tspan4280"
+             y="625.16052"
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">Vectored I/O</tspan>
+        </text>
+      </a>
+      <a
+         style="display:inline"
+         target="2"
+         id="a5088"
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Asynchronous_I/O"
+         transform="translate(45.344465,-456.70811)"
+         xlink:title="Asynchronous I/O">
+        <text
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           id="text5090"
+           x="751.13904"
+           y="-5.685605"
+           sodipodi:linespacing="100%"
+           transform="scale(0.8889393,1.1249362)">
+          <tspan
+             x="1796.6824"
+             id="tspan5092"
+             y="625.16052"
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">Async I/O</tspan>
+        </text>
+      </a>
+      <a
+         style="display:inline"
+         target="2"
+         id="a4277"
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Non-blocking_I/O"
+         transform="translate(142.58702,-513.1138)"
+         xlink:title="Asynchronous I/O">
+        <text
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
+           id="text4279"
+           x="751.13904"
+           y="-5.685605"
+           sodipodi:linespacing="100%"
+           transform="scale(0.8889393,1.1249362)">
+          <tspan
+             x="1796.6824"
+             id="tspan4281"
+             y="625.16052"
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold">Non-blocking I/O</tspan>
+        </text>
+      </a>
     </g>
     <g
        id="layer1"
        inkscape:label="items"
        inkscape:groupmode="layer"
        style="opacity:1;display:inline">
+      <a
+         target="2"
+         id="text4483"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/usb_stor_host_template"
+         transform="translate(-16,6)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           x="1602.8359"
+           y="1222.2408"
+           id="text9233"><tspan
+             sodipodi:role="line"
+             id="tspan4485"
+             x="1602.8359"
+             y="1222.2408">usb_stor_host_template</tspan></text>
+      </a>
       <a
          style="opacity:1;display:inline"
          target="2"
@@ -3731,7 +3842,8 @@
       <a
          target="2"
          id="text3455"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/alloc_file">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/alloc_file"
+         transform="translate(4,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -3895,7 +4007,8 @@
       <a
          target="2"
          id="text2110"
-         xlink:href="https://en.wikipedia.org/wiki/Ethernet">
+         xlink:href="https://en.wikipedia.org/wiki/Ethernet"
+         transform="translate(-0.3215228,0)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text7741"
@@ -4006,7 +4119,8 @@
       <a
          target="2"
          id="text3110"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_write">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ksys_write"
+         transform="translate(-121.03724,-20.866704)">
         <text
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text7766"
@@ -4017,15 +4131,16 @@
              x="1698.7498"
              y="219.51311"
              id="tspan3112"
-             style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_write</tspan>
+             style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">ksys_write</tspan>
         </text>
       </a>
       <a
          target="2"
          id="text3142"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_open">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sys_open"
+         transform="matrix(0.8786511,0,0,0.8786511,-5.16013,8.2938603)">
         <text
-           style="font-size:15.80487823px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:11.38108158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text7770"
            x="436.14001"
            y="-40.768051"
@@ -4034,7 +4149,7 @@
              x="1754.2576"
              y="195.0253"
              id="tspan3144"
-             style="font-size:15.80487823px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_open</tspan>
+             style="font-size:11.38108158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">do_sys_open</tspan>
         </text>
       </a>
       <a
@@ -4120,7 +4235,8 @@
       <a
          target="2"
          id="text3242"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_socketcall">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_socketcall"
+         transform="translate(-6.4386147,0)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text7794"
@@ -4833,7 +4949,8 @@
       <a
          target="2"
          id="text4350"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sync">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sync"
+         transform="translate(-8,0)">
         <text
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text7978"
@@ -5005,7 +5122,8 @@
       <a
          target="2"
          id="text4614"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/proto">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/proto"
+         transform="translate(-11.735865,0)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text8020"
@@ -6218,9 +6336,10 @@
       <a
          target="2"
          id="text6846"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_read">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ksys_read"
+         transform="translate(-173.85954,0.7259271)">
         <text
-           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text8335"
            x="433.50586"
            y="-50.792931"
@@ -6229,7 +6348,7 @@
              x="1753.3531"
              y="210.21014"
              id="tspan6848"
-             style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_read</tspan>
+             style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">ksys_read</tspan>
         </text>
       </a>
       <a
@@ -7339,7 +7458,8 @@
       <a
          target="2"
          id="text8666"
-         xlink:href="https://elixir.bootlin.com/linux/latest/source/fs/">
+         xlink:href="https://elixir.bootlin.com/linux/latest/source/fs/"
+         transform="translate(-2.7618655,-4)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text8637"
@@ -7387,7 +7507,8 @@
       <a
          target="2"
          id="text8714"
-         xlink:href="https://elixir.bootlin.com/linux/latest/source/net/">
+         xlink:href="https://elixir.bootlin.com/linux/latest/source/net/"
+         transform="translate(-3.3904221,0)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text8649"
@@ -8022,7 +8143,8 @@
       <a
          target="2"
          id="text3452"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_pivot_root">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/pivot_root"
+         transform="translate(-3.4748395,10.025477)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8034,7 +8156,7 @@
              id="tspan3454"
              x="1509.8213"
              y="193.62422"
-             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_pivot_root</tspan></text>
+             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans">pivot_root</tspan></text>
       </a>
       <a
          target="2"
@@ -8133,7 +8255,8 @@
       <a
          target="2"
          id="text20460"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_newfstat">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_newfstat"
+         transform="translate(-2,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8150,23 +8273,25 @@
       <a
          target="2"
          id="text21312"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_select">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/kern_select"
+         transform="matrix(0.785599,0,0,0.785599,432.34567,36.008929)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           x="1643.7621"
+           x="1646.3079"
            y="239.6906"
            id="text8849"
            sodipodi:linespacing="100%"><tspan
              sodipodi:role="line"
              id="tspan21314"
-             x="1643.7621"
-             y="239.6906">sys_select</tspan></text>
+             x="1646.3079"
+             y="239.6906">kern_select</tspan></text>
       </a>
       <a
          target="2"
          id="text4240"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chroot">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/chroot"
+         transform="translate(-3.2930834,13.194037)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8178,7 +8303,7 @@
              id="tspan4242"
              x="1509.8213"
              y="178.95988"
-             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_chroot</tspan></text>
+             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans">chroot</tspan></text>
       </a>
       <a
          target="2"
@@ -8338,7 +8463,8 @@
       <a
          target="2"
          id="text3459"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_pipe">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_pipe2"
+         transform="matrix(0.90371,0,0,0.90371,322.00324,108.5628)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8349,7 +8475,7 @@
              sodipodi:role="line"
              id="tspan3461"
              x="1592.9174"
-             y="243.56834">sys_pipe</tspan></text>
+             y="243.56834">do_pipe2</tspan></text>
       </a>
       <a
          target="2"
@@ -8463,23 +8589,25 @@
       <a
          target="2"
          id="text3511"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_flock">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_flock"
+         transform="matrix(0.785599,0,0,0.785599,343.64047,55.957121)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           x="1640.5929"
-           y="253.58257"
+           x="1503.121"
+           y="248.49092"
            id="text8932"
            sodipodi:linespacing="100%"><tspan
              sodipodi:role="line"
              id="tspan3513"
-             x="1640.5929"
-             y="253.58257">sys_flock</tspan></text>
+             x="1503.121"
+             y="248.49092">sys_flock</tspan></text>
       </a>
       <a
          target="2"
          id="text3515"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mkdir">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_mkdirat"
+         transform="translate(-3.2535712,7.7934394)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8490,12 +8618,13 @@
              sodipodi:role="line"
              id="tspan3517"
              x="1509.8213"
-             y="208.28848">sys_mkdir</tspan></text>
+             y="208.28848">do_mkdirat</tspan></text>
       </a>
       <a
          target="2"
          id="text3533"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_inotify_init">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_inotify_init"
+         transform="translate(0,4)">
         <text
            xml:space="preserve"
            style="font-size:5.2682929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8511,7 +8640,8 @@
       <a
          target="2"
          id="text3539"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chdir">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/chdir"
+         transform="translate(-3.2930834,6)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8522,7 +8652,7 @@
              sodipodi:role="line"
              id="tspan3541"
              x="1509.8213"
-             y="222.95282">sys_chdir</tspan></text>
+             y="222.95282">chdir</tspan></text>
       </a>
       <a
          target="2"
@@ -8602,10 +8732,11 @@
       <a
          target="2"
          id="text3571"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/notify_change">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/notify_change"
+         transform="matrix(0.864919,0,0,0.864919,248.74941,-1.8282089)">
         <text
            xml:space="preserve"
-           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            x="1712.6749"
            y="306.95941"
            id="text8968"
@@ -8618,7 +8749,8 @@
       <a
          target="2"
          id="text3575"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/inode_setattr">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/inode_setattr"
+         transform="matrix(0.6185182,0,0,0.6185182,674.74388,67.840069)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8634,7 +8766,8 @@
       <a
          target="2"
          id="text3581"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chmod">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chmod"
+         transform="translate(17.385245,-41.014881)">
         <text
            xml:space="preserve"
            style="font-size:8.78374481px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8651,22 +8784,25 @@
       <a
          target="2"
          id="text3587"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_readv">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_readv"
+         transform="translate(-49.723168,-38.281553)">
         <text
            xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            x="1693.6119"
            y="253.10756"
-           id="text8980"><tspan
+           id="text8980"
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3589"
              x="1693.6119"
-             y="253.10756">sys_readv</tspan></text>
+             y="253.10756">do_readv</tspan></text>
       </a>
       <a
          target="2"
          id="text3591"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iovec">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iovec"
+         transform="translate(-49.785971,-38.281553)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8681,7 +8817,8 @@
       <a
          target="2"
          id="text3597"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_poll">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sys_poll"
+         transform="matrix(0.785599,0,0,0.785599,440.19617,36.008929)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8691,12 +8828,13 @@
              sodipodi:role="line"
              id="tspan3599"
              x="1637.5884"
-             y="225.79863">sys_poll</tspan></text>
+             y="225.79863">do_sys_poll</tspan></text>
       </a>
       <a
          target="2"
          id="text3613"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_tee">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_tee"
+         transform="translate(168.63117,85.368819)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8706,12 +8844,12 @@
              sodipodi:role="line"
              id="tspan3615"
              x="1591.069"
-             y="229.63617">sys_tee</tspan></text>
+             y="229.63617">do_tee</tspan></text>
       </a>
       <a
          target="2"
          id="text3629"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sysinfo">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sysinfo">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8721,7 +8859,7 @@
              sodipodi:role="line"
              id="tspan3631"
              x="1262.1953"
-             y="223.28514">sys_sysinfo</tspan></text>
+             y="223.28514">do_sysinfo</tspan></text>
       </a>
       <flowRoot
          xml:space="preserve"
@@ -8738,7 +8876,8 @@
            id="flowPara3639" /></flowRoot>      <a
          target="2"
          id="text3641"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_swapon">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_swapon"
+         transform="translate(-8,-2)">
         <text
            xml:space="preserve"
            style="font-size:9.28163815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8918,7 +9057,8 @@
       <a
          target="2"
          id="text3602"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/mm_init">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/mm_init"
+         transform="matrix(1.0450154,0,0,1,-57.82921,0)">
         <text
            xml:space="preserve"
            style="font-size:11.83720779px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9010,7 +9150,8 @@
       <a
          target="2"
          id="text3618"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/kfree">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/kfree"
+         transform="translate(4,0)">
         <text
            xml:space="preserve"
            style="font-size:15.80487823px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9363,22 +9504,6 @@
       </a>
       <a
          target="2"
-         id="text3643"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_fanotify_init">
-        <text
-           xml:space="preserve"
-           style="font-size:5.2682929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           x="1648.0564"
-           y="267.65027"
-           id="text9178"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3645"
-             x="1648.0564"
-             y="267.65027">sys_fanotify_init</tspan></text>
-      </a>
-      <a
-         target="2"
          id="text3646"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/drm_driver"
          transform="matrix(1.138098,0,0,1,49.276627,0)">
@@ -9466,7 +9591,8 @@
       <a
          target="2"
          id="text3656"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chown">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chown"
+         transform="translate(17.385245,-41.014881)">
         <text
            xml:space="preserve"
            style="font-size:8.90959835px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9596,21 +9722,6 @@
       </a>
       <a
          target="2"
-         id="text4483"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/usb_stor_host_template">
-        <text
-           xml:space="preserve"
-           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-           x="1602.8359"
-           y="1222.2408"
-           id="text9233"><tspan
-             sodipodi:role="line"
-             id="tspan4485"
-             x="1602.8359"
-             y="1222.2408">usb_stor_host_template</tspan></text>
-      </a>
-      <a
-         target="2"
          id="text4509"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/scsi_host_alloc"
          transform="translate(36,14)">
@@ -9628,7 +9739,8 @@
       <a
          target="2"
          id="text4533"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_getdents">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_getdents"
+         transform="translate(0,30)">
         <text
            xml:space="preserve"
            style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9767,7 +9879,8 @@
       <a
          target="2"
          id="text3739"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_connect">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_connect"
+         transform="translate(-9.7684236,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9782,7 +9895,7 @@
       <a
          target="2"
          id="text3743"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_accept">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_accept4">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9792,12 +9905,13 @@
              sodipodi:role="line"
              id="tspan3745"
              x="1856.3281"
-             y="229.68915">sys_accept</tspan></text>
+             y="229.68915">__sys_accept4</tspan></text>
       </a>
       <a
          target="2"
          id="text3747"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_bind">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_bind"
+         transform="translate(-2.2740333,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9807,12 +9921,13 @@
              sodipodi:role="line"
              id="tspan3749"
              x="1850.1338"
-             y="245.22626">sys_bind</tspan></text>
+             y="245.22626">__sys_bind</tspan></text>
       </a>
       <a
          target="2"
          id="text3751"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_listen">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_listen"
+         transform="translate(-9.3156233,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9827,7 +9942,8 @@
       <a
          target="2"
          id="text3755"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sendmsg">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_sendmsg"
+         transform="translate(-3.2618407,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9837,12 +9953,13 @@
              sodipodi:role="line"
              id="tspan3757"
              x="1862.5431"
-             y="276.30063">sys_sendmsg</tspan></text>
+             y="276.30063">__sys_sendmsg</tspan></text>
       </a>
       <a
          target="2"
          id="text3759"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_recvmsg">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_recvmsg"
+         transform="translate(-3.4367199,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9852,12 +9969,13 @@
              sodipodi:role="line"
              id="tspan3761"
              x="1861.1848"
-             y="291.83774">sys_recvmsg</tspan></text>
+             y="291.83774">__sys_recvmsg</tspan></text>
       </a>
       <a
          target="2"
          id="text3763"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_setsockopt">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_setsockopt"
+         transform="translate(-4.1261966,0)">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9867,7 +9985,7 @@
              sodipodi:role="line"
              id="tspan3765"
              x="1867.0706"
-             y="307.37494">sys_setsockopt</tspan></text>
+             y="307.37494">__sys_setsockopt</tspan></text>
       </a>
       <a
          target="2"
@@ -9902,23 +10020,26 @@
       <a
          target="2"
          id="text3713"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sendfile">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sendfile"
+         transform="translate(0,80)">
         <text
            xml:space="preserve"
-           style="font-size:11.94060135px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            x="1940.6528"
            y="247.17801"
            id="text9317"
-           transform="scale(0.9066013,1.1030207)"><tspan
+           transform="scale(0.9066013,1.1030207)"
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan3715"
              x="1940.6528"
-             y="247.17801">sys_sendfile</tspan></text>
+             y="247.17801">do_sendfile</tspan></text>
       </a>
       <a
          target="2"
          id="text4500"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_splice_direct">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_splice_direct"
+         transform="translate(0,18)">
         <text
            xml:space="preserve"
            style="font-size:10.25665092px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -9934,18 +10055,20 @@
       <a
          target="2"
          id="text4511"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_splice">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__do_splice"
+         transform="translate(0,81.486692)">
         <text
            xml:space="preserve"
-           style="font-size:13.11408424px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            x="1767.0081"
            y="258.49728"
            id="text9325"
-           transform="scale(0.995699,1.0043195)"><tspan
+           transform="scale(0.995699,1.0043195)"
+           sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan4513"
              x="1767.0081"
-             y="258.49728">sys_splice</tspan></text>
+             y="258.49728">__do_splice</tspan></text>
       </a>
       <a
          target="2"
@@ -9966,7 +10089,8 @@
       <a
          target="2"
          id="text3723"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/e1000_intr">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/e1000_intr"
+         transform="translate(10.639488,0)">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -10391,7 +10515,7 @@
       <a
          target="2"
          id="text5216"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mincore">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_mincore">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -10402,7 +10526,7 @@
              sodipodi:role="line"
              id="tspan5218"
              x="1434.5964"
-             y="286.30713">sys_mincore</tspan></text>
+             y="286.30713">do_mincore</tspan></text>
       </a>
       <a
          target="2"
@@ -10595,7 +10719,7 @@
          target="2"
          id="a14424"
          xlink:href="https://en.wikipedia.org/wiki/NVM_Express"
-         transform="translate(-148.57259,0.2192219)">
+         transform="translate(-147.22267,0.2192219)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#e6e6e6;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
            id="text14426"
@@ -10607,6 +10731,76 @@
              id="tspan14428"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">NVMe</tspan>
         </text>
+      </a>
+      <a
+         style="opacity:1;display:inline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;overflow:visible;enable-background:accumulate"
+         target="2"
+         id="a4261"
+         xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#NVMe"
+         transform="translate(-147.22267,-123.96678)">
+        <text
+           style="font-size:13.17073154000000024px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:inline;overflow:visible;enable-background:accumulate"
+           id="text4264"
+           x="298.97134"
+           y="44.841503">
+          <tspan
+             x="1677.6664"
+             y="1535.1935"
+             id="tspan4266"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">NVMe</tspan>
+        </text>
+      </a>
+      <a
+         style="opacity:1;display:inline"
+         target="2"
+         id="a5082"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_epoll_create"
+         transform="matrix(0.785599,0,0,0.785599,447.74618,25.384681)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           x="1637.5884"
+           y="225.79863"
+           id="text5084"><tspan
+             sodipodi:role="line"
+             id="tspan5086"
+             x="1637.5884"
+             y="225.79863">do_epoll_create</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text3643"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_fanotify_init"
+         transform="translate(0,7.8185182)">
+        <text
+           xml:space="preserve"
+           style="font-size:5.2682929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           x="1648.0564"
+           y="267.65027"
+           id="text9178"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3645"
+             x="1648.0564"
+             y="267.65027">sys_fanotify_init</tspan></text>
+      </a>
+      <a
+         style="opacity:1;display:inline"
+         target="2"
+         id="a4283"
+         xlink:href="https://elixir.bootlin.com/linux/latest/source/io_uring"
+         transform="translate(-52.338775,3.9985363)">
+        <text
+           xml:space="preserve"
+           style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:125%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+           x="1693.6119"
+           y="253.10756"
+           id="text4285"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan4287"
+             x="1693.6119"
+             y="253.10756">io_uring</tspan></text>
       </a>
     </g>
   </g>
