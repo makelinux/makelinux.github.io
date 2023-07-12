@@ -1581,7 +1581,7 @@
          inkscape:connection-end="#text5042" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1527.2156,277.33614 L 1498.8731,731.57619"
+         d="M 1526.8778,277.88404 L 1499.0179,730.18009"
          id="path3645"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3641"
@@ -8142,24 +8142,6 @@
       </a>
       <a
          target="2"
-         id="text3452"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/pivot_root"
-         transform="translate(-3.4748395,10.025477)">
-        <text
-           xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
-           x="1509.8213"
-           y="193.62422"
-           id="text8817"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3454"
-             x="1509.8213"
-             y="193.62422"
-             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans">pivot_root</tspan></text>
-      </a>
-      <a
-         target="2"
          id="text3458"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/mount_root">
         <text
@@ -8286,24 +8268,6 @@
              id="tspan21314"
              x="1646.3079"
              y="239.6906">kern_select</tspan></text>
-      </a>
-      <a
-         target="2"
-         id="text4240"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/chroot"
-         transform="translate(-3.2930834,13.194037)">
-        <text
-           xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
-           x="1509.8213"
-           y="178.95988"
-           id="text8853"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan4242"
-             x="1509.8213"
-             y="178.95988"
-             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans">chroot</tspan></text>
       </a>
       <a
          target="2"
@@ -8588,40 +8552,6 @@
       </a>
       <a
          target="2"
-         id="text3511"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_flock"
-         transform="matrix(0.785599,0,0,0.785599,343.64047,55.957121)">
-        <text
-           xml:space="preserve"
-           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
-           x="1503.121"
-           y="248.49092"
-           id="text8932"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3513"
-             x="1503.121"
-             y="248.49092">sys_flock</tspan></text>
-      </a>
-      <a
-         target="2"
-         id="text3515"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mkdirat"
-         transform="translate(-3.2535712,7.7934394)">
-        <text
-           xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
-           x="1509.8213"
-           y="208.28848"
-           id="text8936"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3517"
-             x="1509.8213"
-             y="208.28848">sys_mkdirat</tspan></text>
-      </a>
-      <a
-         target="2"
          id="text3533"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_inotify_init"
          transform="translate(0,4)">
@@ -8636,23 +8566,6 @@
              x="1645.818"
              y="278.56442"
              style="font-size:5.2682929px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans">sys_inotify_init</tspan></text>
-      </a>
-      <a
-         target="2"
-         id="text3539"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/chdir"
-         transform="translate(-3.2930834,6)">
-        <text
-           xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
-           x="1509.8213"
-           y="222.95282"
-           id="text8944"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3541"
-             x="1509.8213"
-             y="222.95282">chdir</tspan></text>
       </a>
       <a
          target="2"
@@ -8877,10 +8790,10 @@
          target="2"
          id="text3641"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_swapon"
-         transform="translate(-8,-2)">
+         transform="matrix(1,0,0,0.9268958,-8,18.460692)">
         <text
            xml:space="preserve"
-           style="font-size:9.28163815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;-inkscape-font-specification:FreeSans"
+           style="font-size:9.28163815px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
            x="1743.2362"
            y="244.04276"
            id="text9004"
@@ -10801,6 +10714,93 @@
              id="tspan4287"
              x="1693.6119"
              y="253.10756">io_uring</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text3452"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_pivot_root"
+         transform="translate(-5.4748395,12.716975)">
+        <text
+           xml:space="preserve"
+           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
+           x="1509.8213"
+           y="193.62422"
+           id="text8817"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3454"
+             x="1509.8213"
+             y="193.62422"
+             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans">sys_pivot_root</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text4240"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chroot"
+         transform="translate(-5.4748395,15.194037)">
+        <text
+           xml:space="preserve"
+           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
+           x="1509.8213"
+           y="178.95988"
+           id="text8853"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan4242"
+             x="1509.8213"
+             y="178.95988"
+             style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans">sys_chroot</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text3515"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mkdirat"
+         transform="translate(-5.4748395,10.117475)">
+        <text
+           xml:space="preserve"
+           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
+           x="1509.8213"
+           y="208.28848"
+           id="text8936"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3517"
+             x="1509.8213"
+             y="208.28848">sys_mkdirat</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text3539"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_chdir"
+         transform="translate(-5.4748395,7.6837463)">
+        <text
+           xml:space="preserve"
+           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
+           x="1509.8213"
+           y="222.95282"
+           id="text8944"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3541"
+             x="1509.8213"
+             y="222.95282">sys_chdir</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="text3511"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_flock"
+         transform="matrix(0.785599,0,0,0.785599,340.58304,47.957121)">
+        <text
+           xml:space="preserve"
+           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica, Arial, sans-serif;-inkscape-font-specification:FreeSans"
+           x="1503.121"
+           y="248.49092"
+           id="text8932"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan3513"
+             x="1503.121"
+             y="248.49092">sys_flock</tspan></text>
       </a>
     </g>
   </g>
