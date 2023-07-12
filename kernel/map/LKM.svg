@@ -4137,7 +4137,7 @@
       <a
          target="2"
          id="text3142"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sys_open"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_open"
          transform="matrix(0.8786511,0,0,0.8786511,-5.16013,8.2938603)">
         <text
            style="font-size:11.38108158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;visibility:visible;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -4149,7 +4149,7 @@
              x="1754.2576"
              y="195.0253"
              id="tspan3144"
-             style="font-size:11.38108158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">do_sys_open</tspan>
+             style="font-size:11.38108158px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans">sys_open</tspan>
         </text>
       </a>
       <a
@@ -8448,7 +8448,7 @@
       <a
          target="2"
          id="text4245"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sigaction">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sigaction">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8458,12 +8458,12 @@
              sodipodi:role="line"
              id="tspan4247"
              x="979.1402"
-             y="213.99384">do_sigaction</tspan></text>
+             y="213.99384">sys_sigaction</tspan></text>
       </a>
       <a
          target="2"
          id="text3459"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_pipe2"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_pipe2"
          transform="matrix(0.90371,0,0,0.90371,322.00324,108.5628)">
         <text
            xml:space="preserve"
@@ -8475,7 +8475,7 @@
              sodipodi:role="line"
              id="tspan3461"
              x="1592.9174"
-             y="243.56834">do_pipe2</tspan></text>
+             y="243.56834">sys_pipe2</tspan></text>
       </a>
       <a
          target="2"
@@ -8606,7 +8606,7 @@
       <a
          target="2"
          id="text3515"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_mkdirat"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mkdirat"
          transform="translate(-3.2535712,7.7934394)">
         <text
            xml:space="preserve"
@@ -8618,7 +8618,7 @@
              sodipodi:role="line"
              id="tspan3517"
              x="1509.8213"
-             y="208.28848">do_mkdirat</tspan></text>
+             y="208.28848">sys_mkdirat</tspan></text>
       </a>
       <a
          target="2"
@@ -8784,7 +8784,7 @@
       <a
          target="2"
          id="text3587"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_readv"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_readv"
          transform="translate(-49.723168,-38.281553)">
         <text
            xml:space="preserve"
@@ -8796,7 +8796,7 @@
              sodipodi:role="line"
              id="tspan3589"
              x="1693.6119"
-             y="253.10756">do_readv</tspan></text>
+             y="253.10756">sys_readv</tspan></text>
       </a>
       <a
          target="2"
@@ -8817,7 +8817,7 @@
       <a
          target="2"
          id="text3597"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sys_poll"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_poll"
          transform="matrix(0.785599,0,0,0.785599,440.19617,36.008929)">
         <text
            xml:space="preserve"
@@ -8828,12 +8828,12 @@
              sodipodi:role="line"
              id="tspan3599"
              x="1637.5884"
-             y="225.79863">do_sys_poll</tspan></text>
+             y="225.79863">sys_poll</tspan></text>
       </a>
       <a
          target="2"
          id="text3613"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_tee"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_tee"
          transform="translate(168.63117,85.368819)">
         <text
            xml:space="preserve"
@@ -8844,12 +8844,12 @@
              sodipodi:role="line"
              id="tspan3615"
              x="1591.069"
-             y="229.63617">do_tee</tspan></text>
+             y="229.63617">sys_tee</tspan></text>
       </a>
       <a
          target="2"
          id="text3629"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sysinfo">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sysinfo">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8859,7 +8859,7 @@
              sodipodi:role="line"
              id="tspan3631"
              x="1262.1953"
-             y="223.28514">do_sysinfo</tspan></text>
+             y="223.28514">sys_sysinfo</tspan></text>
       </a>
       <flowRoot
          xml:space="preserve"
@@ -8923,7 +8923,7 @@
       <a
          target="2"
          id="text3659"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_mmap">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mmap">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -8933,7 +8933,7 @@
              sodipodi:role="line"
              id="tspan3661"
              x="1387.002"
-             y="608.08765">do_mmap</tspan></text>
+             y="608.08765">sys_mmap</tspan></text>
       </a>
       <a
          target="2"
@@ -10020,7 +10020,7 @@
       <a
          target="2"
          id="text3713"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_sendfile"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sendfile"
          transform="translate(0,80)">
         <text
            xml:space="preserve"
@@ -10033,7 +10033,7 @@
              sodipodi:role="line"
              id="tspan3715"
              x="1940.6528"
-             y="247.17801">do_sendfile</tspan></text>
+             y="247.17801">sys_sendfile</tspan></text>
       </a>
       <a
          target="2"
@@ -10515,7 +10515,7 @@
       <a
          target="2"
          id="text5216"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_mincore">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_mincore">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -10526,7 +10526,7 @@
              sodipodi:role="line"
              id="tspan5218"
              x="1434.5964"
-             y="286.30713">do_mincore</tspan></text>
+             y="286.30713">sys_mincore</tspan></text>
       </a>
       <a
          target="2"
@@ -10754,7 +10754,7 @@
          style="opacity:1;display:inline"
          target="2"
          id="a5082"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_epoll_create"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_epoll_create"
          transform="matrix(0.785599,0,0,0.785599,447.74618,25.384681)">
         <text
            xml:space="preserve"
@@ -10765,7 +10765,7 @@
              sodipodi:role="line"
              id="tspan5086"
              x="1637.5884"
-             y="225.79863">do_epoll_create</tspan></text>
+             y="225.79863">sys_epoll_create</tspan></text>
       </a>
       <a
          target="2"
