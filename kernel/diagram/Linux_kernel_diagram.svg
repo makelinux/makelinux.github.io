@@ -1,15 +1,15 @@
-<svg id=diagram width="1465pt" height="785pt"
- viewBox="0.00 0.00 1464.50 785.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 781)">
-<title>matrix</title>
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-781 1460.5,-781 1460.5,4 -4,4"/>
+<svg width="1477pt" height="852pt"
+ viewBox="0.00 0.00 1477.33 851.70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 847.7)">
+<title>Linux_kernel_diagram</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-847.7 1473.33,-847.7 1473.33,4 -4,4"/>
 <!-- system_ -->
 <!-- SCI -->
 <g id="node3" class="node">
 <title>SCI</title>
 <g id="a_node3"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Syscalls" xlink:title="System calls">
-<ellipse fill="#d9e7ee" stroke="#e27dd6" stroke-width="5" cx="492" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="492" y="-571.8" font-family="Ubuntu" font-size="24.00">System calls</text>
+<ellipse fill="#d9e7ee" stroke="#e27dd6" stroke-width="5" cx="501.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="501.2" y="-619.33" font-family="Ubuntu" font-size="24.00">System calls</text>
 </a>
 </g>
 </g>
@@ -18,23 +18,23 @@
 <g id="node2" class="node">
 <title>system</title>
 <g id="a_node2"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/System" xlink:title="system">
-<polygon fill="white" stroke="#e27dd6" stroke-width="5" points="564,-719 420,-719 420,-676 564,-676 564,-719"/>
-<text text-anchor="middle" x="492" y="-691.3" font-family="Ubuntu" font-size="24.00">system</text>
+<polygon fill="white" stroke="#e27dd6" stroke-width="5" points="573.2,-774.2 429.2,-774.2 429.2,-731 573.2,-731 573.2,-774.2"/>
+<text text-anchor="middle" x="501.2" y="-746.68" font-family="Ubuntu" font-size="24.00">system</text>
 </a>
 </g>
 </g>
 <!-- system&#45;&gt;system_ -->
 <g id="edge1" class="edge">
 <title>system&#45;&gt;system_</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-675.96C492,-666.86 492,-656.91 492,-651.08"/>
-<polygon fill="#e27dd6" stroke="#e27dd6" stroke-width="5" points="494.19,-651.05 492,-646.05 489.81,-651.05 494.19,-651.05"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-730.69C501.2,-720.93 501.2,-710.01 501.2,-703.35"/>
+<polygon fill="#e27dd6" stroke="#e27dd6" stroke-width="5" points="503.39,-708.41 501.2,-703.41 499.01,-708.41 503.39,-708.41"/>
 </g>
 <!-- processing -->
-<g id="node28" class="node">
+<g id="node18" class="node">
 <title>processing</title>
-<g id="a_node28"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Processing" xlink:title="processing">
-<polygon fill="white" stroke="#c46747" stroke-width="5" points="744,-719 600,-719 600,-676 744,-676 744,-719"/>
-<text text-anchor="middle" x="672" y="-691.3" font-family="Ubuntu" font-size="24.00">processing</text>
+<g id="a_node18"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Processing" xlink:title="processing">
+<polygon fill="white" stroke="#c46747" stroke-width="5" points="753.2,-774.2 609.2,-774.2 609.2,-731 753.2,-731 753.2,-774.2"/>
+<text text-anchor="middle" x="681.2" y="-746.68" font-family="Ubuntu" font-size="24.00">processing</text>
 </a>
 </g>
 </g>
@@ -42,655 +42,655 @@
 <!-- sysfs -->
 <g id="node4" class="node">
 <title>sysfs</title>
-<polygon fill="#b2d3e4" stroke="#e27dd6" stroke-width="5" points="571,-528 413,-528 413,-456 571,-456 571,-528"/>
-<text text-anchor="middle" x="492" y="-498.8" font-family="Ubuntu" font-size="24.00">proc &amp; sysfs</text>
-<text text-anchor="middle" x="492" y="-472.8" font-family="Ubuntu" font-size="24.00">file systems</text>
+<polygon fill="#b2d3e4" stroke="#e27dd6" stroke-width="5" points="580.4,-575.25 422,-575.25 422,-499.75 580.4,-499.75 580.4,-575.25"/>
+<text text-anchor="middle" x="501.2" y="-548.45" font-family="Ubuntu" font-size="24.00">proc &amp; sysfs</text>
+<text text-anchor="middle" x="501.2" y="-514.7" font-family="Ubuntu" font-size="24.00">file systems</text>
 </g>
 <!-- SCI&#45;&gt;sysfs -->
 <g id="edge2" class="edge">
 <title>SCI&#45;&gt;sysfs</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-541.86C492,-537.37 492,-532.76 492,-528.27"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-588.88C501.2,-584.54 501.2,-580.1 501.2,-575.74"/>
 </g>
 <!-- DM -->
 <g id="node5" class="node">
 <title>DM</title>
-<polygon fill="#91b5c9" stroke="#e27dd6" stroke-width="5" points="564,-393.99 564,-418.01 521.82,-435 462.18,-435 420,-418.01 420,-393.99 462.18,-377 521.82,-377 564,-393.99"/>
-<text text-anchor="middle" x="492" y="-412" font-family="Ubuntu" font-size="20.00">Device</text>
-<text text-anchor="middle" x="492" y="-390" font-family="Ubuntu" font-size="20.00">Model</text>
+<polygon fill="#91b5c9" stroke="#e27dd6" stroke-width="5" points="573.2,-437.82 573.2,-461.68 531.02,-478.55 471.38,-478.55 429.2,-461.68 429.2,-437.82 471.38,-420.95 531.02,-420.95 573.2,-437.82"/>
+<text text-anchor="middle" x="501.2" y="-458.5" font-family="Ubuntu" font-size="20.00">Device</text>
+<text text-anchor="middle" x="501.2" y="-430.75" font-family="Ubuntu" font-size="20.00">Model</text>
 </g>
 <!-- sysfs&#45;&gt;DM -->
 <g id="edge3" class="edge">
 <title>sysfs&#45;&gt;DM</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-455.86C492,-448.94 492,-441.76 492,-435.11"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-499.64C501.2,-492.74 501.2,-485.63 501.2,-479.04"/>
 </g>
 <!-- log_sys -->
 <g id="node6" class="node">
 <title>log_sys</title>
-<polygon fill="#6a9ab1" stroke="#e27dd6" stroke-width="5" points="571,-356 413,-356 413,-260 571,-260 571,-356"/>
-<text text-anchor="middle" x="492" y="-336" font-family="Ubuntu" font-size="20.00">system run,</text>
-<text text-anchor="middle" x="492" y="-314" font-family="Ubuntu" font-size="20.00">modules,</text>
-<text text-anchor="middle" x="492" y="-292" font-family="Ubuntu" font-size="20.00">generic</text>
-<text text-anchor="middle" x="492" y="-270" font-family="Ubuntu" font-size="20.00">HW access </text>
+<polygon fill="#6a9ab1" stroke="#e27dd6" stroke-width="5" points="580.4,-399.75 422,-399.75 422,-280.75 580.4,-280.75 580.4,-399.75"/>
+<text text-anchor="middle" x="501.2" y="-376.75" font-family="Ubuntu" font-size="20.00">system run,</text>
+<text text-anchor="middle" x="501.2" y="-349" font-family="Ubuntu" font-size="20.00">modules,</text>
+<text text-anchor="middle" x="501.2" y="-321.25" font-family="Ubuntu" font-size="20.00">generic</text>
+<text text-anchor="middle" x="501.2" y="-293.5" font-family="Ubuntu" font-size="20.00">HW access </text>
 </g>
 <!-- DM&#45;&gt;log_sys -->
 <g id="edge4" class="edge">
 <title>DM&#45;&gt;log_sys</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-376.97C492,-370.44 492,-363.31 492,-356.21"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-420.51C501.2,-414.16 501.2,-407.2 501.2,-400.12"/>
 </g>
 <!-- bus_drv -->
 <g id="node7" class="node">
 <title>bus_drv</title>
-<polygon fill="#71809b" stroke="#e27dd6" stroke-width="5" points="571,-245 413,-245 413,-173 571,-173 571,-245"/>
-<text text-anchor="middle" x="492" y="-202.8" font-family="Ubuntu" font-size="24.00">bus drivers</text>
+<polygon fill="#71809b" stroke="#e27dd6" stroke-width="5" points="580.4,-257.12 422,-257.12 422,-185.12 580.4,-185.12 580.4,-257.12"/>
+<text text-anchor="middle" x="501.2" y="-215.2" font-family="Ubuntu" font-size="24.00">bus drivers</text>
 </g>
 <!-- log_sys&#45;&gt;bus_drv -->
 <g id="edge5" class="edge">
 <title>log_sys&#45;&gt;bus_drv</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-259.92C492,-254.9 492,-249.86 492,-245.01"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-280.34C501.2,-272.48 501.2,-264.63 501.2,-257.35"/>
 </g>
 <!-- buses -->
 <g id="node8" class="node">
 <title>buses</title>
-<polygon fill="#777777" stroke="#e27dd6" stroke-width="5" points="571,-158 413,-158 413,-86 571,-86 571,-158"/>
-<text text-anchor="middle" x="492" y="-128" font-family="Ubuntu" font-size="20.00" fill="white">buses:</text>
-<text text-anchor="middle" x="492" y="-106" font-family="Ubuntu" font-size="20.00" fill="white">PCI, USB ...</text>
+<polygon fill="#777777" stroke="#e27dd6" stroke-width="5" points="580.4,-159.75 422,-159.75 422,-87.75 580.4,-87.75 580.4,-159.75"/>
+<text text-anchor="middle" x="501.2" y="-132.5" font-family="Ubuntu" font-size="20.00" fill="white">buses:</text>
+<text text-anchor="middle" x="501.2" y="-104.75" font-family="Ubuntu" font-size="20.00" fill="white">PCI, USB ...</text>
 </g>
 <!-- bus_drv&#45;&gt;buses -->
 <g id="edge6" class="edge">
 <title>bus_drv&#45;&gt;buses</title>
-<path fill="none" stroke="#e27dd6" stroke-width="5" d="M492,-172.94C492,-168.09 492,-163.11 492,-158.26"/>
+<path fill="none" stroke="#e27dd6" stroke-width="5" d="M501.2,-184.88C501.2,-176.82 501.2,-168.24 501.2,-160.17"/>
 </g>
 <!-- networking_ -->
 <!-- sock -->
 <g id="node11" class="node">
 <title>sock</title>
-<ellipse fill="#d9e7ee" stroke="#61c2c5" stroke-width="5" cx="1373" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="1373" y="-571.8" font-family="Ubuntu" font-size="24.00">Sockets</text>
+<ellipse fill="#d9e7ee" stroke="#61c2c5" stroke-width="5" cx="1385.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="1385.2" y="-619.33" font-family="Ubuntu" font-size="24.00">Sockets</text>
 </g>
 <!-- networking_&#45;&gt;sock -->
 <!-- networking -->
 <g id="node10" class="node">
 <title>networking</title>
 <g id="a_node10"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Networking" xlink:title="networking">
-<polygon fill="white" stroke="#61c2c5" stroke-width="5" points="1445,-719 1301,-719 1301,-676 1445,-676 1445,-719"/>
-<text text-anchor="middle" x="1373" y="-691.3" font-family="Ubuntu" font-size="24.00">networking</text>
+<polygon fill="white" stroke="#61c2c5" stroke-width="5" points="1457.2,-774.2 1313.2,-774.2 1313.2,-731 1457.2,-731 1457.2,-774.2"/>
+<text text-anchor="middle" x="1385.2" y="-746.68" font-family="Ubuntu" font-size="24.00">networking</text>
 </a>
 </g>
 </g>
 <!-- networking&#45;&gt;networking_ -->
 <g id="edge7" class="edge">
 <title>networking&#45;&gt;networking_</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1373,-675.96C1373,-666.86 1373,-656.91 1373,-651.08"/>
-<polygon fill="#61c2c5" stroke="#61c2c5" stroke-width="5" points="1375.19,-651.05 1373,-646.05 1370.81,-651.05 1375.19,-651.05"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1385.2,-730.69C1385.2,-720.93 1385.2,-710.01 1385.2,-703.35"/>
+<polygon fill="#61c2c5" stroke="#61c2c5" stroke-width="5" points="1387.39,-708.41 1385.2,-703.41 1383.01,-708.41 1387.39,-708.41"/>
 </g>
 <!-- prot_fam -->
 <g id="node12" class="node">
 <title>prot_fam</title>
-<polygon fill="#b2d3e4" stroke="#61c2c5" stroke-width="5" points="1452,-528 1294,-528 1294,-456 1452,-456 1452,-528"/>
-<text text-anchor="middle" x="1373" y="-498.8" font-family="Ubuntu" font-size="24.00">protocol</text>
-<text text-anchor="middle" x="1373" y="-472.8" font-family="Ubuntu" font-size="24.00">families</text>
+<polygon fill="#b2d3e4" stroke="#61c2c5" stroke-width="5" points="1464.4,-575.25 1306,-575.25 1306,-499.75 1464.4,-499.75 1464.4,-575.25"/>
+<text text-anchor="middle" x="1385.2" y="-548.45" font-family="Ubuntu" font-size="24.00">protocol</text>
+<text text-anchor="middle" x="1385.2" y="-514.7" font-family="Ubuntu" font-size="24.00">families</text>
 </g>
 <!-- sock&#45;&gt;prot_fam -->
 <g id="edge8" class="edge">
 <title>sock&#45;&gt;prot_fam</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1373,-541.86C1373,-537.37 1373,-532.76 1373,-528.27"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1385.2,-588.88C1385.2,-584.54 1385.2,-580.1 1385.2,-575.74"/>
 </g>
 <!-- log_prot -->
 <g id="node13" class="node">
 <title>log_prot</title>
-<polygon fill="#6a9ab1" stroke="#61c2c5" stroke-width="5" points="1452,-344 1294,-344 1294,-272 1452,-272 1452,-344"/>
-<text text-anchor="middle" x="1373" y="-314.8" font-family="Ubuntu" font-size="24.00">protocols:</text>
-<text text-anchor="middle" x="1373" y="-288.8" font-family="Ubuntu" font-size="24.00">TCP, UDP, IP</text>
+<polygon fill="#6a9ab1" stroke="#61c2c5" stroke-width="5" points="1464.4,-378 1306,-378 1306,-302.5 1464.4,-302.5 1464.4,-378"/>
+<text text-anchor="middle" x="1385.2" y="-351.2" font-family="Ubuntu" font-size="24.00">protocols:</text>
+<text text-anchor="middle" x="1385.2" y="-317.45" font-family="Ubuntu" font-size="24.00">TCP, UDP, IP</text>
 </g>
 <!-- prot_fam&#45;&gt;log_prot -->
 <g id="edge9" class="edge">
 <title>prot_fam&#45;&gt;log_prot</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1373,-455.65C1373,-423.39 1373,-376.51 1373,-344.28"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1385.2,-499.47C1385.2,-464.54 1385.2,-413.06 1385.2,-378.17"/>
 </g>
 <!-- netif -->
 <g id="node14" class="node">
 <title>netif</title>
-<polygon fill="#71809b" stroke="#61c2c5" stroke-width="5" points="1452,-246 1294,-246 1294,-172 1452,-172 1452,-246"/>
-<text text-anchor="middle" x="1373" y="-226" font-family="Ubuntu" font-size="20.00">network</text>
-<text text-anchor="middle" x="1373" y="-204" font-family="Ubuntu" font-size="20.00">interfaces</text>
-<text text-anchor="middle" x="1373" y="-182" font-family="Ubuntu" font-size="20.00">and drivers</text>
+<polygon fill="#71809b" stroke="#61c2c5" stroke-width="5" points="1464.4,-266.75 1306,-266.75 1306,-175.5 1464.4,-175.5 1464.4,-266.75"/>
+<text text-anchor="middle" x="1385.2" y="-243.75" font-family="Ubuntu" font-size="20.00">network</text>
+<text text-anchor="middle" x="1385.2" y="-216" font-family="Ubuntu" font-size="20.00">interfaces</text>
+<text text-anchor="middle" x="1385.2" y="-188.25" font-family="Ubuntu" font-size="20.00">and drivers</text>
 </g>
 <!-- log_prot&#45;&gt;netif -->
 <g id="edge10" class="edge">
 <title>log_prot&#45;&gt;netif</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1373,-271.98C1373,-263.62 1373,-254.69 1373,-246.27"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1385.2,-302.19C1385.2,-291.07 1385.2,-278.74 1385.2,-267.16"/>
 </g>
 <!-- net_hw -->
 <g id="node15" class="node">
 <title>net_hw</title>
-<polygon fill="#777777" stroke="#61c2c5" stroke-width="5" points="1456.5,-158 1289.5,-158 1289.5,-86 1456.5,-86 1456.5,-158"/>
-<text text-anchor="middle" x="1373" y="-128" font-family="Ubuntu" font-size="20.00" fill="white">network:</text>
-<text text-anchor="middle" x="1373" y="-106" font-family="Ubuntu" font-size="20.00" fill="white">Ethernet, WiFi ...</text>
+<polygon fill="#777777" stroke="#61c2c5" stroke-width="5" points="1469.33,-159.75 1301.08,-159.75 1301.08,-87.75 1469.33,-87.75 1469.33,-159.75"/>
+<text text-anchor="middle" x="1385.2" y="-132.5" font-family="Ubuntu" font-size="20.00" fill="white">network:</text>
+<text text-anchor="middle" x="1385.2" y="-104.75" font-family="Ubuntu" font-size="20.00" fill="white">Ethernet, WiFi ...</text>
 </g>
 <!-- netif&#45;&gt;net_hw -->
 <g id="edge11" class="edge">
 <title>netif&#45;&gt;net_hw</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1373,-171.95C1373,-167.34 1373,-162.62 1373,-158.02"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1385.2,-175.23C1385.2,-170.11 1385.2,-164.94 1385.2,-159.97"/>
 </g>
 <!-- NFS -->
 <g id="node16" class="node">
 <title>NFS</title>
-<polygon fill="#91b5c9" stroke="#8383cc" stroke-width="5" points="1323,-393.99 1323,-418.01 1297.81,-435 1262.19,-435 1237,-418.01 1237,-393.99 1262.19,-377 1297.81,-377 1323,-393.99"/>
-<text text-anchor="middle" x="1280" y="-399.8" font-family="Ubuntu" font-size="24.00">NFS</text>
+<polygon fill="#91b5c9" stroke="#8383cc" stroke-width="5" points="1333.4,-437.82 1333.4,-461.68 1308.09,-478.55 1272.31,-478.55 1247,-461.68 1247,-437.82 1272.31,-420.95 1308.09,-420.95 1333.4,-437.82"/>
+<text text-anchor="middle" x="1290.2" y="-443.82" font-family="Ubuntu" font-size="24.00">NFS</text>
 </g>
 <!-- NFS&#45;&gt;log_prot -->
 <g id="edge12" class="edge">
 <title>NFS&#45;&gt;log_prot</title>
-<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1303.47,-380.78C1314.23,-369.67 1327.19,-356.28 1339,-344.1"/>
-</g>
-<!-- storage_ -->
-<!-- FS -->
-<g id="node19" class="node">
-<title>FS</title>
-<ellipse fill="#d9e7ee" stroke="#8383cc" stroke-width="5" cx="1186" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="1186" y="-584.8" font-family="Ubuntu" font-size="24.00">files and</text>
-<text text-anchor="middle" x="1186" y="-558.8" font-family="Ubuntu" font-size="24.00">directories</text>
-</g>
-<!-- storage_&#45;&gt;FS -->
-<!-- storage -->
-<g id="node18" class="node">
-<title>storage</title>
-<g id="a_node18"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage" xlink:title="storage">
-<polygon fill="white" stroke="#8383cc" stroke-width="5" points="1258,-719 1114,-719 1114,-676 1258,-676 1258,-719"/>
-<text text-anchor="middle" x="1186" y="-691.3" font-family="Ubuntu" font-size="24.00">storage</text>
-</a>
-</g>
-</g>
-<!-- storage&#45;&gt;networking -->
-<!-- storage&#45;&gt;storage_ -->
-<g id="edge13" class="edge">
-<title>storage&#45;&gt;storage_</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1186,-675.96C1186,-666.86 1186,-656.91 1186,-651.08"/>
-<polygon fill="#8383cc" stroke="#8383cc" stroke-width="5" points="1188.19,-651.05 1186,-646.05 1183.81,-651.05 1188.19,-651.05"/>
-</g>
-<!-- VFS -->
-<g id="node20" class="node">
-<title>VFS</title>
-<polygon fill="#b2d3e4" stroke="#8383cc" stroke-width="5" points="1265,-528 1107,-528 1107,-456 1265,-456 1265,-528"/>
-<text text-anchor="middle" x="1186" y="-498.8" font-family="Ubuntu" font-size="24.00">Virtual</text>
-<text text-anchor="middle" x="1186" y="-472.8" font-family="Ubuntu" font-size="24.00">File System</text>
-</g>
-<!-- FS&#45;&gt;VFS -->
-<g id="edge14" class="edge">
-<title>FS&#45;&gt;VFS</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1186,-541.86C1186,-537.37 1186,-532.76 1186,-528.27"/>
-</g>
-<!-- VFS&#45;&gt;NFS -->
-<g id="edge15" class="edge">
-<title>VFS&#45;&gt;NFS</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1225.32,-455.86C1235.08,-447.14 1245.29,-438.01 1254.22,-430.04"/>
-</g>
-<!-- logFS -->
-<g id="node21" class="node">
-<title>logFS</title>
-<polygon fill="#6a9ab1" stroke="#8383cc" stroke-width="5" points="1265,-345 1107,-345 1107,-271 1265,-271 1265,-345"/>
-<text text-anchor="middle" x="1186" y="-325" font-family="Ubuntu" font-size="20.00">logical</text>
-<text text-anchor="middle" x="1186" y="-303" font-family="Ubuntu" font-size="20.00">filesystems:</text>
-<text text-anchor="middle" x="1186" y="-281" font-family="Ubuntu" font-size="20.00">ext3, xfs ...</text>
-</g>
-<!-- VFS&#45;&gt;logFS -->
-<g id="edge16" class="edge">
-<title>VFS&#45;&gt;logFS</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1186,-455.65C1186,-423.7 1186,-377.42 1186,-345.22"/>
-</g>
-<!-- PC -->
-<g id="node22" class="node">
-<title>PC</title>
-<polygon fill="#91b5c9" stroke="#51bf5b" stroke-width="5" points="1074,-393.99 1074,-418.01 1048.81,-435 1013.19,-435 988,-418.01 988,-393.99 1013.19,-377 1048.81,-377 1074,-393.99"/>
-<text text-anchor="middle" x="1031" y="-412" font-family="Ubuntu" font-size="20.00">page</text>
-<text text-anchor="middle" x="1031" y="-390" font-family="Ubuntu" font-size="20.00">cache</text>
-</g>
-<!-- VFS&#45;&gt;PC -->
-<g id="edge18" class="edge">
-<title>VFS&#45;&gt;PC</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1121.16,-455.86C1101.59,-445.25 1080.9,-434.04 1064.29,-425.04"/>
-</g>
-<!-- mmap -->
-<g id="node24" class="node">
-<title>mmap</title>
-<polygon fill="#91b5c9" stroke="#51bf5b" stroke-width="5" points="924,-393.99 924,-418.01 881.82,-435 822.18,-435 780,-418.01 780,-393.99 822.18,-377 881.82,-377 924,-393.99"/>
-<text text-anchor="middle" x="852" y="-412" font-family="Ubuntu" font-size="20.00">memory</text>
-<text text-anchor="middle" x="852" y="-390" font-family="Ubuntu" font-size="20.00">mapping</text>
-</g>
-<!-- VFS&#45;&gt;mmap -->
-<g id="edge19" class="edge">
-<title>VFS&#45;&gt;mmap</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1106.85,-471.09C1047.62,-456.2 967.8,-436.12 913.37,-422.43"/>
-</g>
-<!-- block -->
-<g id="node25" class="node">
-<title>block</title>
-<polygon fill="#71809b" stroke="#8383cc" stroke-width="5" points="1265,-246 1107,-246 1107,-172 1265,-172 1265,-246"/>
-<text text-anchor="middle" x="1186" y="-226" font-family="Ubuntu" font-size="20.00">Block</text>
-<text text-anchor="middle" x="1186" y="-204" font-family="Ubuntu" font-size="20.00">devices</text>
-<text text-anchor="middle" x="1186" y="-182" font-family="Ubuntu" font-size="20.00">and drivers</text>
-</g>
-<!-- logFS&#45;&gt;block -->
-<g id="edge20" class="edge">
-<title>logFS&#45;&gt;block</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1186,-270.88C1186,-262.8 1186,-254.23 1186,-246.15"/>
-</g>
-<!-- PA -->
-<g id="node23" class="node">
-<title>PA</title>
-<polygon fill="#71809b" stroke="#51bf5b" stroke-width="5" points="931,-245 773,-245 773,-173 931,-173 931,-245"/>
-<text text-anchor="middle" x="852" y="-215.8" font-family="Ubuntu" font-size="24.00">Page</text>
-<text text-anchor="middle" x="852" y="-189.8" font-family="Ubuntu" font-size="24.00">Allocator</text>
-</g>
-<!-- PC&#45;&gt;PA -->
-<g id="edge17" class="edge">
-<title>PC&#45;&gt;PA</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M1007.6,-380.25C976.23,-345.72 920.39,-284.27 884.83,-245.13"/>
-</g>
-<!-- RAM -->
-<g id="node61" class="node">
-<title>RAM</title>
-<polygon fill="#777777" stroke="#51bf5b" stroke-width="5" points="931,-158 773,-158 773,-86 931,-86 931,-158"/>
-<text text-anchor="middle" x="852" y="-117" font-family="Ubuntu" font-size="20.00" fill="white">MMU, RAM</text>
-</g>
-<!-- PA&#45;&gt;RAM -->
-<g id="edge50" class="edge">
-<title>PA&#45;&gt;RAM</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-172.94C852,-168.09 852,-163.11 852,-158.26"/>
-</g>
-<!-- log_mem -->
-<g id="node56" class="node">
-<title>log_mem</title>
-<polygon fill="#6a9ab1" stroke="#51bf5b" stroke-width="5" points="931,-344 773,-344 773,-272 931,-272 931,-344"/>
-<text text-anchor="middle" x="852" y="-314.8" font-family="Ubuntu" font-size="24.00">logical</text>
-<text text-anchor="middle" x="852" y="-288.8" font-family="Ubuntu" font-size="24.00">memory</text>
-</g>
-<!-- mmap&#45;&gt;log_mem -->
-<g id="edge46" class="edge">
-<title>mmap&#45;&gt;log_mem</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-376.97C852,-366.68 852,-354.9 852,-344.06"/>
-</g>
-<!-- SW -->
-<g id="node62" class="node">
-<title>SW</title>
-<polygon fill="#91b5c9" stroke="#8383cc" stroke-width="5" points="1039,-295.99 1039,-320.01 1013.81,-337 978.19,-337 953,-320.01 953,-295.99 978.19,-279 1013.81,-279 1039,-295.99"/>
-<text text-anchor="middle" x="996" y="-301.8" font-family="Ubuntu" font-size="24.00">Swap</text>
-</g>
-<!-- mmap&#45;&gt;SW -->
-<g id="edge48" class="edge">
-<title>mmap&#45;&gt;SW</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M889.46,-380.03C913.29,-364.14 943.74,-343.84 965.98,-329.01"/>
-</g>
-<!-- SD -->
-<g id="node26" class="node">
-<title>SD</title>
-<polygon fill="#777777" stroke="#8383cc" stroke-width="5" points="1267.5,-158 1104.5,-158 1104.5,-86 1267.5,-86 1267.5,-158"/>
-<text text-anchor="middle" x="1186" y="-128" font-family="Ubuntu" font-size="20.00" fill="white">storage devices:</text>
-<text text-anchor="middle" x="1186" y="-106" font-family="Ubuntu" font-size="20.00" fill="white">SCSI, NVMe ...</text>
-</g>
-<!-- block&#45;&gt;SD -->
-<g id="edge21" class="edge">
-<title>block&#45;&gt;SD</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1186,-171.95C1186,-167.34 1186,-162.62 1186,-158.02"/>
+<path fill="none" stroke="#61c2c5" stroke-width="5" d="M1312.47,-423.55C1324.43,-410.02 1339.39,-393.09 1352.63,-378.11"/>
 </g>
 <!-- processing_ -->
 <!-- proc -->
-<g id="node29" class="node">
+<g id="node19" class="node">
 <title>proc</title>
-<ellipse fill="#d9e7ee" stroke="#c46747" stroke-width="5" cx="672" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="672" y="-571.8" font-family="Ubuntu" font-size="24.00">Processes</text>
+<ellipse fill="#d9e7ee" stroke="#c46747" stroke-width="5" cx="681.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="681.2" y="-619.33" font-family="Ubuntu" font-size="24.00">Processes</text>
 </g>
 <!-- processing_&#45;&gt;proc -->
 <!-- processing&#45;&gt;processing_ -->
-<g id="edge22" class="edge">
+<g id="edge13" class="edge">
 <title>processing&#45;&gt;processing_</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-675.96C672,-666.86 672,-656.91 672,-651.08"/>
-<polygon fill="#c46747" stroke="#c46747" stroke-width="5" points="674.19,-651.05 672,-646.05 669.81,-651.05 674.19,-651.05"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-730.69C681.2,-720.93 681.2,-710.01 681.2,-703.35"/>
+<polygon fill="#c46747" stroke="#c46747" stroke-width="5" points="683.39,-708.41 681.2,-703.41 679.01,-708.41 683.39,-708.41"/>
 </g>
 <!-- memory -->
-<g id="node42" class="node">
+<g id="node34" class="node">
 <title>memory</title>
-<g id="a_node42"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Memory" xlink:title="memory">
-<polygon fill="white" stroke="#51bf5b" stroke-width="5" points="924,-719 780,-719 780,-676 924,-676 924,-719"/>
-<text text-anchor="middle" x="852" y="-691.3" font-family="Ubuntu" font-size="24.00">memory</text>
+<g id="a_node34"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Memory" xlink:title="memory">
+<polygon fill="white" stroke="#51bf5b" stroke-width="5" points="933.2,-774.2 789.2,-774.2 789.2,-731 933.2,-731 933.2,-774.2"/>
+<text text-anchor="middle" x="861.2" y="-746.68" font-family="Ubuntu" font-size="24.00">memory</text>
 </a>
 </g>
 </g>
 <!-- processing&#45;&gt;memory -->
 <!-- Tasks -->
-<g id="node30" class="node">
+<g id="node20" class="node">
 <title>Tasks</title>
-<polygon fill="#b2d3e4" stroke="#c46747" stroke-width="5" points="751,-528 593,-528 593,-456 751,-456 751,-528"/>
-<text text-anchor="middle" x="672" y="-485.8" font-family="Ubuntu" font-size="24.00">Tasks</text>
+<polygon fill="#b2d3e4" stroke="#c46747" stroke-width="5" points="760.4,-573.5 602,-573.5 602,-501.5 760.4,-501.5 760.4,-573.5"/>
+<text text-anchor="middle" x="681.2" y="-531.58" font-family="Ubuntu" font-size="24.00">Tasks</text>
 </g>
 <!-- proc&#45;&gt;Tasks -->
-<g id="edge23" class="edge">
+<g id="edge14" class="edge">
 <title>proc&#45;&gt;Tasks</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-541.86C672,-537.37 672,-532.76 672,-528.27"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-588.88C681.2,-583.89 681.2,-578.77 681.2,-573.79"/>
 </g>
 <!-- sync -->
-<g id="node31" class="node">
+<g id="node21" class="node">
 <title>sync</title>
-<polygon fill="#91b5c9" stroke="#c46747" stroke-width="5" points="751,-395.64 751,-416.36 704.72,-431 639.28,-431 593,-416.36 593,-395.64 639.28,-381 704.72,-381 751,-395.64"/>
-<text text-anchor="middle" x="672" y="-401" font-family="Ubuntu Condensed" font-size="20.00">synchronization</text>
+<polygon fill="#91b5c9" stroke="#c46747" stroke-width="5" points="760.4,-439.31 760.4,-460.19 714.01,-474.95 648.39,-474.95 602,-460.19 602,-439.31 648.39,-424.55 714.01,-424.55 760.4,-439.31"/>
+<text text-anchor="middle" x="681.2" y="-444.62" font-family="Ubuntu Condensed" font-size="20.00">synchronization</text>
 </g>
 <!-- Tasks&#45;&gt;sync -->
-<g id="edge24" class="edge">
+<g id="edge15" class="edge">
 <title>Tasks&#45;&gt;sync</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-455.86C672,-447.59 672,-438.95 672,-431.28"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-501.13C681.2,-492.45 681.2,-483.36 681.2,-475.32"/>
 </g>
 <!-- sched -->
-<g id="node32" class="node">
+<g id="node22" class="node">
 <title>sched</title>
-<polygon fill="#6a9ab1" stroke="#c46747" stroke-width="5" points="751,-344 593,-344 593,-272 751,-272 751,-344"/>
-<text text-anchor="middle" x="672" y="-301.8" font-family="Ubuntu" font-size="24.00">Scheduler</text>
+<polygon fill="#6a9ab1" stroke="#c46747" stroke-width="5" points="760.4,-376.25 602,-376.25 602,-304.25 760.4,-304.25 760.4,-376.25"/>
+<text text-anchor="middle" x="681.2" y="-334.32" font-family="Ubuntu" font-size="24.00">Scheduler</text>
 </g>
 <!-- sync&#45;&gt;sched -->
-<g id="edge25" class="edge">
+<g id="edge16" class="edge">
 <title>sync&#45;&gt;sched</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-380.78C672,-369.67 672,-356.28 672,-344.1"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-424.09C681.2,-409.95 681.2,-391.98 681.2,-376.39"/>
 </g>
 <!-- IRQ -->
-<g id="node33" class="node">
+<g id="node23" class="node">
 <title>IRQ</title>
-<polygon fill="#71809b" stroke="#c46747" stroke-width="5" points="751,-246 593,-246 593,-172 751,-172 751,-246"/>
-<text text-anchor="middle" x="672" y="-226" font-family="Ubuntu" font-size="20.00">interrupts</text>
-<text text-anchor="middle" x="672" y="-204" font-family="Ubuntu" font-size="20.00">core,</text>
-<text text-anchor="middle" x="672" y="-182" font-family="Ubuntu" font-size="20.00">CPU arch</text>
+<polygon fill="#71809b" stroke="#c46747" stroke-width="5" points="760.4,-266.75 602,-266.75 602,-175.5 760.4,-175.5 760.4,-266.75"/>
+<text text-anchor="middle" x="681.2" y="-243.75" font-family="Ubuntu" font-size="20.00">interrupts</text>
+<text text-anchor="middle" x="681.2" y="-216" font-family="Ubuntu" font-size="20.00">core,</text>
+<text text-anchor="middle" x="681.2" y="-188.25" font-family="Ubuntu" font-size="20.00">CPU arch</text>
 </g>
 <!-- sched&#45;&gt;IRQ -->
-<g id="edge26" class="edge">
+<g id="edge17" class="edge">
 <title>sched&#45;&gt;IRQ</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-271.98C672,-263.62 672,-254.69 672,-246.27"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-303.79C681.2,-292.21 681.2,-279.19 681.2,-267.01"/>
 </g>
 <!-- CPU -->
-<g id="node34" class="node">
+<g id="node24" class="node">
 <title>CPU</title>
-<polygon fill="#777777" stroke="#c46747" stroke-width="5" points="751,-158 593,-158 593,-86 751,-86 751,-158"/>
-<text text-anchor="middle" x="672" y="-117" font-family="Ubuntu" font-size="20.00" fill="white">CPU</text>
+<polygon fill="#777777" stroke="#c46747" stroke-width="5" points="760.4,-159.75 602,-159.75 602,-87.75 760.4,-87.75 760.4,-159.75"/>
+<text text-anchor="middle" x="681.2" y="-118.62" font-family="Ubuntu" font-size="20.00" fill="white">CPU</text>
 </g>
 <!-- IRQ&#45;&gt;CPU -->
-<g id="edge27" class="edge">
+<g id="edge18" class="edge">
 <title>IRQ&#45;&gt;CPU</title>
-<path fill="none" stroke="#c46747" stroke-width="5" d="M672,-171.95C672,-167.34 672,-162.62 672,-158.02"/>
+<path fill="none" stroke="#c46747" stroke-width="5" d="M681.2,-175.23C681.2,-170.11 681.2,-164.94 681.2,-159.97"/>
 </g>
 <!-- bottom -->
 <g id="node63" class="node">
 <title>bottom</title>
-<text text-anchor="middle" x="672" y="-29.8" font-family="Ubuntu" font-size="24.00">© 2007&#45;2021 Constantine Shulyupin http://www.MakeLinux.net/kernel/diagram</text>
+<text text-anchor="middle" x="681.2" y="-30.07" font-family="Ubuntu" font-size="24.00">© 2007 Constantine Shulyupin https://makelinux.github.io/kernel/diagram</text>
 </g>
 <!-- CPU&#45;&gt;bottom -->
+<!-- MA -->
+<g id="node25" class="node">
+<title>MA</title>
+<ellipse fill="#d9e7ee" stroke="#51bf5b" stroke-width="5" cx="861.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="861.2" y="-636.2" font-family="Ubuntu" font-size="24.00">memory</text>
+<text text-anchor="middle" x="861.2" y="-602.45" font-family="Ubuntu" font-size="24.00">access</text>
+</g>
+<!-- VM -->
+<g id="node26" class="node">
+<title>VM</title>
+<polygon fill="#b2d3e4" stroke="#51bf5b" stroke-width="5" points="940.4,-575.25 782,-575.25 782,-499.75 940.4,-499.75 940.4,-575.25"/>
+<text text-anchor="middle" x="861.2" y="-548.45" font-family="Ubuntu" font-size="24.00">Virtual</text>
+<text text-anchor="middle" x="861.2" y="-514.7" font-family="Ubuntu" font-size="24.00">memory</text>
+</g>
+<!-- MA&#45;&gt;VM -->
+<g id="edge19" class="edge">
+<title>MA&#45;&gt;VM</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-588.88C861.2,-584.54 861.2,-580.1 861.2,-575.74"/>
+</g>
+<!-- mmap -->
+<g id="node27" class="node">
+<title>mmap</title>
+<polygon fill="#91b5c9" stroke="#51bf5b" stroke-width="5" points="933.2,-437.82 933.2,-461.68 891.02,-478.55 831.38,-478.55 789.2,-461.68 789.2,-437.82 831.38,-420.95 891.02,-420.95 933.2,-437.82"/>
+<text text-anchor="middle" x="861.2" y="-458.5" font-family="Ubuntu" font-size="20.00">memory</text>
+<text text-anchor="middle" x="861.2" y="-430.75" font-family="Ubuntu" font-size="20.00">mapping</text>
+</g>
+<!-- VM&#45;&gt;mmap -->
+<g id="edge27" class="edge">
+<title>VM&#45;&gt;mmap</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-499.64C861.2,-492.74 861.2,-485.63 861.2,-479.04"/>
+</g>
+<!-- log_mem -->
+<g id="node28" class="node">
+<title>log_mem</title>
+<polygon fill="#6a9ab1" stroke="#51bf5b" stroke-width="5" points="940.4,-378 782,-378 782,-302.5 940.4,-302.5 940.4,-378"/>
+<text text-anchor="middle" x="861.2" y="-351.2" font-family="Ubuntu" font-size="24.00">logical</text>
+<text text-anchor="middle" x="861.2" y="-317.45" font-family="Ubuntu" font-size="24.00">memory</text>
+</g>
+<!-- mmap&#45;&gt;log_mem -->
+<g id="edge20" class="edge">
+<title>mmap&#45;&gt;log_mem</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-420.51C861.2,-407.57 861.2,-392.06 861.2,-378.21"/>
+</g>
+<!-- SW -->
+<g id="node30" class="node">
+<title>SW</title>
+<polygon fill="#91b5c9" stroke="#8383cc" stroke-width="5" points="1048.4,-328.32 1048.4,-352.18 1023.09,-369.05 987.31,-369.05 962,-352.18 962,-328.32 987.31,-311.45 1023.09,-311.45 1048.4,-328.32"/>
+<text text-anchor="middle" x="1005.2" y="-334.32" font-family="Ubuntu" font-size="24.00">Swap</text>
+</g>
+<!-- mmap&#45;&gt;SW -->
+<g id="edge22" class="edge">
+<title>mmap&#45;&gt;SW</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M896.06,-422.73C920.86,-404.21 953.77,-379.65 976.94,-362.35"/>
+</g>
+<!-- PA -->
+<g id="node29" class="node">
+<title>PA</title>
+<polygon fill="#71809b" stroke="#51bf5b" stroke-width="5" points="940.4,-258.88 782,-258.88 782,-183.38 940.4,-183.38 940.4,-258.88"/>
+<text text-anchor="middle" x="861.2" y="-232.07" font-family="Ubuntu" font-size="24.00">Page</text>
+<text text-anchor="middle" x="861.2" y="-198.32" font-family="Ubuntu" font-size="24.00">Allocator</text>
+</g>
+<!-- log_mem&#45;&gt;PA -->
+<g id="edge21" class="edge">
+<title>log_mem&#45;&gt;PA</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-302.19C861.2,-288.52 861.2,-273.03 861.2,-259.35"/>
+</g>
+<!-- RAM -->
+<g id="node33" class="node">
+<title>RAM</title>
+<polygon fill="#777777" stroke="#51bf5b" stroke-width="5" points="940.4,-159.75 782,-159.75 782,-87.75 940.4,-87.75 940.4,-159.75"/>
+<text text-anchor="middle" x="861.2" y="-118.62" font-family="Ubuntu" font-size="20.00" fill="white">MMU, RAM</text>
+</g>
+<!-- PA&#45;&gt;RAM -->
+<g id="edge25" class="edge">
+<title>PA&#45;&gt;RAM</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-182.98C861.2,-175.45 861.2,-167.54 861.2,-160.08"/>
+</g>
+<!-- block -->
+<g id="node31" class="node">
+<title>block</title>
+<polygon fill="#71809b" stroke="#51bf5b" stroke-width="5" points="1274.4,-266.75 1116,-266.75 1116,-175.5 1274.4,-175.5 1274.4,-266.75"/>
+<text text-anchor="middle" x="1195.2" y="-243.75" font-family="Ubuntu" font-size="20.00">Block</text>
+<text text-anchor="middle" x="1195.2" y="-216" font-family="Ubuntu" font-size="20.00">devices</text>
+<text text-anchor="middle" x="1195.2" y="-188.25" font-family="Ubuntu" font-size="20.00">and drivers</text>
+</g>
+<!-- SW&#45;&gt;block -->
+<g id="edge23" class="edge">
+<title>SW&#45;&gt;block</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1036.57,-319.91C1059.87,-305.55 1092.61,-285.37 1122.3,-267.07"/>
+</g>
+<!-- SD -->
+<g id="node41" class="node">
+<title>SD</title>
+<polygon fill="#777777" stroke="#8383cc" stroke-width="5" points="1278.95,-159.75 1111.45,-159.75 1111.45,-87.75 1278.95,-87.75 1278.95,-159.75"/>
+<text text-anchor="middle" x="1195.2" y="-132.5" font-family="Ubuntu" font-size="20.00" fill="white">storage devices:</text>
+<text text-anchor="middle" x="1195.2" y="-104.75" font-family="Ubuntu" font-size="20.00" fill="white">SCSI, NVMe ...</text>
+</g>
+<!-- block&#45;&gt;SD -->
+<g id="edge35" class="edge">
+<title>block&#45;&gt;SD</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1195.2,-175.23C1195.2,-170.11 1195.2,-164.94 1195.2,-159.97"/>
+</g>
+<!-- PC -->
+<g id="node32" class="node">
+<title>PC</title>
+<polygon fill="#91b5c9" stroke="#51bf5b" stroke-width="5" points="1083.4,-437.82 1083.4,-461.68 1058.09,-478.55 1022.31,-478.55 997,-461.68 997,-437.82 1022.31,-420.95 1058.09,-420.95 1083.4,-437.82"/>
+<text text-anchor="middle" x="1040.2" y="-458.5" font-family="Ubuntu" font-size="20.00">page</text>
+<text text-anchor="middle" x="1040.2" y="-430.75" font-family="Ubuntu" font-size="20.00">cache</text>
+</g>
+<!-- PC&#45;&gt;PA -->
+<g id="edge24" class="edge">
+<title>PC&#45;&gt;PA</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M1018.96,-422.63C987.2,-382.06 927.19,-305.41 891.04,-259.23"/>
+</g>
+<!-- memory_ -->
+<!-- memory&#45;&gt;memory_ -->
+<g id="edge26" class="edge">
+<title>memory&#45;&gt;memory_</title>
+<path fill="none" stroke="#51bf5b" stroke-width="5" d="M861.2,-730.69C861.2,-720.93 861.2,-710.01 861.2,-703.35"/>
+<polygon fill="#51bf5b" stroke="#51bf5b" stroke-width="5" points="863.39,-708.41 861.2,-703.41 859.01,-708.41 863.39,-708.41"/>
+</g>
+<!-- storage -->
+<g id="node37" class="node">
+<title>storage</title>
+<g id="a_node37"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage" xlink:title="storage">
+<polygon fill="white" stroke="#8383cc" stroke-width="5" points="1267.2,-774.2 1123.2,-774.2 1123.2,-731 1267.2,-731 1267.2,-774.2"/>
+<text text-anchor="middle" x="1195.2" y="-746.68" font-family="Ubuntu" font-size="24.00">storage</text>
+</a>
+</g>
+</g>
+<!-- memory&#45;&gt;storage -->
+<!-- memory_&#45;&gt;MA -->
+<!-- storage_ -->
+<!-- FS -->
+<g id="node38" class="node">
+<title>FS</title>
+<ellipse fill="#d9e7ee" stroke="#8383cc" stroke-width="5" cx="1195.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="1195.2" y="-636.2" font-family="Ubuntu" font-size="24.00">files and</text>
+<text text-anchor="middle" x="1195.2" y="-602.45" font-family="Ubuntu" font-size="24.00">directories</text>
+</g>
+<!-- storage_&#45;&gt;FS -->
+<!-- storage&#45;&gt;networking -->
+<!-- storage&#45;&gt;storage_ -->
+<g id="edge28" class="edge">
+<title>storage&#45;&gt;storage_</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1195.2,-730.69C1195.2,-720.93 1195.2,-710.01 1195.2,-703.35"/>
+<polygon fill="#8383cc" stroke="#8383cc" stroke-width="5" points="1197.39,-708.41 1195.2,-703.41 1193.01,-708.41 1197.39,-708.41"/>
+</g>
+<!-- VFS -->
+<g id="node39" class="node">
+<title>VFS</title>
+<polygon fill="#b2d3e4" stroke="#8383cc" stroke-width="5" points="1274.4,-575.25 1116,-575.25 1116,-499.75 1274.4,-499.75 1274.4,-575.25"/>
+<text text-anchor="middle" x="1195.2" y="-548.45" font-family="Ubuntu" font-size="24.00">Virtual</text>
+<text text-anchor="middle" x="1195.2" y="-514.7" font-family="Ubuntu" font-size="24.00">File System</text>
+</g>
+<!-- FS&#45;&gt;VFS -->
+<g id="edge29" class="edge">
+<title>FS&#45;&gt;VFS</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1195.2,-588.88C1195.2,-584.54 1195.2,-580.1 1195.2,-575.74"/>
+</g>
+<!-- VFS&#45;&gt;NFS -->
+<g id="edge31" class="edge">
+<title>VFS&#45;&gt;NFS</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1236.32,-499.39C1245.94,-490.7 1255.93,-481.68 1264.65,-473.81"/>
+</g>
+<!-- VFS&#45;&gt;mmap -->
+<g id="edge30" class="edge">
+<title>VFS&#45;&gt;mmap</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1115.62,-516.07C1056.39,-500.86 976.72,-480.41 922.41,-466.47"/>
+</g>
+<!-- VFS&#45;&gt;PC -->
+<g id="edge33" class="edge">
+<title>VFS&#45;&gt;PC</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1128.12,-499.39C1108.97,-488.8 1088.96,-477.73 1072.88,-468.83"/>
+</g>
+<!-- logFS -->
+<g id="node40" class="node">
+<title>logFS</title>
+<polygon fill="#6a9ab1" stroke="#8383cc" stroke-width="5" points="1274.4,-385.88 1116,-385.88 1116,-294.62 1274.4,-294.62 1274.4,-385.88"/>
+<text text-anchor="middle" x="1195.2" y="-362.88" font-family="Ubuntu" font-size="20.00">logical</text>
+<text text-anchor="middle" x="1195.2" y="-335.12" font-family="Ubuntu" font-size="20.00">filesystems:</text>
+<text text-anchor="middle" x="1195.2" y="-307.38" font-family="Ubuntu" font-size="20.00">ext3, xfs ...</text>
+</g>
+<!-- VFS&#45;&gt;logFS -->
+<g id="edge32" class="edge">
+<title>VFS&#45;&gt;logFS</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1195.2,-499.47C1195.2,-467.11 1195.2,-420.56 1195.2,-386.14"/>
+</g>
+<!-- logFS&#45;&gt;block -->
+<g id="edge34" class="edge">
+<title>logFS&#45;&gt;block</title>
+<path fill="none" stroke="#8383cc" stroke-width="5" d="M1195.2,-294.3C1195.2,-285.4 1195.2,-276.05 1195.2,-267.15"/>
+</g>
 <!-- HI_ -->
 <!-- char -->
-<g id="node37" class="node">
+<g id="node44" class="node">
 <title>char</title>
-<ellipse fill="#d9e7ee" stroke="#cfbf57" stroke-width="5" cx="307" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="307" y="-584.8" font-family="Ubuntu" font-size="24.00">char</text>
-<text text-anchor="middle" x="307" y="-558.8" font-family="Ubuntu" font-size="24.00">devices</text>
+<ellipse fill="#d9e7ee" stroke="#cfbf57" stroke-width="5" cx="312.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="312.2" y="-636.2" font-family="Ubuntu" font-size="24.00">char</text>
+<text text-anchor="middle" x="312.2" y="-602.45" font-family="Ubuntu" font-size="24.00">devices</text>
 </g>
 <!-- HI_&#45;&gt;char -->
 <!-- HI -->
-<g id="node36" class="node">
+<g id="node43" class="node">
 <title>HI</title>
-<g id="a_node36"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Human_interfaces" xlink:title="human\ninterface">
-<polygon fill="white" stroke="#cfbf57" stroke-width="5" points="379,-719 235,-719 235,-676 379,-676 379,-719"/>
-<text text-anchor="middle" x="307" y="-700.9" font-family="Ubuntu" font-size="12.00">human</text>
-<text text-anchor="middle" x="307" y="-687.9" font-family="Ubuntu" font-size="12.00">interface</text>
+<g id="a_node43"><a xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Human_interfaces" xlink:title="human\ninterface">
+<polygon fill="white" stroke="#cfbf57" stroke-width="5" points="384.2,-774.2 240.2,-774.2 240.2,-731 384.2,-731 384.2,-774.2"/>
+<text text-anchor="middle" x="312.2" y="-758.45" font-family="Ubuntu" font-size="12.00">human</text>
+<text text-anchor="middle" x="312.2" y="-741.2" font-family="Ubuntu" font-size="12.00">interface</text>
 </a>
 </g>
 </g>
 <!-- HI&#45;&gt;system -->
 <!-- HI&#45;&gt;HI_ -->
-<g id="edge28" class="edge">
+<g id="edge36" class="edge">
 <title>HI&#45;&gt;HI_</title>
-<path fill="none" stroke="#cfbf57" stroke-width="5" d="M307,-675.96C307,-666.86 307,-656.91 307,-651.08"/>
-<polygon fill="#cfbf57" stroke="#cfbf57" stroke-width="5" points="309.19,-651.05 307,-646.05 304.81,-651.05 309.19,-651.05"/>
+<path fill="none" stroke="#cfbf57" stroke-width="5" d="M312.2,-730.69C312.2,-720.93 312.2,-710.01 312.2,-703.35"/>
+<polygon fill="#cfbf57" stroke="#cfbf57" stroke-width="5" points="314.39,-708.41 312.2,-703.41 310.01,-708.41 314.39,-708.41"/>
 </g>
 <!-- input -->
-<g id="node38" class="node">
+<g id="node45" class="node">
 <title>input</title>
-<polygon fill="#b2d3e4" stroke="#cfbf57" stroke-width="5" points="386,-528 228,-528 228,-456 386,-456 386,-528"/>
-<text text-anchor="middle" x="307" y="-498.8" font-family="Ubuntu" font-size="24.00">input</text>
-<text text-anchor="middle" x="307" y="-472.8" font-family="Ubuntu" font-size="24.00">subsystem</text>
+<polygon fill="#b2d3e4" stroke="#cfbf57" stroke-width="5" points="391.4,-575.25 233,-575.25 233,-499.75 391.4,-499.75 391.4,-575.25"/>
+<text text-anchor="middle" x="312.2" y="-548.45" font-family="Ubuntu" font-size="24.00">input</text>
+<text text-anchor="middle" x="312.2" y="-514.7" font-family="Ubuntu" font-size="24.00">subsystem</text>
 </g>
 <!-- char&#45;&gt;input -->
-<g id="edge29" class="edge">
+<g id="edge37" class="edge">
 <title>char&#45;&gt;input</title>
-<path fill="none" stroke="#cfbf57" stroke-width="5" d="M307,-541.86C307,-537.37 307,-532.76 307,-528.27"/>
+<path fill="none" stroke="#cfbf57" stroke-width="5" d="M312.2,-588.88C312.2,-584.54 312.2,-580.1 312.2,-575.74"/>
 </g>
 <!-- F7 -->
-<g id="node39" class="node">
+<g id="node46" class="node">
 <title>F7</title>
-<polygon fill="#6a9ab1" stroke="#cfbf57" stroke-width="5" points="386,-344 228,-344 228,-272 386,-272 386,-344"/>
-<text text-anchor="middle" x="307" y="-314.8" font-family="Ubuntu" font-size="24.00">HI class</text>
-<text text-anchor="middle" x="307" y="-288.8" font-family="Ubuntu" font-size="24.00">drivers</text>
+<polygon fill="#6a9ab1" stroke="#cfbf57" stroke-width="5" points="391.4,-378 233,-378 233,-302.5 391.4,-302.5 391.4,-378"/>
+<text text-anchor="middle" x="312.2" y="-351.2" font-family="Ubuntu" font-size="24.00">HI class</text>
+<text text-anchor="middle" x="312.2" y="-317.45" font-family="Ubuntu" font-size="24.00">drivers</text>
 </g>
 <!-- input&#45;&gt;F7 -->
-<g id="edge30" class="edge">
+<g id="edge38" class="edge">
 <title>input&#45;&gt;F7</title>
-<path fill="none" stroke="#cfbf57" stroke-width="5" d="M307,-455.65C307,-423.39 307,-376.51 307,-344.28"/>
+<path fill="none" stroke="#cfbf57" stroke-width="5" d="M312.2,-499.47C312.2,-464.54 312.2,-413.06 312.2,-378.17"/>
 </g>
 <!-- HID -->
-<g id="node40" class="node">
+<g id="node47" class="node">
 <title>HID</title>
-<g id="a_node40"><a xlink:href="https://www.kernel.org/doc/html/latest/hid/" xlink:title="HI\nperipherals\ndrivers">
-<polygon fill="#71809b" stroke="#cfbf57" stroke-width="5" points="386,-246 228,-246 228,-172 386,-172 386,-246"/>
-<text text-anchor="middle" x="307" y="-226" font-family="Ubuntu" font-size="20.00">HI</text>
-<text text-anchor="middle" x="307" y="-204" font-family="Ubuntu" font-size="20.00">peripherals</text>
-<text text-anchor="middle" x="307" y="-182" font-family="Ubuntu" font-size="20.00">drivers</text>
+<g id="a_node47"><a xlink:href="https://www.kernel.org/doc/html/latest/hid/" xlink:title="HI\nperipherals\ndrivers">
+<polygon fill="#71809b" stroke="#cfbf57" stroke-width="5" points="391.4,-266.75 233,-266.75 233,-175.5 391.4,-175.5 391.4,-266.75"/>
+<text text-anchor="middle" x="312.2" y="-243.75" font-family="Ubuntu" font-size="20.00">HI</text>
+<text text-anchor="middle" x="312.2" y="-216" font-family="Ubuntu" font-size="20.00">peripherals</text>
+<text text-anchor="middle" x="312.2" y="-188.25" font-family="Ubuntu" font-size="20.00">drivers</text>
 </a>
 </g>
 </g>
 <!-- F7&#45;&gt;HID -->
-<g id="edge31" class="edge">
+<g id="edge39" class="edge">
 <title>F7&#45;&gt;HID</title>
-<path fill="none" stroke="#cfbf57" stroke-width="5" d="M307,-271.98C307,-263.62 307,-254.69 307,-246.27"/>
+<path fill="none" stroke="#cfbf57" stroke-width="5" d="M312.2,-302.19C312.2,-291.07 312.2,-278.74 312.2,-267.16"/>
 </g>
 <!-- display -->
-<g id="node41" class="node">
+<g id="node48" class="node">
 <title>display</title>
-<polygon fill="#777777" stroke="#cfbf57" stroke-width="5" points="391.5,-158 222.5,-158 222.5,-86 391.5,-86 391.5,-158"/>
-<text text-anchor="middle" x="307" y="-127.8" font-family="Ubuntu" font-size="19.00" fill="white">keyboard, mouse,</text>
-<text text-anchor="middle" x="307" y="-106.8" font-family="Ubuntu" font-size="19.00" fill="white">display, audio</text>
+<polygon fill="#777777" stroke="#cfbf57" stroke-width="5" points="400.45,-159.75 223.95,-159.75 223.95,-87.75 400.45,-87.75 400.45,-159.75"/>
+<text text-anchor="middle" x="312.2" y="-132.7" font-family="Ubuntu" font-size="19.00" fill="white">keyboard, mouse,</text>
+<text text-anchor="middle" x="312.2" y="-105.7" font-family="Ubuntu" font-size="19.00" fill="white">display, audio</text>
 </g>
 <!-- HID&#45;&gt;display -->
-<g id="edge32" class="edge">
+<g id="edge40" class="edge">
 <title>HID&#45;&gt;display</title>
-<path fill="none" stroke="#cfbf57" stroke-width="5" d="M307,-171.95C307,-167.34 307,-162.62 307,-158.02"/>
-</g>
-<!-- memory&#45;&gt;storage -->
-<!-- memory_ -->
-<!-- memory&#45;&gt;memory_ -->
-<g id="edge51" class="edge">
-<title>memory&#45;&gt;memory_</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-675.96C852,-666.86 852,-656.91 852,-651.08"/>
-<polygon fill="#51bf5b" stroke="#51bf5b" stroke-width="5" points="854.19,-651.05 852,-646.05 849.81,-651.05 854.19,-651.05"/>
+<path fill="none" stroke="#cfbf57" stroke-width="5" d="M312.2,-175.23C312.2,-170.11 312.2,-164.94 312.2,-159.97"/>
 </g>
 <!-- functions_ -->
 <!-- functions_&#45;&gt;HI -->
 <!-- functions -->
-<g id="node44" class="node">
+<g id="node50" class="node">
 <title>functions</title>
-<g id="a_node44"><a xlink:href="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml" xlink:title="Columns represent main functionalities of the kernel">
-<polygon fill="none" stroke="gray" stroke-dasharray="5,2" points="136.5,-719 21.5,-719 21.5,-676 136.5,-676 136.5,-719"/>
-<text text-anchor="middle" x="79" y="-691.3" font-family="Ubuntu" font-size="24.00">functions</text>
+<g id="a_node50"><a xlink:href="https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch01s02.html" xlink:title="Columns represent main functionalities of the kernel">
+<polygon fill="none" stroke="gray" stroke-dasharray="5,2" points="136.8,-774.2 21.6,-774.2 21.6,-731 136.8,-731 136.8,-774.2"/>
+<text text-anchor="middle" x="79.2" y="-746.68" font-family="Ubuntu" font-size="24.00">functions</text>
 </a>
 </g>
 </g>
 <!-- functions&#45;&gt;functions_ -->
-<g id="edge39" class="edge">
+<g id="edge47" class="edge">
 <title>functions&#45;&gt;functions_</title>
-<path fill="none" stroke="gray" d="M136.68,-697.5C151.21,-697.5 165.73,-697.5 180.26,-697.5"/>
-<polygon fill="gray" stroke="gray" points="180.61,-699.25 185.61,-697.5 180.61,-695.75 180.61,-699.25"/>
+<path fill="none" stroke="gray" d="M137.21,-752.6C152.25,-752.6 167.3,-752.6 182.35,-752.6"/>
+<polygon fill="gray" stroke="gray" points="182.28,-754.35 187.28,-752.6 182.28,-750.85 182.28,-754.35"/>
 </g>
 <!-- layers -->
 <g id="node64" class="node">
 <title>layers</title>
 <g id="a_node64"><a xlink:title="Functionalities are divided to common layers. It is approximate division.">
-<polygon fill="lightgray" stroke="black" stroke-width="0" points="119,-662 39,-662 39,-628 119,-628 119,-662"/>
-<text text-anchor="middle" x="79" y="-638.8" font-family="Ubuntu" font-size="24.00">layers</text>
+<polygon fill="lightgray" stroke="black" stroke-width="0" points="120.2,-717 38.2,-717 38.2,-675.25 120.2,-675.25 120.2,-717"/>
+<text text-anchor="middle" x="79.2" y="-690.2" font-family="Ubuntu" font-size="24.00">layers</text>
 </a>
 </g>
 </g>
 <!-- functions&#45;&gt;layers -->
 <!-- usr_ -->
 <!-- usr -->
-<g id="node46" class="node">
+<g id="node52" class="node">
 <title>usr</title>
-<ellipse fill="#d9e7ee" stroke="black" stroke-width="0" cx="79" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="79" y="-584.8" font-family="Ubuntu" font-size="24.00">user space</text>
-<text text-anchor="middle" x="79" y="-558.8" font-family="Ubuntu" font-size="24.00">interfaces</text>
+<ellipse fill="#d9e7ee" stroke="black" stroke-width="0" cx="79.2" cy="-625.25" rx="79.2" ry="36"/>
+<text text-anchor="middle" x="79.2" y="-636.2" font-family="Ubuntu" font-size="24.00">user space</text>
+<text text-anchor="middle" x="79.2" y="-602.45" font-family="Ubuntu" font-size="24.00">interfaces</text>
 </g>
 <!-- usr&#45;&gt;usr_ -->
 <g id="edge56" class="edge">
 <title>usr&#45;&gt;usr_</title>
-<path fill="none" stroke="#d9e7ee" stroke-width="5" d="M158.11,-578C170.52,-578 182.93,-578 195.35,-578"/>
-<polygon fill="#d9e7ee" stroke="#d9e7ee" stroke-width="5" points="195.66,-580.19 200.66,-578 195.66,-575.81 195.66,-580.19"/>
+<path fill="none" stroke="#d9e7ee" stroke-width="5" d="M158.48,-625.25C170.79,-625.25 183.11,-625.25 195.42,-625.25"/>
+<polygon fill="#d9e7ee" stroke="#d9e7ee" stroke-width="5" points="190.62,-627.44 195.62,-625.25 190.62,-623.06 190.62,-627.44"/>
 </g>
 <!-- virt -->
-<g id="node50" class="node">
+<g id="node54" class="node">
 <title>virt</title>
-<g id="a_node50"><a xlink:href="https://en.wikipedia.org/wiki/Proxy_pattern" xlink:title="proxy between standard user space interfaces and internal implementations">
-<polygon fill="#b2d3e4" stroke="black" stroke-width="0" points="158,-528 0,-528 0,-456 158,-456 158,-528"/>
-<text text-anchor="middle" x="79" y="-498.8" font-family="Ubuntu" font-size="24.00">virtual</text>
-<text text-anchor="middle" x="79" y="-472.8" font-family="Ubuntu" font-size="24.00">subsystems</text>
+<g id="a_node54"><a xlink:href="https://en.wikipedia.org/wiki/Proxy_pattern" xlink:title="proxy between standard user space interfaces and internal implementations">
+<polygon fill="#b2d3e4" stroke="black" stroke-width="0" points="158.4,-575.25 0,-575.25 0,-499.75 158.4,-499.75 158.4,-575.25"/>
+<text text-anchor="middle" x="79.2" y="-548.45" font-family="Ubuntu" font-size="24.00">virtual</text>
+<text text-anchor="middle" x="79.2" y="-514.7" font-family="Ubuntu" font-size="24.00">subsystems</text>
 </a>
 </g>
 </g>
 <!-- usr&#45;&gt;virt -->
 <g id="edge57" class="edge">
 <title>usr&#45;&gt;virt</title>
-<path fill="none" stroke="#d9e7ee" stroke-width="5" d="M79,-541.86C79,-537.37 79,-532.76 79,-528.27"/>
+<path fill="none" stroke="#d9e7ee" stroke-width="5" d="M79.2,-588.88C79.2,-584.54 79.2,-580.1 79.2,-575.74"/>
 </g>
-<!-- MA -->
-<g id="node47" class="node">
-<title>MA</title>
-<ellipse fill="#d9e7ee" stroke="#51bf5b" stroke-width="5" cx="852" cy="-578" rx="79" ry="36"/>
-<text text-anchor="middle" x="852" y="-584.8" font-family="Ubuntu" font-size="24.00">memory</text>
-<text text-anchor="middle" x="852" y="-558.8" font-family="Ubuntu" font-size="24.00">access</text>
-</g>
-<!-- VM -->
-<g id="node51" class="node">
-<title>VM</title>
-<polygon fill="#b2d3e4" stroke="#51bf5b" stroke-width="5" points="931,-528 773,-528 773,-456 931,-456 931,-528"/>
-<text text-anchor="middle" x="852" y="-498.8" font-family="Ubuntu" font-size="24.00">Virtual</text>
-<text text-anchor="middle" x="852" y="-472.8" font-family="Ubuntu" font-size="24.00">memory</text>
-</g>
-<!-- MA&#45;&gt;VM -->
-<g id="edge52" class="edge">
-<title>MA&#45;&gt;VM</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-541.86C852,-537.37 852,-532.76 852,-528.27"/>
-</g>
-<!-- memory_&#45;&gt;MA -->
 <!-- D0 -->
 <!-- virt&#45;&gt;D0 -->
 <g id="edge58" class="edge">
 <title>virt&#45;&gt;D0</title>
-<path fill="none" stroke="#b2d3e4" stroke-width="5" d="M158.11,-492C170.52,-492 182.93,-492 195.35,-492"/>
-<polygon fill="#b2d3e4" stroke="#b2d3e4" stroke-width="5" points="195.66,-494.19 200.66,-492 195.66,-489.81 195.66,-494.19"/>
+<path fill="none" stroke="#b2d3e4" stroke-width="5" d="M158.48,-537.5C170.79,-537.5 183.11,-537.5 195.42,-537.5"/>
+<polygon fill="#b2d3e4" stroke="#b2d3e4" stroke-width="5" points="190.62,-539.69 195.62,-537.5 190.62,-535.31 190.62,-539.69"/>
 </g>
 <!-- bridges -->
-<g id="node52" class="node">
+<g id="node55" class="node">
 <title>bridges</title>
-<g id="a_node52"><a xlink:href="https://en.wikipedia.org/wiki/Bridge_pattern" xlink:title="bridges between uniform virtual interfaces and various implementations">
-<polygon fill="#91b5c9" stroke="black" stroke-width="0" points="158,-391.09 158,-420.91 111.72,-442 46.28,-442 0,-420.91 0,-391.09 46.28,-370 111.72,-370 158,-391.09"/>
-<text text-anchor="middle" x="79" y="-399.8" font-family="Ubuntu" font-size="24.00">bridges</text>
+<g id="a_node55"><a xlink:href="https://en.wikipedia.org/wiki/Bridge_pattern" xlink:title="bridges between uniform virtual interfaces and various implementations">
+<polygon fill="#91b5c9" stroke="black" stroke-width="0" points="158.4,-434.84 158.4,-464.66 112.01,-485.75 46.39,-485.75 0,-464.66 0,-434.84 46.39,-413.75 112.01,-413.75 158.4,-434.84"/>
+<text text-anchor="middle" x="79.2" y="-443.82" font-family="Ubuntu" font-size="24.00">bridges</text>
 </a>
 </g>
 </g>
 <!-- virt&#45;&gt;bridges -->
 <g id="edge59" class="edge">
 <title>virt&#45;&gt;bridges</title>
-<path fill="none" stroke="#b2d3e4" stroke-width="5" d="M79,-455.86C79,-451.37 79,-446.76 79,-442.27"/>
-</g>
-<!-- VM&#45;&gt;mmap -->
-<g id="edge53" class="edge">
-<title>VM&#45;&gt;mmap</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-455.86C852,-448.94 852,-441.76 852,-435.11"/>
+<path fill="none" stroke="#b2d3e4" stroke-width="5" d="M79.2,-499.64C79.2,-495.19 79.2,-490.65 79.2,-486.22"/>
 </g>
 <!-- E0 -->
 <!-- bridges&#45;&gt;E0 -->
 <g id="edge60" class="edge">
 <title>bridges&#45;&gt;E0</title>
-<path fill="none" stroke="#91b5c9" stroke-width="6" d="M158.11,-406C170.52,-406 182.93,-406 195.35,-406"/>
-<polygon fill="#91b5c9" stroke="#91b5c9" stroke-width="6" points="195.66,-408.63 200.66,-406 195.66,-403.38 195.66,-408.63"/>
+<path fill="none" stroke="#91b5c9" stroke-width="6" d="M158.48,-449.75C170.79,-449.75 183.11,-449.75 195.42,-449.75"/>
+<polygon fill="#91b5c9" stroke="#91b5c9" stroke-width="6" points="190.4,-452.38 195.4,-449.75 190.4,-447.13 190.4,-452.38"/>
 </g>
 <!-- logical -->
-<g id="node55" class="node">
+<g id="node58" class="node">
 <title>logical</title>
-<polygon fill="#6a9ab1" stroke="black" stroke-width="0" points="158,-344 0,-344 0,-272 158,-272 158,-344"/>
-<text text-anchor="middle" x="79" y="-301.8" font-family="Ubuntu" font-size="24.00">logical</text>
+<polygon fill="#6a9ab1" stroke="black" stroke-width="0" points="158.4,-376.25 0,-376.25 0,-304.25 158.4,-304.25 158.4,-376.25"/>
+<text text-anchor="middle" x="79.2" y="-334.32" font-family="Ubuntu" font-size="24.00">logical</text>
 </g>
 <!-- bridges&#45;&gt;logical -->
 <g id="edge61" class="edge">
 <title>bridges&#45;&gt;logical</title>
-<path fill="none" stroke="#91b5c9" stroke-width="6" d="M79,-369.8C79,-361.45 79,-352.55 79,-344.2"/>
+<path fill="none" stroke="#91b5c9" stroke-width="6" d="M79.2,-413.25C79.2,-401.51 79.2,-388.45 79.2,-376.71"/>
 </g>
 <!-- F0 -->
 <!-- logical&#45;&gt;F0 -->
 <g id="edge62" class="edge">
 <title>logical&#45;&gt;F0</title>
-<path fill="none" stroke="#6a9ab1" stroke-width="6" d="M158.11,-308C170.52,-308 182.93,-308 195.35,-308"/>
-<polygon fill="#6a9ab1" stroke="#6a9ab1" stroke-width="6" points="195.66,-310.63 200.66,-308 195.66,-305.38 195.66,-310.63"/>
+<path fill="none" stroke="#6a9ab1" stroke-width="6" d="M158.48,-340.25C170.79,-340.25 183.11,-340.25 195.42,-340.25"/>
+<polygon fill="#6a9ab1" stroke="#6a9ab1" stroke-width="6" points="190.4,-342.88 195.4,-340.25 190.4,-337.63 190.4,-342.88"/>
 </g>
 <!-- HWI -->
-<g id="node57" class="node">
+<g id="node59" class="node">
 <title>HWI</title>
-<polygon fill="#71809b" stroke="black" stroke-width="0" points="158,-245 0,-245 0,-173 158,-173 158,-245"/>
-<text text-anchor="middle" x="79" y="-215.8" font-family="Ubuntu" font-size="24.00">hardware</text>
-<text text-anchor="middle" x="79" y="-189.8" font-family="Ubuntu" font-size="24.00">interfaces</text>
+<polygon fill="#71809b" stroke="black" stroke-width="0" points="158.4,-258.88 0,-258.88 0,-183.38 158.4,-183.38 158.4,-258.88"/>
+<text text-anchor="middle" x="79.2" y="-232.07" font-family="Ubuntu" font-size="24.00">hardware</text>
+<text text-anchor="middle" x="79.2" y="-198.32" font-family="Ubuntu" font-size="24.00">interfaces</text>
 </g>
 <!-- logical&#45;&gt;HWI -->
 <g id="edge63" class="edge">
 <title>logical&#45;&gt;HWI</title>
-<path fill="none" stroke="#6a9ab1" stroke-width="6" d="M79,-271.98C79,-263.3 79,-253.99 79,-245.29"/>
-</g>
-<!-- log_mem&#45;&gt;PA -->
-<g id="edge47" class="edge">
-<title>log_mem&#45;&gt;PA</title>
-<path fill="none" stroke="#51bf5b" stroke-width="5" d="M852,-271.98C852,-263.3 852,-253.99 852,-245.29"/>
+<path fill="none" stroke="#6a9ab1" stroke-width="6" d="M79.2,-303.79C79.2,-289.65 79.2,-273.37 79.2,-259.09"/>
 </g>
 <!-- G0 -->
 <!-- HWI&#45;&gt;G0 -->
 <g id="edge64" class="edge">
 <title>HWI&#45;&gt;G0</title>
-<path fill="none" stroke="#71809b" stroke-width="6" d="M158.11,-209C170.52,-209 182.93,-209 195.35,-209"/>
-<polygon fill="#71809b" stroke="#71809b" stroke-width="6" points="195.66,-211.63 200.66,-209 195.66,-206.38 195.66,-211.63"/>
+<path fill="none" stroke="#71809b" stroke-width="6" d="M158.48,-221.12C170.79,-221.12 183.11,-221.12 195.42,-221.12"/>
+<polygon fill="#71809b" stroke="#71809b" stroke-width="6" points="190.4,-223.75 195.4,-221.13 190.4,-218.5 190.4,-223.75"/>
 </g>
 <!-- HW -->
-<g id="node59" class="node">
+<g id="node61" class="node">
 <title>HW</title>
-<polygon fill="#777777" stroke="black" stroke-width="0" points="158,-158 0,-158 0,-86 158,-86 158,-158"/>
-<text text-anchor="middle" x="79" y="-128.8" font-family="Ubuntu" font-size="24.00" fill="white">electronics,</text>
-<text text-anchor="middle" x="79" y="-102.8" font-family="Ubuntu" font-size="24.00" fill="white">hardware</text>
+<polygon fill="#777777" stroke="black" stroke-width="0" points="158.4,-161.5 0,-161.5 0,-86 158.4,-86 158.4,-161.5"/>
+<text text-anchor="middle" x="79.2" y="-134.7" font-family="Ubuntu" font-size="24.00" fill="white">electronics,</text>
+<text text-anchor="middle" x="79.2" y="-100.95" font-family="Ubuntu" font-size="24.00" fill="white">hardware</text>
 </g>
 <!-- HWI&#45;&gt;HW -->
 <g id="edge65" class="edge">
 <title>HWI&#45;&gt;HW</title>
-<path fill="none" stroke="#71809b" stroke-width="6" d="M79,-172.94C79,-168.09 79,-163.11 79,-158.26"/>
+<path fill="none" stroke="#71809b" stroke-width="6" d="M79.2,-182.98C79.2,-176.07 79.2,-168.86 79.2,-161.95"/>
 </g>
 <!-- H0 -->
 <!-- HW&#45;&gt;H0 -->
 <g id="edge66" class="edge">
 <title>HW&#45;&gt;H0</title>
-<path fill="none" stroke="#777777" stroke-width="6" d="M158.11,-122C170.52,-122 182.93,-122 195.35,-122"/>
-<polygon fill="#777777" stroke="#777777" stroke-width="6" points="195.66,-124.63 200.66,-122 195.66,-119.38 195.66,-124.63"/>
-</g>
-<!-- SW&#45;&gt;block -->
-<g id="edge49" class="edge">
-<title>SW&#45;&gt;block</title>
-<path fill="none" stroke="#8383cc" stroke-width="5" d="M1029.97,-289.66C1053.66,-277.56 1086.15,-260.98 1115.34,-246.07"/>
+<path fill="none" stroke="#777777" stroke-width="6" d="M158.48,-123.75C170.79,-123.75 183.11,-123.75 195.42,-123.75"/>
+<polygon fill="#777777" stroke="#777777" stroke-width="6" points="190.4,-126.38 195.4,-123.75 190.4,-121.13 190.4,-126.38"/>
 </g>
 <!-- layers&#45;&gt;usr -->
 <g id="edge67" class="edge">
 <title>layers&#45;&gt;usr</title>
-<path fill="none" stroke="gray" d="M79,-627.93C79,-625.3 79,-622.47 79,-619.56"/>
-<polygon fill="gray" stroke="gray" points="80.75,-619.22 79,-614.22 77.25,-619.22 80.75,-619.22"/>
+<path fill="none" stroke="gray" d="M79.2,-674.83C79.2,-672.6 79.2,-670.27 79.2,-667.89"/>
+<polygon fill="gray" stroke="gray" points="80.95,-668.03 79.2,-663.03 77.45,-668.03 80.95,-668.03"/>
 </g>
 <!-- LKD -->
 <g id="node65" class="node">
 <title>LKD</title>
-<text text-anchor="middle" x="672" y="-745" font-family="Ubuntu" font-size="40.00">Linux kernel diagram</text>
+<text text-anchor="middle" x="681.2" y="-805.7" font-family="Ubuntu" font-size="40.00">Linux kernel diagram</text>
 </g>
 <!-- LKD&#45;&gt;processing -->
 </g>
