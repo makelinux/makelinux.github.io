@@ -41,7 +41,7 @@ elem = document.getElementById('LKM')
 	      <br>
 	      <a href="referers">referers</a><br>
 	      <a href="http://makelinux.wordpress.com/2010/12/20/comments-on-interactive-linux-kernel-map/"><img border="0" height="16" width="16" src="/common/pencil.png"> comments<br></a>
-	      <a target="_top" href="http://www.makelinux.net/resources">more ...</a><br>
+	      <a target="_top" href="https://makelinux.github.io/">more ...</a><br>
 						</nobr>
 					</small>
 				</td>
