@@ -34,7 +34,7 @@ elem = document.getElementById('LKM')
 					<small>
 						<nobr>
 						<a href="intro">About</a><br>
-						<a href="http://www.makelinux.net/ldd3/chp-1-sect-2.shtml">Splitting the Kernel</a><br>
+						<a href="https://www.oreilly.com/library/view/linux-device-drivers/0596000081/ch01s02.html">Splitting the Kernel</a><br>
 		 <br>
 	      <iframe src="https://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInteractive-Linux-Kernel-Map%2F115958886534&amp;width=100&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;height=100" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:100px;" allowTransparency="true"></iframe>
 
