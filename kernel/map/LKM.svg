@@ -2925,18 +2925,11 @@
          inkscape:connection-end="#text2110" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 2020.7176,682.04462 L 2030.5133,692.8271"
+         d="M 2013.9363,682.7295 L 2014.0054,699.93149"
          id="path3782"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3705"
          inkscape:connection-end="#text3774" />
-      <path
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 2010.5617,682.04462 L 1987.9504,713.44822"
-         id="path3778"
-         inkscape:connector-type="polyline"
-         inkscape:connection-start="#text3705"
-         inkscape:connection-end="#text3770" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
          d="M 2015.1941,751.81006 L 2015.2165,762.59251"
@@ -9912,7 +9905,7 @@
       <a
          target="2"
          id="text3705"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sock_sendpage">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/splice_to_socket">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
@@ -9922,7 +9915,7 @@
              sodipodi:role="line"
              id="tspan3707"
              x="2015.1155"
-             y="679.1734">sock_sendpage</tspan></text>
+             y="679.1734">splice_to_socket</tspan></text>
       </a>
       <a
          target="2"
@@ -10231,27 +10224,12 @@
       </a>
       <a
          target="2"
-         id="text3770"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/udp_sendpage">
-        <text
-           xml:space="preserve"
-           style="font-size:11.52412796px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
-           x="2266.74"
-           y="632.65405"
-           id="text9389"
-           transform="scale(0.8749801,1.1428832)"><tspan
-             sodipodi:role="line"
-             id="tspan3772"
-             x="2266.74"
-             y="632.65405">udp_sendpage</tspan></text>
-      </a>
-      <a
-         target="2"
          id="text3774"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/tcp_sendpage">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sock_sendmsg"
+         transform="translate(-21.461112,8)">
         <text
            xml:space="preserve"
-           style="font-size:11.28654671px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:11.28654671px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Helvetica, Arial, sans-serif'"
            x="2376.2676"
            y="601.94019"
            id="text9393"
@@ -10259,7 +10237,7 @@
              sodipodi:role="line"
              id="tspan3776"
              x="2376.2676"
-             y="601.94019">tcp_sendpage</tspan></text>
+             y="601.94019">sock_sendmsg</tspan></text>
       </a>
       <a
          target="2"
