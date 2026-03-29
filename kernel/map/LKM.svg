@@ -2179,21 +2179,21 @@
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
          d="M 1553.7706,681.56725 L 1540.9375,1033.639"
-         id="path50001"
+         id="do_writepages-submit_bio"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3486"
          inkscape:connection-end="#submit_bio" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
          d="M 1574.33,1037.2411 L 1561.1681,1038.5451"
-         id="path50002"
+         id="submit_bio-block_devices"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#submit_bio"
          inkscape:connection-end="#text2614" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
          d="M 1540.6847,1047.51 L 1540.6847,1359.938"
-         id="path50003"
+         id="submit_bio-nvme_queue_rq"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#nvme_queue_rq"
          inkscape:connection-start="#submit_bio" />
