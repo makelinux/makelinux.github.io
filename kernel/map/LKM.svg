@@ -2135,28 +2135,28 @@
          inkscape:connection-end="#text6006" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 2047.2726,1089.0457 L 1946.6972,1370.9377"
+         d="M 2046.1872,1089.7042 L 1947.8758,1369.5416"
          id="path6490"
          inkscape:connector-type="polyline"
          inkscape:connection-end="#text3719"
          inkscape:connection-start="#text6006" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 2034.611,1219.2337 L 2034.611,1339.848"
+         d="M 2034.7946,1221.8415 L 2035.398,1338.9524"
          id="path18109"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text6054"
          inkscape:connection-end="#text6462" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 2034.6111,1367.7876 L 2034.6111,1524.8346"
+         d="M 2035.4868,1353.0056 L 2036.7745,1524.8346"
          id="path3360"
          inkscape:connector-type="polyline"
-         inkscape:connection-start="#text6478"
-         inkscape:connection-end="#text2126" />
+         inkscape:connection-end="#text2126"
+         inkscape:connection-start="#text6462" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1883.3472,1524.0405 L 1883.3472,1409.7707"
+         d="M 1883.4895,1523.4873 L 1883.4836,1410.8902"
          id="path3363"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text2110"
@@ -2828,7 +2828,7 @@
          inkscape:connection-end="#text9248" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1883.3472,1397.8512 L 1883.3472,1095.0069"
+         d="M 1883.5089,1397.2453 L 1884.6434,1096.1264"
          id="path3727"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3723"
@@ -2919,7 +2919,7 @@
          inkscape:connection-end="#text5258" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1"
-         d="M 1942.1568,1382.8967 L 1885.3406,1524.0405"
+         d="M 1942.4175,1384.0163 L 1886.2279,1523.4873"
          id="path14960"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3719"
@@ -6103,7 +6103,7 @@
          id="text6462"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_pci_probe">
         <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text8269"
            x="416.22296"
            y="26.143829">
@@ -6111,23 +6111,7 @@
              x="2034.4637"
              y="1349.4495"
              id="tspan6464"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica,Arial,sans-serif;">iwl_pci_probe</tspan>
-        </text>
-      </a>
-      <a
-         target="2"
-         id="text6478"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_pci_probe">
-        <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
-           id="text8273"
-           x="387.28598"
-           y="18.24139">
-          <tspan
-             x="1992.8669"
-             y="1364.9164"
-             id="tspan6480"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Helvetica,Arial,sans-serif;">iwl_pci_probe</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Helvetica, Arial, sans-serif'">iwl_pci_probe</tspan>
         </text>
       </a>
       <a
@@ -9962,10 +9946,10 @@
       <a
          target="2"
          id="text3719"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/e1000_xmit_frame">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ice_xmit_frame">
         <text
            xml:space="preserve"
-           style="font-size:11.8374176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:11.8374176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Helvetica, Arial, sans-serif'"
            x="2163.6123"
            y="1240.8185"
            id="text9329"
@@ -9973,23 +9957,23 @@
              sodipodi:role="line"
              id="tspan3721"
              x="2163.6123"
-             y="1240.8185">e1000_xmit_frame</tspan></text>
+             y="1240.8185">ice_xmit_frame</tspan></text>
       </a>
       <a
          target="2"
          id="text3723"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/e1000_intr"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ice_misc_intr"
          transform="translate(10.639488,0)">
         <text
            xml:space="preserve"
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Helvetica, Arial, sans-serif'"
            x="1872.5298"
            y="1407.4526"
            id="text9333"><tspan
              sodipodi:role="line"
              id="tspan3725"
              x="1872.5298"
-             y="1407.4526">e1000_intr</tspan></text>
+             y="1407.4526">ice_misc_intr</tspan></text>
       </a>
       <a
          target="2"
