@@ -6824,7 +6824,7 @@
          target="2"
          id="text7676"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/security_inode_create"
-         transform="translate(-52,0)">
+         transform="matrix(0.8058013,0,0,1,9.3180484,0)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text8461"
@@ -10530,6 +10530,38 @@
              id="nvme_queue_rq_tspan"
              x="1718"
              y="1360">nvme_queue_rq</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="xfs_file_operations"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/xfs_file_operations"
+         transform="matrix(0.8903988,0,0,1,87.674898,170)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="1850"
+           y="760"
+           id="xfs_file_operations_text"><tspan
+             sodipodi:role="line"
+             id="xfs_file_operations_tspan"
+             x="1850"
+             y="760">xfs_file_operations</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="do_seccomp"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_seccomp"
+         transform="matrix(0.9485635,0,0,1,25.633769,0)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="438"
+           y="504"
+           id="do_seccomp_text"><tspan
+             sodipodi:role="line"
+             id="do_seccomp_tspan"
+             x="438"
+             y="504">do_seccomp</tspan></text>
       </a>
       <a
          target="2"
