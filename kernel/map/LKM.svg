@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -369,15 +370,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48395062"
-     inkscape:cx="1080"
-     inkscape:cy="810"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="2.7376381"
+     inkscape:cx="1968.1463"
+     inkscape:cy="953.92173"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="958"
      inkscape:window-x="0"
-     inkscape:window-y="32"
+     inkscape:window-y="40"
      showgrid="false"
      gridtolerance="5"
      showguides="true"
@@ -6113,7 +6114,7 @@
       <a
          target="2"
          id="text6478"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/zd1201_probe">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_pci_probe">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
            id="text8273"
@@ -6123,7 +6124,7 @@
              x="1992.8669"
              y="1364.9164"
              id="tspan6480"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Helvetica,Arial,sans-serif;">zd1201_probe</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:Helvetica,Arial,sans-serif;">iwl_pci_probe</tspan>
         </text>
       </a>
       <a
