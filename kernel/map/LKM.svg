@@ -6774,7 +6774,7 @@
       <a
          target="2"
          id="text7628"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/selinux_ops"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/selinux_init"
          transform="translate(-76,-2)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
@@ -6785,7 +6785,7 @@
              x="347.38553"
              y="544.2027"
              id="tspan7630"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">selinux_ops</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">selinux_init</tspan>
         </text>
       </a>
       <a
