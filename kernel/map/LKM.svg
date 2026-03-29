@@ -370,10 +370,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7376381"
-     inkscape:cx="1109.5978"
-     inkscape:cy="421.94726"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="2.5071737"
+     inkscape:cx="1860.8475"
+     inkscape:cy="1351.3919"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
      inkscape:window-width="1920"
      inkscape:window-height="958"
@@ -9751,10 +9751,11 @@
       <a
          target="2"
          id="text3735"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/rt_cache_seq_show">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/fib_trie_seq_show"
+         transform="translate(-4,0)">
         <text
            xml:space="preserve"
-           style="font-size:11.05160999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:11.05160999px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Helvetica, Arial, sans-serif'"
            x="2431.8403"
            y="259.64893"
            id="text9277"
@@ -9762,7 +9763,7 @@
              sodipodi:role="line"
              id="tspan3737"
              x="2431.8403"
-             y="259.64893">rt_cache_seq_show</tspan></text>
+             y="259.64893">fib_trie_seq_show</tspan></text>
       </a>
       <a
          target="2"
