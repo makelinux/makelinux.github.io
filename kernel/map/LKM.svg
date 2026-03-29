@@ -2702,7 +2702,7 @@
          inkscape:connection-end="#text8364" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1057.0926,399.00536 L 1043.4564,436.21132"
+         d="M 1052.7798,401.69024 L 1043.2113,435.31571"
          id="path4479"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text7784"
@@ -5600,7 +5600,7 @@
       <a
          target="2"
          id="text5698"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/setup_timer">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/timer_setup">
         <text
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
            id="text8140"
@@ -5610,7 +5610,7 @@
              x="921.37732"
              y="949.64062"
              id="tspan5700"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">setup_timer</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">timer_setup</tspan>
         </text>
       </a>
       <a
@@ -6907,10 +6907,10 @@
       <a
          target="2"
          id="text7784"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/create_workqueue"
-         transform="translate(-4,4)">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/alloc_workqueue"
+         transform="matrix(1.2557012,0,0,1,-277.24252,6)">
         <text
-           style="font-size:9.83839226px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:9.83839226px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text8483"
            x="848.39526"
            y="-35.625198"
@@ -6919,7 +6919,7 @@
              x="1383.2333"
              y="292.91989"
              id="tspan7786"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">create_workqueue</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica, Arial, sans-serif'">alloc_workqueue</tspan>
         </text>
       </a>
       <a
@@ -9588,23 +9588,6 @@
              x="1414.1266"
              y="1115.321"
              style="font-size:12.03792095px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">totalram_pages</tspan></text>
-      </a>
-      <a
-         target="2"
-         id="text3668"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/num_physpages">
-        <text
-           xml:space="preserve"
-           style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
-           x="1303.2076"
-           y="1429.355"
-           id="text9220"
-           sodipodi:linespacing="100%"><tspan
-             sodipodi:role="line"
-             id="tspan3670"
-             x="1303.2076"
-             y="1429.355"
-             style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">num_physpages</tspan></text>
       </a>
       <g
          id="g6283"
