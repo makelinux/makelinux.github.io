@@ -3126,13 +3126,6 @@
          inkscape:connector-type="polyline"
          inkscape:connection-end="#a14424"
          inkscape:connection-start="#nvme_queue_rq" />
-      <path
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1538.2924,1318.2125 L 1533.3197,1314.6643"
-         id="path4268"
-         inkscape:connector-type="polyline"
-         inkscape:connection-end="#a4261"
-         inkscape:connection-start="#a14398" />
     </g>
     <g
        inkscape:groupmode="layer"
