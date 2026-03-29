@@ -9973,7 +9973,7 @@
       <a
          target="2"
          id="text3719"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ice_xmit_frame">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ice_start_xmit">
         <text
            xml:space="preserve"
            style="font-size:11.8374176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica"
@@ -9984,7 +9984,7 @@
              sodipodi:role="line"
              id="tspan3721"
              x="2163.6123"
-             y="1240.8185">ice_xmit_frame</tspan></text>
+             y="1240.8185">ice_start_xmit</tspan></text>
       </a>
       <a
          target="2"
