@@ -1770,7 +1770,7 @@
          inkscape:connection-start="#text6722" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1069.6397,1382.6194 L 958.16532,1204.6252"
+         d="M 1068.1087,1381.7975 L 940.44379,1221.5191"
          id="path6565"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3286"
@@ -1805,21 +1805,21 @@
          inkscape:connection-end="#text20474" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 930.81635,1191.5404 L 927.15991,1179.7473"
+         d="M 931.90123,1204.6553 L 926.62873,1180.3136"
          id="path20486"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3406"
          inkscape:connection-end="#text4078" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 959.74299,1199.3357 L 978.49506,1199.7215"
+         d="M 972.44477,1204.6553 L 976.49506,1203.7733"
          id="path20492"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3406"
          inkscape:connection-end="#text5658" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1002.9067,1145.9524 L 1005.0219,1193.5765"
+         d="M 1001.8582,1146.5187 L 1001.8797,1191.3757"
          id="path20494"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4222"
@@ -4319,9 +4319,10 @@
       <a
          target="2"
          id="text3406"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_IRQ">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/common_interrupt"
+         transform="translate(2,14)">
         <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text7814"
            x="337.7468"
            y="13.170812">
@@ -4329,7 +4330,7 @@
              x="933.13696"
              y="1203.2518"
              id="tspan3408"
-             style="font-size:15.80487823px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica,Arial,sans-serif;">do_IRQ</tspan>
+             style="font-size:15.80487823px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:'Helvetica, Arial, sans-serif'">common_interrupt</tspan>
         </text>
       </a>
       <a
@@ -5582,9 +5583,10 @@
       <a
          target="2"
          id="text5658"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/irq_desc">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/irq_desc"
+         transform="translate(-2,-2)">
         <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text8136"
            x="314.00385"
            y="13.170812">
@@ -5592,7 +5594,7 @@
              x="977.62579"
              y="1203.583"
              id="tspan5660"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">irq_desc</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica, Arial, sans-serif'">irq_desc</tspan>
         </text>
       </a>
       <a
@@ -9286,10 +9288,11 @@
       <a
          target="2"
          id="text3638"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/softirq_init">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/softirq_init"
+         transform="translate(4,14)">
         <text
            xml:space="preserve"
-           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:'Helvetica, Arial, sans-serif'"
            x="1015.9956"
            y="1219.0361"
            id="text9144"><tspan
