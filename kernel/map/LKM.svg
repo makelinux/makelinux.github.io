@@ -4416,7 +4416,7 @@
       <a
          target="2"
          id="text3554"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_page_fault">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/exc_page_fault">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
            id="text7842"
@@ -4426,7 +4426,7 @@
              x="1373.4054"
              y="1425.9285"
              id="tspan3556"
-             style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">do_page_fault</tspan>
+             style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">exc_page_fault</tspan>
         </text>
       </a>
       <a
@@ -10199,7 +10199,7 @@
       <a
          target="2"
          id="text3665"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/early_trap_init">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/idt_setup_early_traps">
         <text
            xml:space="preserve"
            style="font-size:10.53658581px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica,Arial,sans-serif;"
@@ -10210,7 +10210,7 @@
              sodipodi:role="line"
              id="tspan3667"
              x="976.4389"
-             y="1303.8295">early_trap_init</tspan></text>
+             y="1303.8295">idt_setup_early_traps</tspan></text>
       </a>
       <a
          target="2"
