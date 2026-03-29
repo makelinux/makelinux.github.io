@@ -6098,7 +6098,7 @@
       <a
          target="2"
          id="text6462"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/ipw2100_pci_init_one">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_pci_probe">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
            id="text8269"
@@ -6108,7 +6108,7 @@
              x="2034.4637"
              y="1349.4495"
              id="tspan6464"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica,Arial,sans-serif;">ipw2100_pci_init_one</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica,Arial,sans-serif;">iwl_pci_probe</tspan>
         </text>
       </a>
       <a
