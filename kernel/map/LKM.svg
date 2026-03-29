@@ -371,9 +371,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7376381"
-     inkscape:cx="1968.1463"
-     inkscape:cy="953.92173"
-     inkscape:current-layer="layer1"
+     inkscape:cx="1109.5978"
+     inkscape:cy="421.94726"
+     inkscape:current-layer="layer3"
      inkscape:document-units="px"
      inkscape:window-width="1920"
      inkscape:window-height="958"
@@ -2975,7 +2975,7 @@
          inkscape:connection-end="#text8122" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 911.97619,1360.1936 L 648.75809,189.13735"
+         d="M 934.99198,1362.8482 L 648.70244,190.9275"
          id="path3618"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text6814"
@@ -6309,9 +6309,10 @@
       <a
          target="2"
          id="text6814"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/system_call">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/entry_SYSCALL_64"
+         transform="translate(0,6)">
         <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text8327"
            x="294.08713"
            y="42.146423">
@@ -6319,7 +6320,7 @@
              x="879.39343"
              y="1369.795"
              id="tspan6816"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">system_call</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica, Arial, sans-serif'">entry_SYSCALL_64</tspan>
         </text>
       </a>
       <a
