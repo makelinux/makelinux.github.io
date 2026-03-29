@@ -412,7 +412,7 @@
         <dc:description />
         <dc:rights>
           <cc:Agent>
-            <dc:title>© 2007–2022 Constantine Shulyupin </dc:title>
+            <dc:title>© 2007–2026 Constantine Shulyupin</dc:title>
           </cc:Agent>
         </dc:rights>
         <dc:source>www.MakeLinux.net/kernel/map</dc:source>
@@ -1053,8 +1053,8 @@
         <tspan
            x="1007.8545"
            y="24.718868"
-           id="tspan6249"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;font-family:Helvetica,Arial,sans-serif;">5.1</tspan>
+           id="kernel_release"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#a4a4a4;fill-opacity:1;font-family:Helvetica,Arial,sans-serif;">7.0</tspan>
       </text>
       <a
          id="a3726"
