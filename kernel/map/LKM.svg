@@ -6127,7 +6127,7 @@
       <a
          target="2"
          id="text6462"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_pci_probe">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/iwl_mvm_mac_tx">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text8269"
@@ -6137,7 +6137,7 @@
              x="2034.4637"
              y="1349.4495"
              id="tspan6464"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">iwl_pci_probe</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">iwl_mvm_mac_tx</tspan>
         </text>
       </a>
       <a
