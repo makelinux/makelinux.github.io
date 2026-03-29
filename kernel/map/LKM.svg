@@ -10473,6 +10473,22 @@
         </text>
       </a>
       <a
+         target="2"
+         id="text40010"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_bpf"
+         transform="translate(-36,2)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="446.62363"
+           y="709.6535"
+           id="text40011"><tspan
+             sodipodi:role="line"
+             id="tspan40012"
+             x="446.62363"
+             y="709.6535">__sys_bpf</tspan></text>
+      </a>
+      <a
          style="opacity:1;display:inline"
          target="2"
          id="a12674"
