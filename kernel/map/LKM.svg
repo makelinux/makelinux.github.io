@@ -1553,7 +1553,7 @@
          inkscape:connection-end="#text2078" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1642.854,1420.5729 L 1643.0287,1525.434"
+         d="M 1642.1938,1422.9568 L 1641.7636,1522.2467"
          id="path3369"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text5162"
@@ -1819,14 +1819,14 @@
          inkscape:connection-end="#text5658" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1001.8582,1146.5187 L 1001.8797,1191.3757"
+         d="M 1003.0148,1146.5187 L 1002.0333,1191.3757"
          id="path20494"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text4222"
          inkscape:connection-end="#text5658" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1002.6298,1062.5761 L 1002.6298,1133.4797"
+         d="M 1003.3167,1063.1424 L 1003.1786,1132.7948"
          id="path20510"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text20506"
@@ -2219,7 +2219,7 @@
          inkscape:connection-end="#text8232" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1643.0359,1385.477 L 1642.8833,1408.6534"
+         d="M 1641.9267,1386.715 L 1642.1488,1408.1002"
          id="path3534"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text7752"
@@ -4871,9 +4871,10 @@
       <a
          target="2"
          id="text4222"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/setup_irq">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/__setup_irq"
+         transform="translate(-5.9336736,0)">
         <text
-           style="font-size:12.30949402px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:12.30949402px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text7958"
            x="452.60199"
            y="12.309584"
@@ -4882,7 +4883,7 @@
              x="1047.7893"
              y="1068.3347"
              id="tspan4224"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Helvetica,Arial,sans-serif;">setup_irq</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:'Helvetica, Arial, sans-serif'">__setup_irq</tspan>
         </text>
       </a>
       <a
@@ -5340,10 +5341,10 @@
       <a
          target="2"
          id="text5162"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/aic94xx_init"
-         transform="translate(36,0)">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/megaraid_init"
+         transform="translate(30,0)">
         <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:'Helvetica, Arial, sans-serif'"
            id="text8072"
            x="390.67395"
            y="68.487885">
@@ -5351,7 +5352,7 @@
              x="1572.2896"
              y="1418.2549"
              id="tspan5164"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">aic94xx_init</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Helvetica, Arial, sans-serif'">megaraid_init</tspan>
         </text>
       </a>
       <a
@@ -7866,22 +7867,6 @@
              y="315.5105"
              id="tspan11740"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">mem_fops</tspan>
-        </text>
-      </a>
-      <a
-         target="2"
-         id="text11748"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/mmap_mem">
-        <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica,Arial,sans-serif;"
-           id="text8746"
-           x="149.89989"
-           y="199.18932">
-          <tspan
-             x="1325.8856"
-             y="331.27332"
-             id="tspan11750"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Helvetica,Arial,sans-serif;">mmap_mem</tspan>
         </text>
       </a>
       <a
