@@ -3149,10 +3149,17 @@
          inkscape:connection-end="#atomic_long_try_cmpxchg_release" />
       <path
          style="opacity:0.9;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 1093.5278,664.48347 L 1100.0113,668.3768"
+         d="M 1084.34,664.48347 L 1115.0634,750.3768"
          id="mutex_unlock-wake_q_add"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3560"
+         inkscape:connection-end="#wake_q_add" />
+      <path
+         style="opacity:0.9;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1091.3679,730.00584 L 1113.3765,750.3768"
+         id="path4304"
+         inkscape:connector-type="polyline"
+         inkscape:connection-start="#text3540"
          inkscape:connection-end="#wake_q_add" />
     </g>
     <g
@@ -7320,7 +7327,7 @@
          target="2"
          id="text8336"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/semaphore"
-         transform="translate(0,20)">
+         transform="translate(0,12)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text8593"
@@ -8882,7 +8889,7 @@
          target="2"
          id="text3540"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/up"
-         transform="translate(0,20)">
+         transform="translate(0,12)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text9020"
@@ -8931,7 +8938,7 @@
          target="2"
          id="wake_q_add"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/wake_q_add"
-         transform="matrix(0.3446323,0,0,0.3446323,711.05255,434.0482)">
+         transform="matrix(0.3446323,0,0,0.3446323,723.05255,516.0482)">
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
