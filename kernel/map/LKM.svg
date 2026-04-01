@@ -1353,29 +1353,6 @@
       <a
          style="opacity:1;display:inline"
          target="2"
-         id="a12614"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_from_user"
-         transform="translate(-27.783091,39.604266)">
-        <text
-           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
-           id="text12616"
-           x="357.14853"
-           y="0.0051448173">
-          <tspan
-             x="624.48157"
-             y="245.80875"
-             id="tspan12618"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">miscdevice</tspan>
-          <tspan
-             x="624.48157"
-             y="245.80875"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica"
-             id="tspan12620" />
-        </text>
-      </a>
-      <a
-         style="opacity:1;display:inline"
-         target="2"
          id="a14410"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/virtio_device"
          transform="translate(8.996209,-85.62458)">
@@ -1420,7 +1397,7 @@
          inkscape:connection-end="#text6310" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.65853661;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
-         d="M 599.07776,319.96623 L 599.07774,550.32548"
+         d="M 599.07841,332.25072 L 599.11308,549.71962"
          id="path3631"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3623"
@@ -3000,8 +2977,8 @@
          d="M 934.99198,1362.8482 L 648.70244,190.9275"
          id="path3618"
          inkscape:connector-type="polyline"
-         inkscape:connection-start="#text6814"
-         inkscape:connection-end="#text11700" />
+         inkscape:connection-end="#text11700"
+         inkscape:connection-start="#text6814" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
          d="M 921.74348,777.85389 L 947.47343,908.7656"
@@ -3053,14 +3030,14 @@
          inkscape:connection-end="#text3828" />
       <path
          style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1264.8998,226.15636 L 1480.6746,710.38646"
+         d="M 1318.9288,240.84124 L 1494.1557,708.99039"
          id="path3840"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3629"
          inkscape:connection-end="#text3834" />
       <path
-         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.31707323px;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline"
-         d="M 1257.6531,226.15636 L 1233.4254,260.14906"
+         style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.617;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M 1312.8832,240.84124 L 1306.5637,254.75297"
          id="path3838"
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3629"
@@ -3161,6 +3138,34 @@
          inkscape:connector-type="polyline"
          inkscape:connection-start="#text3540"
          inkscape:connection-end="#wake_q_add" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.117;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1229.6375,203.20229 L 1233.3414,215.91662"
+         id="copy_from_user-copy_user_generic"
+         inkscape:connector-type="polyline"
+         inkscape:connection-start="#text3030"
+         inkscape:connection-end="#copy_user_generic" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.117;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1227.0483,214.52872 L 1228.5072,215.91662"
+         id="copy_to_user-copy_user_generic"
+         inkscape:connector-type="polyline"
+         inkscape:connection-start="#copy_to_user"
+         inkscape:connection-end="#copy_user_generic" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.317;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1234.9756,228.641 L 1193.9255,1419.978"
+         id="copy_user_generic-stac"
+         inkscape:connector-type="polyline"
+         inkscape:connection-start="#copy_user_generic"
+         inkscape:connection-end="#stac" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.317;stroke-linecap:round;stroke-linejoin:miter;marker-end:url(#Arrow2Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         d="M 1234.9768,228.641 L 1193.9418,1426.2535"
+         id="copy_user_generic-clac"
+         inkscape:connector-type="polyline"
+         inkscape:connection-start="#copy_user_generic"
+         inkscape:connection-end="#clac" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -3307,7 +3312,7 @@
          id="text8176"
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Processing#Synchronization">
         <text
-           style="font-size:25.37776566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:25.37776566px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7639"
            x="528.25757"
            y="45.680038"
@@ -3316,7 +3321,7 @@
              x="1053.1184"
              y="596.95044"
              id="tspan8178"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica;">synchronization</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">synchronization</tspan>
         </text>
       </a>
       <a
@@ -3324,7 +3329,7 @@
          id="text2812"
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/System#Driver_Model">
         <text
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7643"
            x="402.72955"
            y="-11.158947">
@@ -3332,7 +3337,7 @@
              x="704.54645"
              y="408.05795"
              id="tspan2814"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica;">Driver Model</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">Driver Model</tspan>
         </text>
       </a>
       <a
@@ -3340,7 +3345,7 @@
          id="text8618"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/swap">
         <text
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7647"
            x="378.08643"
            y="1.6040576"
@@ -3349,7 +3354,7 @@
              x="1554.256"
              id="tspan8620"
              y="711.26575"
-             style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">swap</tspan>
+             style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">swap</tspan>
         </text>
       </a>
       <a
@@ -3358,7 +3363,7 @@
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Networking#Network_storage">
         <text
            xml:space="preserve"
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica"
            x="1797.8458"
            y="632.30011"
            id="text7651"
@@ -3378,7 +3383,7 @@
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Memory#Memory_mapping">
         <text
            xml:space="preserve"
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica"
            x="1317.2092"
            y="626.92682"
            id="text7656"
@@ -3397,7 +3402,7 @@
          id="text7580"
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Human_interfaces#Security">
         <text
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;visibility:visible;display:inline;font-family:Helvetica"
            id="text7661"
            x="-1465.2999"
            y="-44.665291">
@@ -3405,7 +3410,7 @@
              x="381.81476"
              y="411.79623"
              id="tspan7582"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Helvetica;">security</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Helvetica">security</tspan>
         </text>
       </a>
       <a
@@ -3413,7 +3418,7 @@
          id="text2986"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/bridges">
         <text
-           style="font-size:35.56097412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:35.56097412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7665"
            x="68.009491"
            y="-23.475922"
@@ -3422,7 +3427,7 @@
              x="131.30974"
              y="666.45966"
              id="tspan2988"
-             style="font-size:35.56097412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">bridges</tspan>
+             style="font-size:35.56097412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">bridges</tspan>
         </text>
       </a>
       <a
@@ -3430,7 +3435,7 @@
          id="text11606"
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Human_interfaces#Debugging">
         <text
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7669"
            x="-1464.6191"
            y="160.66167">
@@ -3438,7 +3443,7 @@
              x="382.49551"
              y="617.12244"
              id="tspan11608"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica;">debugging</tspan>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">debugging</tspan>
         </text>
       </a>
       <a
@@ -3446,7 +3451,7 @@
          id="text2226"
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Page_cache">
         <text
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7673"
            x="423.89005"
            y="25.024471"
@@ -3455,7 +3460,7 @@
              x="1553.7992"
              y="630.82965"
              id="tspan2228"
-             style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">page cache</tspan>
+             style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">page cache</tspan>
         </text>
       </a>
       <a
@@ -3464,7 +3469,7 @@
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Zero-copy">
         <text
            xml:space="preserve"
-           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica;"
+           style="font-size:26.34146309px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:Helvetica"
            x="2014.7489"
            y="632.19513"
            id="text7677"
@@ -3485,7 +3490,7 @@
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Zero-copy"
          transform="matrix(0.6658151,0,0,0.6658151,697.48588,-167.50188)">
         <text
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text4272"
            x="420.08643"
            y="-6.3959427"
@@ -3494,7 +3499,7 @@
              x="1596.256"
              id="tspan4274"
              y="703.26575"
-             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">zero-copy</tspan>
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">zero-copy</tspan>
         </text>
       </a>
       <a
@@ -3504,7 +3509,7 @@
          xlink:href="https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage#Vectored_I/O"
          transform="translate(46.880973,-501.83138)">
         <text
-           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text4278"
            x="751.13904"
            y="-5.685605"
@@ -3514,7 +3519,7 @@
              x="1796.6824"
              id="tspan4280"
              y="625.16052"
-             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">Vectored I/O</tspan>
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">Vectored I/O</tspan>
         </text>
       </a>
       <a
@@ -3525,7 +3530,7 @@
          transform="translate(45.344465,-456.70811)"
          xlink:title="Asynchronous I/O">
         <text
-           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text5090"
            x="751.13904"
            y="-5.685605"
@@ -3535,7 +3540,7 @@
              x="1796.6824"
              id="tspan5092"
              y="625.16052"
-             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">Async I/O</tspan>
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">Async I/O</tspan>
         </text>
       </a>
       <a
@@ -3546,7 +3551,7 @@
          transform="translate(142.58702,-513.1138)"
          xlink:title="Asynchronous I/O">
         <text
-           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica;"
+           style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text4279"
            x="751.13904"
            y="-5.685605"
@@ -3556,7 +3561,7 @@
              x="1796.6824"
              id="tspan4281"
              y="625.16052"
-             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica;">Non-blocking I/O</tspan>
+             style="font-size:10.66727161px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:Helvetica">Non-blocking I/O</tspan>
         </text>
       </a>
     </g>
@@ -4138,7 +4143,8 @@
       <a
          target="2"
          id="text3030"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_from_user">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_from_user"
+         transform="matrix(0.8481793,0,0,0.8481793,699.13969,-8.30381)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text7759"
@@ -4150,6 +4156,70 @@
              id="tspan3032"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">copy_from_user</tspan>
         </text>
+      </a>
+      <a
+         target="2"
+         id="copy_to_user"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_to_user"
+         transform="matrix(0.8481793,0,0,0.8481793,692.56577,-12.367726)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="624"
+           y="264"
+           id="copy_to_user_text"><tspan
+             sodipodi:role="line"
+             id="copy_to_user_tspan"
+             x="624"
+             y="264">copy_to_user</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="copy_user_generic"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_user_generic"
+         transform="matrix(0.8481793,0,0,0.8481793,706.06872,-16.17832)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="624"
+           y="284"
+           id="copy_user_generic_text"><tspan
+             sodipodi:role="line"
+             id="copy_user_generic_tspan"
+             x="624"
+             y="284">copy_user_generic</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="stac"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/stac"
+         transform="matrix(0.5229547,0,0,0.5229547,885.3637,1266.2685)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="590"
+           y="304"
+           id="stac_text"><tspan
+             sodipodi:role="line"
+             id="stac_tspan"
+             x="590"
+             y="304">stac</tspan></text>
+      </a>
+      <a
+         target="2"
+         id="clac"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/clac"
+         transform="matrix(0.5229547,0,0,0.5229547,849.80278,1272.544)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="658"
+           y="304"
+           id="clac_text"><tspan
+             sodipodi:role="line"
+             id="clac_tspan"
+             x="658"
+             y="304">clac</tspan></text>
       </a>
       <a
          xlink:href="https://makelinux.github.io/kernel/map/"
@@ -5994,7 +6064,8 @@
       <a
          target="2"
          id="text6214"
-         xlink:href="https://elixir.bootlin.com/linux/latest/source/include/linux/uaccess.h">
+         xlink:href="https://elixir.bootlin.com/linux/latest/source/include/linux/uaccess.h"
+         transform="translate(606.64026,-42)">
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text8225"
@@ -8799,7 +8870,8 @@
       <a
          target="2"
          id="text3629"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sysinfo">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/sys_sysinfo"
+         transform="translate(54,14)">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica"
@@ -9467,12 +9539,12 @@
          xml:space="preserve"
          style="font-size:7.90243912px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica"
          x="599.08307"
-         y="318.2435"
+         y="330.2435"
          id="text3623"><tspan
            sodipodi:role="line"
            id="tspan3625"
            x="599.08307"
-           y="318.2435">/sys/class/</tspan></text>
+           y="330.2435">/sys/class/</tspan></text>
       <a
          target="2"
          id="text3645"
@@ -10474,7 +10546,8 @@
       <a
          target="2"
          id="text3830"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/si_meminfo">
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/si_meminfo"
+         transform="translate(74,-4)">
         <text
            xml:space="preserve"
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:center;text-decoration:none;line-height:100%;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Helvetica"
@@ -10959,6 +11032,46 @@
              id="tspan3513"
              x="1503.121"
              y="248.49092">sys_flock</tspan></text>
+      </a>
+      <a
+         style="opacity:0.9;display:inline"
+         target="2"
+         id="smap_h"
+         xlink:href="https://elixir.bootlin.com/linux/latest/source/arch/x86/include/asm/smap.h"
+         transform="matrix(0.6709147,0,0,0.6709147,783.22974,1219.5009)">
+        <text
+           xml:space="preserve"
+           style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           x="624"
+           y="296"
+           id="smap_h_text"><tspan
+             sodipodi:role="line"
+             id="smap_h_tspan"
+             x="624"
+             y="296">smap.h</tspan></text>
+      </a>
+      <a
+         style="opacity:1;display:inline"
+         target="2"
+         id="a12614"
+         xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_from_user"
+         transform="translate(-27.783091,65.604266)">
+        <text
+           style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
+           id="text12616"
+           x="357.14853"
+           y="0.0051448173">
+          <tspan
+             x="624.48157"
+             y="245.80875"
+             id="tspan12618"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica">miscdevice</tspan>
+          <tspan
+             x="624.48157"
+             y="245.80875"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Helvetica"
+             id="tspan12620" />
+        </text>
       </a>
     </g>
   </g>

@@ -7,4 +7,5 @@ timer_setup, alloc_workqueue, __setup_irq, megaraid_init, fib_trie_seq_show
 , selinux_init, splice_to_socket, sock_sendmsg, iwl_pci_probe,
 mutex_lock, __mutex_trylock_common,
 atomic_long_try_cmpxchg_acquire, atomic_long_try_cmpxchg_release,
-wake_q_add
+wake_q_add,
+copy_to_user, copy_user_generic, smap.h, stac, clac
