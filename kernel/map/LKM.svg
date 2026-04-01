@@ -3416,7 +3416,8 @@
       <a
          target="2"
          id="text2986"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/bridges">
+         xlink:href="https://en.wikipedia.org/wiki/Bridge_pattern">
+        <title>Decouple abstraction from implementation so that the two can vary independently</title>
         <text
            style="font-size:35.56097412px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;visibility:visible;display:inline;font-family:Helvetica"
            id="text7665"
