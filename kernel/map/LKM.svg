@@ -10296,11 +10296,7 @@
              x="2507.7195"
              y="762.20044">ip_push_pending_frames</tspan></text>
       </a>
-      <a
-         target="2"
-         id="text3436"
-         xlink:href="https://elixir.bootlin.com/linux/latest/ident/functions">
-        <text
+      <text
            sodipodi:linespacing="100%"
            id="text9365"
            y="921.2702"
@@ -10310,12 +10306,11 @@
              y="921.2702"
              x="65.569153"
              sodipodi:role="line"
-             id="tspan3440">functions</tspan><tspan
+             id="tspan3440">function</tspan><tspan
              y="937.07507"
              x="65.569153"
              sodipodi:role="line"
              id="tspan3848">implementations</tspan></text>
-      </a>
       <text
          sodipodi:linespacing="100%"
          id="text3744"
