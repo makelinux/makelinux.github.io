@@ -4145,6 +4145,7 @@
          id="text3030"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_from_user"
          transform="matrix(0.8481793,0,0,0.8481793,699.13969,-8.30381)">
+        <title>Copy data from user space to kernel space</title>
         <text
            style="font-size:13.17073154px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
            id="text7759"
@@ -4162,6 +4163,7 @@
          id="copy_to_user"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_to_user"
          transform="matrix(0.8481793,0,0,0.8481793,692.56577,-12.367726)">
+        <title>Copy data from kernel space to user space</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -4178,6 +4180,7 @@
          id="copy_user_generic"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/copy_user_generic"
          transform="matrix(0.8481793,0,0,0.8481793,706.06872,-16.17832)">
+        <title>Low-level memory copy between user and kernel space using rep movsb</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -4194,6 +4197,7 @@
          id="stac"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/stac"
          transform="matrix(0.5229547,0,0,0.5229547,885.3637,1266.2685)">
+        <title>Set AC flag - enable supervisor access to user pages (SMAP)</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -4210,6 +4214,7 @@
          id="clac"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/clac"
          transform="matrix(0.5229547,0,0,0.5229547,849.80278,1272.544)">
+        <title>Clear AC flag - disable supervisor access to user pages (SMAP)</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -8995,6 +9000,7 @@
          id="atomic_long_try_cmpxchg_release"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/atomic_long_try_cmpxchg_release"
          transform="matrix(0.2477197,0,0,0.2477197,754.24,1260.8054)">
+        <title>Atomic compare and exchange with release ordering</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -9011,6 +9017,7 @@
          id="wake_q_add"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/wake_q_add"
          transform="matrix(0.3446323,0,0,0.3446323,723.05255,516.0482)">
+        <title>Queue a task for wakeup</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -9045,6 +9052,7 @@
          id="__mutex_trylock_common"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/__mutex_trylock_common"
          transform="matrix(0.2726452,0,0,0.3546657,785.84333,393.61288)">
+        <title>Try to acquire mutex lock</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -9061,6 +9069,7 @@
          id="atomic_long_try_cmpxchg_acquire"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/atomic_long_try_cmpxchg_acquire"
          transform="matrix(0.2467751,0,0,0.2456369,733.65639,1245.5473)">
+        <title>Atomic compare and exchange with acquire ordering</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -10683,6 +10692,7 @@
          id="submit_bio"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/submit_bio"
          transform="translate(-105.31764,34)">
+        <title>Submit I/O requests to block devices</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -10699,6 +10709,7 @@
          id="nvme_queue_rq"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/nvme_queue_rq"
          transform="matrix(0.8347631,0,0,1,106.48377,10)">
+        <title>NVMe block driver request queue handler</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -10715,6 +10726,7 @@
          id="xfs_file_operations"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/xfs_file_operations"
          transform="matrix(0.8903988,0,0,1,87.674898,170)">
+        <title>XFS filesystem file operations</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -10731,6 +10743,7 @@
          id="do_seccomp"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/do_seccomp"
          transform="matrix(0.9485635,0,0,1,25.633769,0)">
+        <title>Common entry point for both prctl and syscall</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -10747,6 +10760,7 @@
          id="__sys_bpf"
          xlink:href="https://elixir.bootlin.com/linux/latest/ident/__sys_bpf"
          transform="translate(-36,2)">
+        <title>BPF syscall - load and run eBPF programs</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;visibility:visible;font-family:Helvetica"
@@ -11039,6 +11053,7 @@
          id="smap_h"
          xlink:href="https://elixir.bootlin.com/linux/latest/source/arch/x86/include/asm/smap.h"
          transform="matrix(0.6709147,0,0,0.6709147,783.22974,1219.5009)">
+        <title>Supervisor Mode Access Prevention - protects user pages from kernel access</title>
         <text
            xml:space="preserve"
            style="font-size:13px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-anchor:middle;fill:#000000;visibility:visible;font-family:Helvetica"
