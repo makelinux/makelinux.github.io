@@ -2,3 +2,6 @@
 	path = docs
 	url = https://github.com/makelinux/docs.git
 	branch = main
+[submodule "kernel/map/linux_kernel_map"]
+	path = kernel/map/linux_kernel_map
+	url = git@github.com:makelinux/linux_kernel_map.git
